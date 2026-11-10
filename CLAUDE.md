@@ -73,7 +73,7 @@ Term2/typst/Lesson_N_Title.typ  refactored lesson (name matches the source PDF)
 Term2/typst/Lectures_Term2.typ  the whole term as one book — cover, preface, contents, 14 lessons, bibliography
 Term2/typst/references.bib      course bibliography
 Term2/typst/fig/                figures used by Term2 lessons
-figures/                        CorelDraw masters (Fig_N.cdr + Fig_N.png), numbered straight through the whole course, both terms
+figures/                        local, untracked CorelDraw masters and exports for both terms; not needed to build
 fonts/                          static Noto Serif faces — required for bold, see Build
 ```
 
@@ -126,7 +126,7 @@ Migration started on 2026-11-10. The initial local commit is `08c2058` and inclu
 - Keep the current Lesson 10: its newer wording is «на наборы-орбиты», versus «на такие наборы» in the mirror. The older file is preserved locally in `.migration/yandex-originals/` and excluded from Git.
 - The author confirmed that the main Lesson 9 is correct. The extra `Lesson_9_Group_Theory_for_Chemists (2).typ` draft adds no material to merge and inconsistently switches class-size notation from `g(c)` to `n_c`. Its unchanged copy is archived in `.migration/yandex-originals/` and excluded from Git; the book continues to include the main lesson.
 - `.migration/comparison.json` records the original inventories, timestamps, SHA-256 hashes, and differences. `.migration/` is local and ignored by Git.
-- Track only `CLAUDE.md`, `.gitignore`, `.gitattributes`, the figures and fonts directories, and each term's `typst/` sources, bibliography, compiled lesson/book PDFs, and figure directories. `.gitignore` allows only those paths. Original PDF exports and scans outside `typst/`, archives, old handouts, extra reference documents, helper scripts, collages, videos, local settings, installers, and migration backups remain local and must not be added to Git. A fresh clone contains the compiled PDFs, but not the original source PDFs referenced elsewhere in this guide.
+- Track only `CLAUDE.md`, `.gitignore`, `.gitattributes`, `fonts/`, and each term's `typst/` sources, bibliography, compiled lesson/book PDFs, and figure directories. `.gitignore` allows only those paths. Root `figures/` is a local, untracked archive of editable masters and exports; both books build using only their respective Typst figure directories. Original PDF exports and scans outside `typst/`, archives, old handouts, extra reference documents, helper scripts, collages, videos, local settings, installers, and migration backups also remain local and must not be added to Git. A fresh clone contains everything needed to build, but not the original source PDFs or root figure archive referenced elsewhere in this guide.
 - Keep `C:\Users\User\YandexDisk\05_Matter\04_Lessons` until the first push and a fresh checkout have been verified. No files in that mirror were changed or removed during preparation.
 
 After migration, commit and push changes from the machine where they were made, and pull before editing on the other machine. Use `git pull --ff-only` with a clean working tree; reconcile any divergent changes without overwriting either copy.
@@ -178,7 +178,7 @@ After migration, commit and push changes from the machine where they were made, 
 
 ### Figures
 
-- **Never redraw a figure without asking me first.** The masters in `figures/` cover both terms and their `Fig_N` numbering has nothing to do with the lesson number, so a lesson's figures are easy to miss. Look through `figures/Fig_*.png` for the drawing, and if you cannot find it, ask me where it is — do not assume it is missing and start drawing.
+- **Never redraw a figure without asking me first.** The local, untracked masters in root `figures/` cover both terms and their `Fig_N` numbering has nothing to do with the lesson number, so a lesson's figures are easy to miss. This archive is absent from a fresh clone. If it is available, look through `figures/Fig_*.png` for the drawing; if the archive or drawing is unavailable, ask me where it is — do not assume the master is missing and start drawing.
 - Prefer the existing raster master from `figures/`: copy `Fig_N.png` into the lesson's figure directory under the repo name (`lN_figM_slug.png`), do not reference it across directories.
 - Some figures are borrowed renderings with no master (shaded 3D solids, textbook grids). Those are best pulled straight out of the source PDF: `pdfimages -f <page> -l <page> -png <source>.pdf <prefix>` recovers the embedded rasters at their native size. `pdftoppm` and Python with PIL are also available for cropping and cleanup.
 - **New figures go in SVG, not cetz** — I edit them in Inkscape, so a standalone `.svg` I can open beats a canvas buried in the `.typ`. Only after I confirm there is no master and extraction is not appropriate, redraw it as a hand-editable **SVG** in the lesson's figure directory — plain SVG, Noto Serif, Russian labels, one-line `<!-- -->` comments per part. `Term1/typst/figures/l4_fig1_correlation.svg` and `Term2/typst/fig/l4_anisotropy_setup.svg` are the models.
