@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="5 29 416 101"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg33"
+   sodipodi:docname="l12_fig1_spectra.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview33"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.816957"
+     inkscape:cx="154.65418"
+     inkscape:cy="30.270392"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg33" />
+  <defs
+     id="defs1">
+    <!-- наконечник стрелки в конце линии -->
+    <marker
+       id="ah"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.6) rotate(180)"
+         d="M 8.72,4.03 L -2.21,0.02 L 8.72,-4.00 C 6.97,-1.63 6.98,1.62 8.72,4.03 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:context-stroke;fill:context-stroke"
+         id="path1" />
+    </marker>
+  </defs>
+  <!-- ============ а) уксусная кислота ============ -->
+  <text
+     x="14"
+     y="42"
+     font-size="11px"
+     fill="#000000"
+     id="text2">а) CH<tspan
+   font-size="8px"
+   dy="3"
+   id="tspan1">3</tspan><tspan
+   font-size="11px"
+   dy="-3"
+   id="tspan2">COOH</tspan></text>
+  <!-- ось химического сдвига: растёт влево -->
+  <line
+     x1="190"
+     y1="110"
+     x2="22"
+     y2="110"
+     stroke="#000"
+     stroke-width="0.90"
+     marker-end="url(#ah)"
+     id="line2" />
+  <text
+     x="12"
+     y="122"
+     font-size="11"
+     text-anchor="middle"
+     fill="#000"
+     font-style="italic"
+     id="text3">δ</text>
+  <!-- деления шкалы через 2 м.д. -->
+  <line
+     x1="185.0"
+     y1="110"
+     x2="185.0"
+     y2="114"
+     stroke="#000"
+     stroke-width="0.7"
+     id="line3" />
+  <line
+     x1="159.2"
+     y1="110"
+     x2="159.2"
+     y2="114"
+     stroke="#000"
+     stroke-width="0.7"
+     id="line4" />
+  <line
+     x1="133.3"
+     y1="110"
+     x2="133.3"
+     y2="114"
+     stroke="#000"
+     stroke-width="0.7"
+     id="line5" />
+  <line
+     x1="107.5"
+     y1="110"
+     x2="107.5"
+     y2="114"
+     stroke="#000"
+     stroke-width="0.7"
+     id="line6" />
+  <line
+     x1="81.7"
+     y1="110"
+     x2="81.7"
+     y2="114"
+     stroke="#000"
+     stroke-width="0.7"
+     id="line7" />
+  <line
+     x1="55.8"
+     y1="110"
+     x2="55.8"
+     y2="114"
+     stroke="#000"
+     stroke-width="0.7"
+     id="line8" />
+  <line
+     x1="30.0"
+     y1="110"
+     x2="30.0"
+     y2="114"
+     stroke="#000"
+     stroke-width="0.7"
+     id="line9" />
+  <text
+     x="55.8"
+     y="125"
+     font-size="9"
+     text-anchor="middle"
+     fill="#000"
+     id="text9">10</text>
+  <text
+     x="185.0"
+     y="125"
+     font-size="9"
+     text-anchor="middle"
+     fill="#000"
+     id="text10">0</text>
+  <!-- линия COOH (1H) -->
+  <line
+     x1="37.7"
+     y1="110"
+     x2="37.7"
+     y2="92"
+     stroke="#000"
+     stroke-width="1.6"
+     id="line10" />
+  <text
+     x="37.7"
+     y="86"
+     font-size="9"
+     text-anchor="middle"
+     fill="#000"
+     id="text11">1H</text>
+  <!-- линия CH3 (3H) -->
+  <line
+     x1="157.9"
+     y1="110"
+     x2="157.9"
+     y2="55"
+     stroke="#000"
+     stroke-width="1.6"
+     id="line11" />
+  <text
+     x="157.9"
+     y="49"
+     font-size="9"
+     text-anchor="middle"
+     fill="#000"
+     id="text12">3H</text>
+  <!-- внутренний стандарт -->
+  <line
+     x1="185.0"
+     y1="110"
+     x2="185.0"
+     y2="88"
+     stroke="#cc0000"
+     stroke-width="1.6"
+     id="line12" />
+  <text
+     x="185.0"
+     y="82"
+     font-size="9"
+     text-anchor="middle"
+     fill="#cc0000"
+     id="text13">ТМС</text>
+  <!-- ============ б) этилацетат ============ -->
+  <text
+     x="220"
+     y="42"
+     font-size="11px"
+     fill="#000000"
+     id="text17">б) CH<tspan
+   font-size="8px"
+   dy="3"
+   id="tspan13">3</tspan><tspan
+   font-size="11px"
+   dy="-3"
+   id="tspan14">COOCH</tspan><tspan
+   font-size="8px"
+   dy="3"
+   id="tspan15">2</tspan><tspan
+   font-size="11px"
+   dy="-3"
+   id="tspan16">CH</tspan><tspan
+   font-size="8px"
+   dy="3"
+   id="tspan17">3</tspan></text>
+  <!-- ось химического сдвига -->
+  <line
+     x1="412"
+     y1="110"
+     x2="244"
+     y2="110"
+     stroke="#000000"
+     stroke-width="0.9"
+     marker-end="url(#ah)"
+     id="line17" />
+  <text
+     x="234"
+     y="122"
+     font-size="11px"
+     text-anchor="middle"
+     fill="#000000"
+     font-style="italic"
+     id="text18">δ</text>
+  <!-- деления шкалы через 1 м.д. -->
+  <line
+     x1="407"
+     y1="110"
+     x2="407"
+     y2="114"
+     stroke="#000000"
+     stroke-width="0.7"
+     id="line18" />
+  <line
+     x1="381.20001"
+     y1="110"
+     x2="381.20001"
+     y2="114"
+     stroke="#000000"
+     stroke-width="0.7"
+     id="line19" />
+  <line
+     x1="355.29999"
+     y1="110"
+     x2="355.29999"
+     y2="114"
+     stroke="#000000"
+     stroke-width="0.7"
+     id="line20" />
+  <line
+     x1="329.5"
+     y1="110"
+     x2="329.5"
+     y2="114"
+     stroke="#000000"
+     stroke-width="0.7"
+     id="line21" />
+  <line
+     x1="303.70001"
+     y1="110"
+     x2="303.70001"
+     y2="114"
+     stroke="#000000"
+     stroke-width="0.7"
+     id="line22" />
+  <line
+     x1="277.79999"
+     y1="110"
+     x2="277.79999"
+     y2="114"
+     stroke="#000000"
+     stroke-width="0.7"
+     id="line23" />
+  <line
+     x1="252"
+     y1="110"
+     x2="252"
+     y2="114"
+     stroke="#000000"
+     stroke-width="0.7"
+     id="line24" />
+  <text
+     x="277.79999"
+     y="125"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text24">5</text>
+  <text
+     x="381.20001"
+     y="125"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text25">1</text>
+  <text
+     x="407"
+     y="125"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text26">0</text>
+  <!-- квартет OCH2 (2H) -->
+  <line
+     x1="295.39999"
+     y1="110"
+     x2="295.39999"
+     y2="101"
+     stroke="#000000"
+     stroke-width="1.3"
+     id="line26" />
+  <line
+     x1="298.89999"
+     y1="110"
+     x2="298.89999"
+     y2="84"
+     stroke="#000000"
+     stroke-width="1.3"
+     id="line27" />
+  <line
+     x1="302.39999"
+     y1="110"
+     x2="302.39999"
+     y2="84"
+     stroke="#000000"
+     stroke-width="1.3"
+     id="line28" />
+  <line
+     x1="305.89999"
+     y1="110"
+     x2="305.89999"
+     y2="101"
+     stroke="#000000"
+     stroke-width="1.3"
+     id="line29" />
+  <text
+     x="300.60001"
+     y="78"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text29">2H</text>
+  <!-- синглет CH3CO (3H) -->
+  <line
+     x1="354.10001"
+     y1="110"
+     x2="354.10001"
+     y2="55"
+     stroke="#000000"
+     stroke-width="1.6"
+     id="line30" />
+  <text
+     x="354.10001"
+     y="49"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text30">3H</text>
+  <!-- триплет CH3 (3H) -->
+  <line
+     x1="371.20001"
+     y1="110"
+     x2="371.20001"
+     y2="96"
+     stroke="#000000"
+     stroke-width="1.3"
+     id="line31" />
+  <line
+     x1="374.70001"
+     y1="110"
+     x2="374.70001"
+     y2="82"
+     stroke="#000000"
+     stroke-width="1.3"
+     id="line32" />
+  <line
+     x1="378.20001"
+     y1="110"
+     x2="378.20001"
+     y2="96"
+     stroke="#000000"
+     stroke-width="1.3"
+     id="line33" />
+  <text
+     x="374.70001"
+     y="70"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text33">3H</text>
+  <line
+     x1="407"
+     y1="110"
+     x2="407"
+     y2="88"
+     stroke="#cc0000"
+     stroke-width="1.6"
+     id="line34" />
+  <text
+     x="407"
+     y="82"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#cc0000"
+     id="text34">ТМС</text>
+</svg>

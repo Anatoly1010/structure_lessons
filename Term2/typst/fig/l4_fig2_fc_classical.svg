@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 22 400 478"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   version="1.1"
+   id="svg41"
+   sodipodi:docname="l4_fig2_fc_classical.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata45">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     id="namedview43"
+     showgrid="false"
+     inkscape:zoom="0.9874477"
+     inkscape:cx="14.684322"
+     inkscape:cy="296.72458"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg41"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs5">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8878"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path8876"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8832"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       viewBox="0 0 6.93045877 5.19622555"
+       markerWidth="6.93045877"
+       markerHeight="5.19622555"
+       preserveAspectRatio="xMidYMid">
+      <path
+         id="path8830"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ff2a2a;stroke-opacity:1;fill:#ff2a2a;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8792"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path8790"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8758"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path8756"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path8495"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       id="ah"
+       style="overflow:visible"
+       refX="-4.4396763"
+       refY="-0.0068103056"
+       orient="auto"
+       preserveAspectRatio="none"
+       markerWidth="10.301608"
+       markerHeight="10.301608">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round"
+         id="path1" />
+    </marker>
+  </defs>
+  <!-- ===== оси: потенциальная энергия вверх, межъядерное расстояние вправо ===== -->
+  <line
+     style="fill:none;stroke:#000000;stroke-width:2.20000005;marker-end:url(#marker8878)"
+     id="line7"
+     y2="62"
+     x2="46"
+     y1="430"
+     x1="46" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:2.20000005;marker-end:url(#marker8792)"
+     id="line9"
+     y2="430"
+     x2="390"
+     y1="430"
+     x1="46" />
+  <!-- ===== терм основного состояния: кривая Морзе ===== -->
+  <polyline
+     fill="none"
+     stroke="#000"
+     stroke-width="2.2"
+     points="61.1,218.2 64.3,249.9 67.5,277.5 70.7,301.4 73.9,322.0 77.1,339.6 80.3,354.6 83.4,367.3 86.6,377.9 89.8,386.6 93.0,393.7 96.2,399.4 99.4,403.8 102.6,407.1 105.8,409.5 108.9,410.9 112.1,411.7 115.3,411.7 118.5,411.2 121.7,410.3 124.9,408.9 128.1,407.2 131.3,405.1 134.4,402.9 137.6,400.4 140.8,397.8 144.0,395.0 147.2,392.1 150.4,389.2 153.6,386.2 156.8,383.2 159.9,380.1 163.1,377.1 166.3,374.1 169.5,371.1 172.7,368.1 175.9,365.2 179.1,362.3 182.3,359.5 185.4,356.8 188.6,354.1 191.8,351.5 195.0,348.9 198.2,346.4 201.4,344.1 204.6,341.7 207.7,339.5 210.9,337.3 214.1,335.2 217.3,333.2 220.5,331.2 223.7,329.3 226.9,327.5 230.1,325.7 233.2,324.1 236.4,322.4 239.6,320.9 242.8,319.4 246.0,317.9 249.2,316.6 252.4,315.2 255.6,314.0 258.7,312.8 261.9,311.6 265.1,310.5 268.3,309.4 271.5,308.4 274.7,307.4 277.9,306.5 281.1,305.6 284.2,304.7 287.4,303.9 290.6,303.1 293.8,302.4 297.0,301.6 300.2,301.0 303.4,300.3 306.6,299.7 309.7,299.1 312.9,298.5 316.1,298.0 319.3,297.4 322.5,297.0 325.7,296.5 328.9,296.0 332.1,295.6 335.2,295.2 338.4,294.8 341.6,294.4 344.8,294.1 348.0,293.7"
+     id="polyline17" />
+  <text
+     x="356"
+     y="301"
+     font-size="21px"
+     id="text19">GS</text>
+  <!-- ===== терм возбуждённого состояния: минимум смещён вправо и вверх ===== -->
+  <polyline
+     fill="none"
+     stroke="#000"
+     stroke-width="2.2"
+     points="103.8,103.6 106.5,125.3 109.2,145.0 111.9,162.7 114.6,178.7 117.4,193.0 120.1,205.8 122.8,217.2 125.5,227.3 128.2,236.2 130.9,244.0 133.6,250.8 136.3,256.7 139.1,261.8 141.8,266.0 144.5,269.5 147.2,272.4 149.9,274.7 152.6,276.5 155.3,277.7 158.1,278.5 160.8,278.9 163.5,278.9 166.2,278.6 168.9,278.0 171.6,277.1 174.3,276.0 177.0,274.6 179.8,273.1 182.5,271.3 185.2,269.5 187.9,267.4 190.6,265.3 193.3,263.1 196.0,260.8 198.8,258.4 201.5,255.9 204.2,253.4 206.9,250.9 209.6,248.3 212.3,245.7 215.0,243.1 217.7,240.5 220.5,237.9 223.2,235.3 225.9,232.7 228.6,230.1 231.3,227.5 234.0,224.9 236.7,222.4 239.5,219.9 242.2,217.5 244.9,215.0 247.6,212.6 250.3,210.3 253.0,207.9 255.7,205.7 258.4,203.4 261.2,201.2 263.9,199.1 266.6,197.0 269.3,194.9 272.0,192.9 274.7,190.9 277.4,188.9 280.2,187.0 282.9,185.2 285.6,183.4 288.3,181.6 291.0,179.9 293.7,178.2 296.4,176.6 299.1,175.0 301.9,173.4 304.6,171.9 307.3,170.5 310.0,169.0 312.7,167.6 315.4,166.3 318.1,164.9 320.9,163.7 323.6,162.4 326.3,161.2 329.0,160.0 331.7,158.9 334.4,157.7 337.1,156.7 339.8,155.6 342.6,154.6 345.3,153.6 348.0,152.6"
+     id="polyline21" />
+  <text
+     x="356"
+     y="160"
+     font-size="21px"
+     id="text23">ES</text>
+  <!-- ===== выноски равновесных межъядерных расстояний ===== -->
+  <g
+     stroke="#000"
+     stroke-width="1.4"
+     stroke-dasharray="4 3"
+     fill="none"
+     id="g29">
+    <line
+       x1="114.1"
+       y1="430"
+       x2="114.1"
+       y2="411.8"
+       id="line25" />
+    <line
+       x1="162.3"
+       y1="430"
+       x2="162.3"
+       y2="279.0"
+       id="line27" />
+  </g>
+  <text
+     x="114.1"
+     y="452"
+     font-size="21"
+     font-style="italic"
+     id="text33"
+     style="font-style:italic;font-size:21px;text-anchor:middle">R<tspan font-size="14" dy="5" font-style="normal" id="tspan31" style="font-style:normal;font-size:14px">eq</tspan></text>
+  <text
+     x="162.3"
+     y="452"
+     font-size="21"
+     font-style="italic"
+     id="text37"
+     style="font-style:italic;font-size:21px;text-anchor:middle">R′<tspan font-size="14" dy="5" font-style="normal" id="tspan35" style="font-style:normal;font-size:14px">eq</tspan></text>
+  <!-- ===== вертикальный франк-кондоновский переход из минимума GS ===== -->
+  <line
+     x1="114.1"
+     y1="410.79999"
+     x2="114.1"
+     y2="176.35464"
+     stroke="#000"
+     stroke-width="2.00148"
+     marker-end="url(#ah)"
+     id="line39"
+     style="fill:#ff2a2a;stroke:#ff2a2a;stroke-opacity:1;marker-end:url(#Triangle)" />
+  <text
+     x="118.34023"
+     y="52.375847"
+     font-size="21"
+     id="text13-3"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21px;line-height:1;font-family:'Noto Serif', 'DejaVu Serif', serif;-inkscape-font-specification:'Noto Serif, DejaVu Serif, serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><tspan sodipodi:role="line" id="tspan8490" x="118.34023" y="52.375847" style="line-height:1;text-align:center;text-anchor:middle">потенциальная</tspan><tspan sodipodi:role="line" id="tspan8492" x="118.34023" y="73.375847" style="line-height:1;text-align:center;text-anchor:middle">энергия</tspan></text>
+  <text
+     x="326.13742"
+     y="454.27448"
+     font-size="21"
+     id="text15-6"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21px;line-height:1;font-family:'Noto Serif', 'DejaVu Serif', serif;-inkscape-font-specification:'Noto Serif, DejaVu Serif, serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"><tspan sodipodi:role="line" id="tspan8934" x="326.13742" y="454.27448">межъядерное</tspan><tspan sodipodi:role="line" id="tspan8936" x="326.13742" y="475.27448">расстояние</tspan></text>
+</svg>

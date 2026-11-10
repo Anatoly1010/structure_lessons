@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="7.75 15 267.8 136"
+   version="1.1"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg104"
+   sodipodi:docname="l1_fig17_ch3_shift_13.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata110">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs108" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     id="namedview106"
+     showgrid="false"
+     inkscape:zoom="16.235172"
+     inkscape:cx="204.28521"
+     inkscape:cy="118.22775"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg104" />
+  <!-- схема реакции -->
+  <polyline
+     points="30,40 60,53 90,40"
+     id="polyline2"
+     transform="translate(6,4)"
+     style="fill:none;stroke:#000000;stroke-width:1.29999995" />
+  <line
+     x1="69.866646"
+     y1="60.52787"
+     x2="96.314537"
+     y2="48.465164"
+     id="line4"
+     style="stroke:#000000;stroke-width:1.29999995" />
+  <line
+     x1="36"
+     y1="44"
+     x2="28"
+     y2="29"
+     id="line6"
+     style="stroke:#000000;stroke-width:1.20000005;stroke-linecap:round" />
+  <text
+     x="29.135889"
+     y="24.651567"
+     font-size="9px"
+     id="text10"
+     style="font-size:9px;text-anchor:end;fill:#000000">CH<tspan font-size="6.48px" dy="2.52" id="tspan8" style="font-size:6.48000002px">3</tspan></text>
+  <line
+     x1="122"
+     y1="44"
+     x2="159.60001"
+     y2="44"
+     id="line12"
+     style="stroke:#000000;stroke-width:1.20000005" />
+  <polygon
+     points="217.6,37.52 224,40 217.6,42.48 "
+     id="polygon14"
+     transform="translate(-58,4)"
+     style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+  <text
+     x="140"
+     y="36"
+     font-size="9px"
+     id="text16"
+     style="font-size:9px;text-anchor:middle;fill:#000000">[1,3]</text>
+  <polyline
+     points="250,40 280,53 310,40"
+     id="polyline18"
+     transform="translate(-62,4)"
+     style="fill:none;stroke:#000000;stroke-width:1.29999995" />
+  <line
+     x1="188.07204"
+     y1="49.273373"
+     x2="214.69514"
+     y2="60.944302"
+     id="line20"
+     style="stroke:#000000;stroke-width:1.29999995" />
+  <line
+     x1="248"
+     y1="44"
+     x2="256"
+     y2="29"
+     id="line22"
+     style="stroke:#000000;stroke-width:1.20000005;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  <text
+     x="256.60626"
+     y="24.651567"
+     font-size="9px"
+     id="text26"
+     style="font-size:9px;text-anchor:start;fill:#000000">CH<tspan font-size="6.48px" dy="2.52" id="tspan24" style="font-size:6.48000002px">3</tspan></text>
+  <!-- реагент: σ-связь с мигрирующим углеродом -->
+  <polyline
+     points="30,146 64,158 98,146"
+     id="polyline28"
+     transform="translate(0,-12)"
+     style="fill:none;stroke:#000000;stroke-width:1.29999995" />
+  <g
+     transform="translate(30,134)"
+     id="g34">
+    <path
+       d="m 0,0 c -5.4,-5.4 -5.4,-13.5 0,-13.5 5.4,0 5.4,8.1 0,13.5 z"
+       id="path30"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -5.4,5.4 -5.4,13.5 0,13.5 5.4,13.5 5.4,5.4 0,0 Z"
+       id="path32"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <g
+     transform="translate(98,134)"
+     id="g40">
+    <path
+       d="m 0,0 c -5.4,-5.4 -5.4,-13.5 0,-13.5 5.4,0 5.4,8.1 0,13.5 z"
+       id="path36"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -5.4,5.4 -5.4,13.5 0,13.5 5.4,13.5 5.4,5.4 0,0 Z"
+       id="path38"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <text
+     x="15.568837"
+     y="95.663055"
+     font-size="8px"
+     id="text52"
+     style="font-size:8px;text-anchor:middle;fill:#000000">R<tspan font-size="5.76px" dy="2.24" id="tspan50" style="font-size:5.76000023px">1</tspan></text>
+  <text
+     x="45.743973"
+     y="106.2691"
+     font-size="8px"
+     id="text56"
+     style="font-size:8px;text-anchor:middle;fill:#000000">R<tspan font-size="5.76px" dy="2.24" id="tspan54" style="font-size:5.76000023px">2</tspan></text>
+  <text
+     x="14.768107"
+     y="114.558"
+     font-size="8px"
+     id="text60"
+     style="font-size:8px;text-anchor:middle;fill:#000000">R<tspan font-size="5.76px" dy="2.24" id="tspan58" style="font-size:5.76000023px">3</tspan></text>
+  <!-- переходное состояние: углерод связывается разными долями — инверсия -->
+  <line
+     x1="122"
+     y1="138"
+     x2="159.60001"
+     y2="138"
+     id="line62"
+     style="stroke:#000000;stroke-width:1.20000005" />
+  <polygon
+     points="217.6,152.48 217.6,147.52 224,150 "
+     id="polygon64"
+     transform="translate(-58,-12)"
+     style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+  <polyline
+     points="250,146 284,158 318,146"
+     id="polyline66"
+     transform="translate(-58,-12)"
+     style="fill:none;stroke:#000000;stroke-width:1.29999995" />
+  <g
+     transform="translate(192,134)"
+     id="g72">
+    <path
+       d="m 0,0 c -5.4,-5.4 -5.4,-13.5 0,-13.5 5.4,0 5.4,8.1 0,13.5 z"
+       id="path68"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -5.4,5.4 -5.4,13.5 0,13.5 5.4,13.5 5.4,5.4 0,0 Z"
+       id="path70"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <g
+     transform="translate(260,134)"
+     id="g78">
+    <path
+       d="m 0,0 c -5.4,-5.4 -5.4,-13.5 0,-13.5 5.4,0 5.4,8.1 0,13.5 z"
+       id="path74"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -5.4,5.4 -5.4,13.5 0,13.5 5.4,13.5 5.4,5.4 0,0 Z"
+       id="path76"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <line
+     x1="196"
+     y1="119"
+     x2="214"
+     y2="112"
+     id="line86"
+     style="stroke:#000000;stroke-width:0.89999998;stroke-dasharray:3, 3" />
+  <line
+     x1="256"
+     y1="119"
+     x2="238"
+     y2="112"
+     id="line88"
+     style="stroke:#000000;stroke-width:0.89999998;stroke-dasharray:3, 3" />
+  <text
+     x="220.21284"
+     y="97.01886"
+     font-size="8px"
+     id="text92"
+     style="font-size:8px;text-anchor:middle;fill:#000000">R<tspan font-size="5.76px" dy="2.24" id="tspan90" style="font-size:5.76000023px">1</tspan></text>
+  <text
+     x="236.68243"
+     y="97.202736"
+     font-size="8px"
+     id="text96"
+     style="font-size:8px;text-anchor:middle;fill:#000000">R<tspan font-size="5.76px" dy="2.24" id="tspan94" style="font-size:5.76000023px">2</tspan></text>
+  <text
+     x="227.4333"
+     y="130.27982"
+     font-size="8px"
+     id="text100"
+     style="font-size:8px;text-anchor:middle;fill:#000000">R<tspan font-size="5.76px" dy="2.24" id="tspan98" style="font-size:5.76000023px">3</tspan></text>
+  <text
+     x="135.02438"
+     y="86.592331"
+     font-size="8.5px"
+     id="text102"
+     style="font-size:8.5px;text-anchor:middle;fill:#000000">антара-/супра-: инверсия стереохимии</text>
+  <line
+     x1="29.338852"
+     y1="103.98469"
+     x2="40.195614"
+     y2="103.99185"
+     id="line4-5"
+     style="stroke:#000000;stroke-width:0.998;stroke-miterlimit:4;stroke-dasharray:none" />
+  <polygon
+     transform="matrix(0.92598635,0.37755698,0.37755698,-0.92598635,-34.858317,97.717283)"
+     style="fill:#000000;stroke:#000000;stroke-width:0.60000002"
+     points="53.991,9.93 62.43,18.67 57.103,7.75 "
+     id="polygon41" />
+  <g
+     id="g8646"
+     transform="rotate(-90,46.582537,133.26395)">
+    <line
+       x1="76.806816"
+       y1="116.40051"
+       x2="75.26358"
+       y2="115.30704"
+       style="stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line8509" />
+    <line
+       id="line45"
+       style="stroke:#000000;stroke-width:0.89999998"
+       y2="113.51087"
+       x2="76.08075"
+       y1="114.88288"
+       x1="78.040756" />
+    <line
+       id="line47"
+       style="stroke:#000000;stroke-width:0.89999998"
+       y2="111.76386"
+       x2="76.933746"
+       y1="113.48386"
+       x1="79.390747" />
+    <line
+       id="line49"
+       style="stroke:#000000;stroke-width:0.89999998"
+       y2="110.01688"
+       x2="77.785751"
+       y1="112.08588"
+       x1="80.740753" />
+    <line
+       id="line51"
+       style="stroke:#000000;stroke-width:0.89999998"
+       y2="108.26887"
+       x2="78.637756"
+       y1="110.68787"
+       x1="82.091743" />
+    <line
+       id="line53"
+       style="stroke:#000000;stroke-width:0.89999998"
+       y2="106.52189"
+       x2="79.489746"
+       y1="109.28889"
+       x1="83.44175" />
+  </g>
+  <g
+     transform="translate(30,104)"
+     id="g46">
+    <path
+       d="m 0,0 c -5.4,-5.4 -5.4,-13.5 0,-13.5 5.4,0 5.4,8.1 0,13.5 z"
+       id="path42"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -5.4,5.4 -5.4,13.5 0,13.5 5.4,13.5 5.4,5.4 0,0 Z"
+       id="path44"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <g
+     transform="rotate(-62.333366,146.9165,-10.522198)"
+     id="g8660">
+    <line
+       id="line8648"
+       style="stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none"
+       y2="115.30704"
+       x2="75.26358"
+       y1="116.40051"
+       x1="76.806816" />
+    <line
+       x1="78.040756"
+       y1="114.88288"
+       x2="76.08075"
+       y2="113.51087"
+       style="stroke:#000000;stroke-width:0.89999998"
+       id="line8650" />
+    <line
+       x1="79.390747"
+       y1="113.48386"
+       x2="76.933746"
+       y2="111.76386"
+       style="stroke:#000000;stroke-width:0.89999998"
+       id="line8652" />
+    <line
+       x1="80.740753"
+       y1="112.08588"
+       x2="77.785751"
+       y2="110.01688"
+       style="stroke:#000000;stroke-width:0.89999998"
+       id="line8654" />
+    <line
+       x1="82.091743"
+       y1="110.68787"
+       x2="78.637756"
+       y2="108.26887"
+       style="stroke:#000000;stroke-width:0.89999998"
+       id="line8656" />
+    <line
+       x1="83.44175"
+       y1="109.28889"
+       x2="79.489746"
+       y2="106.52189"
+       style="stroke:#000000;stroke-width:0.89999998"
+       id="line8658" />
+  </g>
+  <polygon
+     id="polygon8662"
+     points="53.991,9.93 62.43,18.67 57.103,7.75 "
+     style="fill:#000000;stroke:#000000;stroke-width:0.60000002"
+     transform="matrix(-0.99958062,0.02895817,0.02895817,0.99958062,287.86317,91.529971)" />
+  <line
+     style="stroke:#000000;stroke-width:0.99800003;stroke-miterlimit:4;stroke-dasharray:none"
+     id="line8664"
+     y2="112"
+     x2="226"
+     y1="122.85677"
+     x1="225.99283" />
+  <g
+     transform="rotate(90,57,169)"
+     id="g84">
+    <path
+       d="m 0,0 c -5.4,-5.4 -5.4,-13.5 0,-13.5 5.4,0 5.4,8.1 0,13.5 z"
+       id="path80"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -5.4,5.4 -5.4,13.5 0,13.5 5.4,13.5 5.4,5.4 0,0 Z"
+       id="path82"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+</svg>

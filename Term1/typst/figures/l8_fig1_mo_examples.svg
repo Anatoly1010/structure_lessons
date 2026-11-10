@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 640 348"
+   version="1.1"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg203"
+   sodipodi:docname="l8_fig1_mo_examples.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata207">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     id="namedview205"
+     showgrid="false"
+     inkscape:zoom="1.79375"
+     inkscape:cx="392.90521"
+     inkscape:cy="150.88699"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg203" />
+  <defs
+     id="defs5">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker8657"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path8655" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path8814"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8947"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path8826"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path8808"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <!-- наконечник стрелки «образуется» -->
+    <marker
+       id="ah"
+       markerWidth="8"
+       markerHeight="8"
+       refX="6.5"
+       refY="3"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L7,3 L0,6 L1.6,3 Z"
+         fill="#000"
+         id="path2" />
+    </marker>
+  </defs>
+  <circle
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.10000002"
+     id="circle91-7-8"
+     r="8"
+     cy="301.6597"
+     cx="365.80338" />
+  <circle
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="circle91-3"
+     r="8"
+     cy="305.24982"
+     cx="365.72681" />
+  <circle
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.10000002"
+     id="circle91-7-2"
+     r="8"
+     cy="301.46255"
+     cx="82.230217" />
+  <circle
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="circle91-2"
+     r="8"
+     cy="305.05267"
+     cx="82.153633" />
+  <circle
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002;fill-opacity:1"
+     id="circle91-7"
+     r="8"
+     cy="301.40988"
+     cx="40.076584" />
+  <circle
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="circle7"
+     r="10"
+     cy="48"
+     cx="34" />
+  <circle
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="circle9"
+     r="10"
+     cy="48"
+     cx="84" />
+  <line
+     style="stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend);paint-order:markers fill stroke"
+     id="line11"
+     y2="48"
+     x2="170"
+     y1="48"
+     x1="120" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse13"
+     ry="13"
+     rx="26"
+     cy="48"
+     cx="230" />
+  <circle
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="circle15"
+     r="10"
+     cy="48"
+     cx="364" />
+  <circle
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="circle17"
+     r="10"
+     cy="48"
+     cx="414" />
+  <line
+     style="stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend);paint-order:markers fill stroke"
+     id="line19"
+     y2="48"
+     x2="502"
+     y1="48"
+     x1="452" />
+  <!-- σ*: две доли противоположного знака, разделённые узлом -->
+  <ellipse
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="path21"
+     cx="546"
+     cy="47.900002"
+     rx="14"
+     ry="13" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="path23"
+     cx="578"
+     cy="47.900002"
+     rx="14"
+     ry="13" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse25"
+     ry="8"
+     rx="12"
+     cy="133"
+     cx="23" />
+  <ellipse
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse27"
+     ry="8"
+     rx="12"
+     cy="133"
+     cx="47" />
+  <ellipse
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse29"
+     ry="8"
+     rx="12"
+     cy="133"
+     cx="73" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse31"
+     ry="8"
+     rx="12"
+     cy="133"
+     cx="97" />
+  <line
+     style="stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend);paint-order:markers fill stroke"
+     id="line33"
+     y2="133"
+     x2="170"
+     y1="133"
+     x1="120" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse35"
+     ry="8"
+     rx="13"
+     cy="133"
+     cx="196" />
+  <ellipse
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse37"
+     ry="12"
+     rx="19"
+     cy="133"
+     cx="228" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse39"
+     ry="8"
+     rx="13"
+     cy="133"
+     cx="260" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse41"
+     ry="8"
+     rx="12"
+     cy="132.8029"
+     cx="352.37973" />
+  <ellipse
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse43"
+     ry="8"
+     rx="12"
+     cy="132.8029"
+     cx="376.37973" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse45"
+     ry="8"
+     rx="12"
+     cy="132.8029"
+     cx="402.37973" />
+  <ellipse
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse47"
+     ry="8"
+     rx="12"
+     cy="132.8029"
+     cx="426.37973" />
+  <line
+     style="stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend);paint-order:markers fill stroke"
+     id="line49"
+     y2="133"
+     x2="502"
+     y1="133"
+     x1="452" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse51"
+     ry="8"
+     rx="12"
+     cy="133"
+     cx="524" />
+  <ellipse
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse53"
+     ry="8"
+     rx="12"
+     cy="133"
+     cx="548" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse55"
+     ry="8"
+     rx="12"
+     cy="133"
+     cx="576" />
+  <ellipse
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse57"
+     ry="8"
+     rx="12"
+     cy="133"
+     cx="600" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse59"
+     ry="13"
+     rx="8"
+     cy="207"
+     cx="40" />
+  <ellipse
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse61"
+     ry="13"
+     rx="8"
+     cy="233"
+     cx="40" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse63"
+     ry="13"
+     rx="8"
+     cy="207"
+     cx="82" />
+  <ellipse
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse65"
+     ry="13"
+     rx="8"
+     cy="233"
+     cx="82" />
+  <line
+     style="stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend);paint-order:markers fill stroke"
+     id="line67"
+     y2="221"
+     x2="170"
+     y1="221"
+     x1="120" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse69"
+     ry="10"
+     rx="26"
+     cy="211"
+     cx="230" />
+  <ellipse
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse71"
+     ry="10"
+     rx="26"
+     cy="231"
+     cx="230" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse73"
+     ry="13"
+     rx="8"
+     cy="207"
+     cx="366" />
+  <ellipse
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse75"
+     ry="13"
+     rx="8"
+     cy="233"
+     cx="366" />
+  <ellipse
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse77"
+     ry="13"
+     rx="8"
+     cy="207"
+     cx="412" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse79"
+     ry="13"
+     rx="8"
+     cy="233"
+     cx="412" />
+  <line
+     style="stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend);paint-order:markers fill stroke"
+     id="line81"
+     y2="221"
+     x2="502"
+     y1="221"
+     x1="452" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse83"
+     ry="10"
+     rx="13"
+     cy="211"
+     cx="546" />
+  <ellipse
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse85"
+     ry="10"
+     rx="13"
+     cy="231"
+     cx="546" />
+  <ellipse
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse87"
+     ry="10"
+     rx="13"
+     cy="211"
+     cx="578" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse89"
+     ry="10"
+     rx="13"
+     cy="231"
+     cx="578" />
+  <circle
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="circle91"
+     r="8"
+     cy="305"
+     cx="40" />
+  <line
+     style="stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend);paint-order:markers fill stroke"
+     id="line95"
+     y2="305"
+     x2="170"
+     y1="305"
+     x1="120" />
+  <circle
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="circle101"
+     r="8"
+     cy="305"
+     cx="412" />
+  <line
+     style="stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker8657);paint-order:markers fill stroke"
+     id="line103"
+     y2="305"
+     x2="502"
+     y1="305"
+     x1="452" />
+  <!-- ===== подписи над стрелками: тип образующейся молекулярной орбитали ===== -->
+  <text
+     style="font-size:medium;text-anchor:middle"
+     id="text113"
+     y="22"
+     x="141">связывающая <tspan
+   style="font-style:italic"
+   id="tspan111"
+   font-style="italic">σ</tspan>
+</text>
+  <text
+     style="font-size:medium;text-anchor:middle"
+     id="text117"
+     y="22"
+     x="475">разрыхляющая <tspan
+   style="font-style:italic"
+   id="tspan115"
+   font-style="italic">σ</tspan>
+</text>
+  <text
+     style="font-size:medium;text-anchor:middle"
+     id="text121"
+     y="107"
+     x="141">связывающая <tspan
+   style="font-style:italic"
+   id="tspan119"
+   font-style="italic">σ</tspan>
+</text>
+  <text
+     style="font-size:medium;text-anchor:middle"
+     id="text125"
+     y="107"
+     x="475">разрыхляющая <tspan
+   style="font-style:italic"
+   id="tspan123"
+   font-style="italic">σ</tspan>
+</text>
+  <text
+     style="font-size:medium;text-anchor:middle"
+     id="text129"
+     y="184"
+     x="141">связывающая <tspan
+   style="font-style:italic"
+   id="tspan127"
+   font-style="italic">π</tspan>
+</text>
+  <text
+     style="font-size:medium;text-anchor:middle"
+     id="text133"
+     y="184"
+     x="475">разрыхляющая <tspan
+   style="font-style:italic"
+   id="tspan131"
+   font-style="italic">π</tspan>
+</text>
+  <text
+     style="font-size:medium;text-anchor:middle"
+     id="text137"
+     y="279"
+     x="141">связывающая <tspan
+   style="font-style:italic"
+   id="tspan135"
+   font-style="italic">π</tspan>
+</text>
+  <text
+     style="font-size:medium;text-anchor:middle"
+     id="text141"
+     y="279"
+     x="475">разрыхляющая <tspan
+   style="font-style:italic"
+   id="tspan139"
+   font-style="italic">π</tspan>
+</text>
+  <!-- ===== подписи исходных атомных орбиталей ===== -->
+  <text
+     style="font-style:italic;font-size:medium;text-anchor:middle"
+     id="text145"
+     y="76"
+     x="34">2s</text>
+  <text
+     style="font-style:italic;font-size:medium;text-anchor:middle"
+     id="text147"
+     y="76"
+     x="84">2s</text>
+  <text
+     style="font-style:italic;font-size:medium;text-anchor:middle"
+     id="text149"
+     y="76"
+     x="364">2s</text>
+  <text
+     style="font-style:italic;font-size:medium;text-anchor:middle"
+     id="text151"
+     y="76"
+     x="414">2s</text>
+  <text
+     style="font-style:italic;font-size:medium;text-anchor:middle"
+     id="text155"
+     y="161"
+     x="33">2p<tspan
+   style="font-size:7px"
+   id="tspan153"
+   dy="2"
+   font-size="7">z</tspan>
+</text>
+  <text
+     style="font-style:italic;font-size:medium;text-anchor:middle"
+     id="text159"
+     y="161"
+     x="83">2p<tspan
+   style="font-size:7px"
+   id="tspan157"
+   dy="2"
+   font-size="7">z</tspan>
+</text>
+  <text
+     style="font-style:italic;font-size:medium;text-anchor:middle"
+     id="text163"
+     y="161"
+     x="363">2p<tspan
+   style="font-size:7px"
+   id="tspan161"
+   dy="2"
+   font-size="7">z</tspan>
+</text>
+  <text
+     style="font-style:italic;font-size:medium;text-anchor:middle"
+     id="text167"
+     y="161"
+     x="413">2p<tspan
+   style="font-size:7px"
+   id="tspan165"
+   dy="2"
+   font-size="7">z</tspan>
+</text>
+  <text
+     style="font-style:italic;font-size:medium;text-anchor:middle"
+     id="text171"
+     y="259"
+     x="40">2p<tspan
+   style="font-size:7px"
+   id="tspan169"
+   dy="2"
+   font-size="7">x</tspan>
+</text>
+  <text
+     style="font-style:italic;font-size:medium;text-anchor:middle"
+     id="text175"
+     y="259"
+     x="82">2p<tspan
+   style="font-size:7px"
+   id="tspan173"
+   dy="2"
+   font-size="7">x</tspan>
+</text>
+  <text
+     style="font-style:italic;font-size:medium;text-anchor:middle"
+     id="text179"
+     y="259"
+     x="366">2p<tspan
+   style="font-size:7px"
+   id="tspan177"
+   dy="2"
+   font-size="7">x</tspan>
+</text>
+  <text
+     style="font-style:italic;font-size:medium;text-anchor:middle"
+     id="text183"
+     y="259"
+     x="412">2p<tspan
+   style="font-size:7px"
+   id="tspan181"
+   dy="2"
+   font-size="7">x</tspan>
+</text>
+  <text
+     style="font-style:italic;font-size:medium;text-anchor:middle"
+     id="text187"
+     y="333"
+     x="40">2p<tspan
+   style="font-size:7px"
+   id="tspan185"
+   dy="2"
+   font-size="7">y</tspan>
+</text>
+  <text
+     style="font-style:italic;font-size:medium;text-anchor:middle"
+     id="text191"
+     y="333"
+     x="82">2p<tspan
+   style="font-size:7px"
+   id="tspan189"
+   dy="2"
+   font-size="7">y</tspan>
+</text>
+  <text
+     style="font-style:italic;font-size:medium;text-anchor:middle"
+     id="text195"
+     y="333"
+     x="366">2p<tspan
+   style="font-size:7px"
+   id="tspan193"
+   dy="2"
+   font-size="7">y</tspan>
+</text>
+  <text
+     style="font-style:italic;font-size:medium;text-anchor:middle"
+     id="text199"
+     y="333"
+     x="412">2p<tspan
+   style="font-size:7px"
+   id="tspan197"
+   dy="2"
+   font-size="7">y</tspan>
+</text>
+  <ellipse
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse97-4"
+     ry="9"
+     rx="26"
+     cy="301.4837"
+     cx="229.60164" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="ellipse97"
+     ry="9"
+     rx="26"
+     cy="305"
+     cx="230" />
+  <circle
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1.10000002"
+     id="circle101-1"
+     cy="301.45978"
+     cx="411.96906"
+     r="8" />
+  <circle
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.10000002"
+     id="circle91-7-8-4"
+     r="8"
+     cy="302.26309"
+     cx="551.92255" />
+  <circle
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="circle91-3-6"
+     r="8"
+     cy="305.85321"
+     cx="551.84595" />
+  <circle
+     style="fill:#000000;stroke:#000000;stroke-width:1.10000002"
+     id="circle101-9"
+     r="8"
+     cy="305.77762"
+     cx="572.27246" />
+  <circle
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1.10000002"
+     id="circle101-1-9"
+     cy="302.2374"
+     cx="572.24152"
+     r="8" />
+</svg>

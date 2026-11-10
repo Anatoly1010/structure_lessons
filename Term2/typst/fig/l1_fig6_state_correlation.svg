@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 55 470 290"
+   version="1.1"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg196"
+   sodipodi:docname="l1_fig6_state_correlation.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata202">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs200" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     id="namedview198"
+     showgrid="false"
+     inkscape:zoom="6.9085837"
+     inkscape:cx="247.59054"
+     inkscape:cy="137.36535"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg196"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <!-- термы реагента (ЭК бутадиена) -->
+  <line
+     x1="60"
+     y1="78"
+     x2="150"
+     y2="78"
+     stroke="#000000"
+     stroke-width="1.6"
+     id="line2" />
+  <text
+     x="54"
+     y="82"
+     font-size="13.42px"
+     text-anchor="end"
+     fill="#000000"
+     font-style="italic"
+     id="text8"><tspan font-size="9.662px" dy="-3.96" id="tspan4">1</tspan><tspan dy="3.96" id="tspan6">S</tspan></text>
+  <text
+     x="123"
+     y="73"
+     font-size="9.76px"
+     id="text16"
+     style="font-size:9.76px;text-anchor:middle;fill:#000000">1π<tspan font-size="7.027px" dy="-2.8800001" id="tspan10" style="font-size:7.027px">2</tspan><tspan dy="2.8800001" id="tspan12">(1π*)</tspan><tspan font-size="7.027px" dy="-2.8800001" id="tspan14" style="font-size:7.027px">2</tspan></text>
+  <line
+     x1="60"
+     y1="130"
+     x2="150"
+     y2="130"
+     id="line18"
+     style="stroke:#000000;stroke-width:1.60000002" />
+  <text
+     x="54"
+     y="134"
+     font-size="13.42px"
+     font-style="italic"
+     id="text24"
+     style="font-style:italic;font-size:13.42px;text-anchor:end;fill:#000000"><tspan font-size="9.662px" dy="-3.96" id="tspan20" style="font-size:9.662px">1</tspan><tspan dy="3.96" id="tspan22">A</tspan></text>
+  <text
+     x="123"
+     y="125"
+     font-size="9.76px"
+     id="text36"
+     style="font-size:9.76px;text-anchor:middle;fill:#000000">1π<tspan font-size="7.027px" dy="-2.8800001" id="tspan26" style="font-size:7.027px">2</tspan><tspan dy="2.8800001" id="tspan28">2π</tspan><tspan font-size="7.027px" dy="-2.8800001" id="tspan30" style="font-size:7.027px">1</tspan><tspan dy="2.8800001" id="tspan32">(1π*)</tspan><tspan font-size="7.027px" dy="-2.8800001" id="tspan34" style="font-size:7.027px">1</tspan></text>
+  <line
+     x1="60"
+     y1="236"
+     x2="150"
+     y2="236"
+     stroke="#000000"
+     stroke-width="1.6"
+     id="line38" />
+  <text
+     x="54"
+     y="240"
+     font-size="13.42px"
+     text-anchor="end"
+     fill="#000000"
+     font-style="italic"
+     id="text44"><tspan font-size="9.662px" dy="-3.96" id="tspan40">3</tspan><tspan dy="3.96" id="tspan42">A</tspan></text>
+  <text
+     x="123"
+     y="231"
+     font-size="9.76px"
+     id="text56"
+     style="font-size:9.76px;text-anchor:middle;fill:#000000">1π<tspan font-size="7.027px" dy="-2.8800001" id="tspan46" style="font-size:7.027px">2</tspan><tspan dy="2.8800001" id="tspan48">2π</tspan><tspan font-size="7.027px" dy="-2.8800001" id="tspan50" style="font-size:7.027px">1</tspan><tspan dy="2.8800001" id="tspan52">(1π*)</tspan><tspan font-size="7.027px" dy="-2.8800001" id="tspan54" style="font-size:7.027px">1</tspan></text>
+  <line
+     x1="60"
+     y1="300"
+     x2="150"
+     y2="300"
+     stroke="#000000"
+     stroke-width="1.6"
+     id="line58" />
+  <text
+     x="54"
+     y="304"
+     font-size="13.42px"
+     text-anchor="end"
+     fill="#000000"
+     font-style="italic"
+     id="text64"><tspan font-size="9.662px" dy="-3.96" id="tspan60">1</tspan><tspan dy="3.96" id="tspan62">S</tspan></text>
+  <text
+     x="123"
+     y="295"
+     font-size="9.76px"
+     id="text72"
+     style="font-size:9.76px;text-anchor:middle;fill:#000000">1π<tspan font-size="7.027px" dy="-2.8800001" id="tspan66" style="font-size:7.027px">2</tspan><tspan dy="2.8800001" id="tspan68">2π</tspan><tspan font-size="7.027px" dy="-2.8800001" id="tspan70" style="font-size:7.027px">2</tspan></text>
+  <!-- термы продукта -->
+  <line
+     x1="330"
+     y1="78"
+     x2="420"
+     y2="78"
+     stroke="#000000"
+     stroke-width="1.6"
+     id="line74" />
+  <text
+     x="426"
+     y="82"
+     font-size="13.42px"
+     text-anchor="start"
+     fill="#000000"
+     font-style="italic"
+     id="text80"><tspan font-size="9.662px" dy="-3.96" id="tspan76">1</tspan><tspan dy="3.96" id="tspan78">S</tspan></text>
+  <text
+     x="355"
+     y="73"
+     font-size="9.76px"
+     id="text88"
+     style="font-size:9.76px;text-anchor:middle;fill:#000000">σ<tspan font-size="7.027px" dy="-2.8800001" id="tspan82" style="font-size:7.027px">2</tspan><tspan dy="2.8800001" id="tspan84">(π*)</tspan><tspan font-size="7.027px" dy="-2.8800001" id="tspan86" style="font-size:7.027px">2</tspan></text>
+  <line
+     x1="330"
+     y1="130"
+     x2="420"
+     y2="130"
+     id="line90"
+     style="stroke:#000000;stroke-width:1.60000002" />
+  <text
+     x="426"
+     y="134"
+     font-size="13.42px"
+     font-style="italic"
+     id="text96"
+     style="font-style:italic;font-size:13.42px;text-anchor:start;fill:#000000"><tspan font-size="9.662px" dy="-3.96" id="tspan92" style="font-size:9.662px">1</tspan><tspan dy="3.96" id="tspan94">A</tspan></text>
+  <text
+     x="355"
+     y="125"
+     font-size="9.76px"
+     id="text108"
+     style="font-size:9.76px;text-anchor:middle;fill:#000000">σ<tspan font-size="7.027px" dy="-2.8800001" id="tspan98" style="font-size:7.027px">2</tspan><tspan dy="2.8800001" id="tspan100">π</tspan><tspan font-size="7.027px" dy="-2.8800001" id="tspan102" style="font-size:7.027px">1</tspan><tspan dy="2.8800001" id="tspan104">(π*)</tspan><tspan font-size="7.027px" dy="-2.8800001" id="tspan106" style="font-size:7.027px">1</tspan></text>
+  <line
+     x1="330"
+     y1="236"
+     x2="420"
+     y2="236"
+     stroke="#000000"
+     stroke-width="1.6"
+     id="line110" />
+  <text
+     x="426"
+     y="240"
+     font-size="13.42px"
+     text-anchor="start"
+     fill="#000000"
+     font-style="italic"
+     id="text116"><tspan font-size="9.662px" dy="-3.96" id="tspan112">3</tspan><tspan dy="3.96" id="tspan114">A</tspan></text>
+  <text
+     x="355"
+     y="231"
+     font-size="9.76px"
+     id="text128"
+     style="font-size:9.76px;text-anchor:middle;fill:#000000">σ<tspan font-size="7.027px" dy="-2.8800001" id="tspan118" style="font-size:7.027px">2</tspan><tspan dy="2.8800001" id="tspan120">π</tspan><tspan font-size="7.027px" dy="-2.8800001" id="tspan122" style="font-size:7.027px">1</tspan><tspan dy="2.8800001" id="tspan124">(π*)</tspan><tspan font-size="7.027px" dy="-2.8800001" id="tspan126" style="font-size:7.027px">1</tspan></text>
+  <line
+     x1="330"
+     y1="300"
+     x2="420"
+     y2="300"
+     stroke="#000000"
+     stroke-width="1.6"
+     id="line130" />
+  <text
+     x="426"
+     y="304"
+     font-size="13.42px"
+     text-anchor="start"
+     fill="#000000"
+     font-style="italic"
+     id="text136"><tspan font-size="9.662px" dy="-3.96" id="tspan132">1</tspan><tspan dy="3.96" id="tspan134">S</tspan></text>
+  <text
+     x="355"
+     y="295"
+     font-size="9.76px"
+     id="text144"
+     style="font-size:9.76px;text-anchor:middle;fill:#000000">σ<tspan font-size="7.027px" dy="-2.8800001" id="tspan138" style="font-size:7.027px">2</tspan><tspan dy="2.8800001" id="tspan140">π</tspan><tspan font-size="7.027px" dy="-2.8800001" id="tspan142" style="font-size:7.027px">2</tspan></text>
+  <!-- адиабатические кривые: нижний 1S с барьером, верхний 1S с минимумом -->
+  <!-- запрещённое диабатическое пересечение термов одной симметрии -->
+  <path
+     d="m 219.16732,205.68822 c 13.9067,-16.64295 35.53933,-52.48932 49.44602,-70.41251"
+     id="path150"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#c02020;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:4.00000011,3.00000008;stroke-dashoffset:0" />
+  <path
+     d="m 215.67795,139.76126 c 13.0183,17.22901 33.26901,51.68705 46.28731,67.68543"
+     id="path152"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#c02020;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:4.00000011,3.00000008;stroke-dashoffset:0" />
+  <text
+     x="230.93405"
+     y="185.19051"
+     font-size="15.86px"
+     id="text154"
+     style="font-size:15.86px;text-anchor:middle;fill:#0000ff">*</text>
+  <!-- термы A: почти прямые линии с антипересечениями -->
+  <path
+     d="m 150,129.97139 c 50,0 80,7.64782 90,7.64782 10,0 40,-7.64782 90,-7.64782"
+     id="path156"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#808080;stroke-width:1.4;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     d="m 150,236 c 45,0 65,-7.6319 90,-7.6319 25,0 45,7.6319 90,7.6319"
+     id="path158"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#808080;stroke-width:1.39999998;stroke-miterlimit:4;stroke-dasharray:none" />
+  <!-- характерные точки -->
+  <text
+     x="217.87016"
+     y="127.33664"
+     font-size="11.59px"
+     font-style="italic"
+     id="text164"
+     style="font-style:italic;font-size:11.59px;text-anchor:middle;fill:#000000">P<tspan font-size="8.345px" dy="2.6600001" id="tspan162" style="font-size:8.345px">2</tspan></text>
+  <text
+     x="263.14862"
+     y="161.88618"
+     font-size="11.59px"
+     font-style="italic"
+     id="text170"
+     style="font-style:italic;font-size:11.59px;text-anchor:middle;fill:#000000">P<tspan font-size="8.345px" dy="2.6600001" id="tspan168" style="font-size:8.345px">3</tspan></text>
+  <text
+     x="261.14737"
+     y="187.67171"
+     font-size="11.59px"
+     font-style="italic"
+     id="text176"
+     style="font-style:italic;font-size:11.59px;text-anchor:middle;fill:#000000">P<tspan font-size="8.345px" dy="2.6600001" id="tspan174" style="font-size:8.345px">4</tspan></text>
+  <text
+     x="196.89635"
+     y="224.13416"
+     font-size="11.59px"
+     font-style="italic"
+     id="text182"
+     style="font-style:italic;font-size:11.59px;text-anchor:middle;fill:#000000">P<tspan font-size="8.345px" dy="2.6600001" id="tspan180" style="font-size:8.345px">1</tspan></text>
+  <!-- активационный барьер -->
+  <line
+     x1="239.69295"
+     y1="198.20996"
+     x2="239.69295"
+     y2="293.7041"
+     id="line184"
+     style="stroke:#000000;stroke-width:1.1;stroke-miterlimit:4;stroke-dasharray:none" />
+  <polygon
+     points="252,296 249.52,289.6 254.48,289.6 "
+     id="polygon186"
+     style="fill:#000000;stroke:#000000;stroke-width:0.5"
+     transform="translate(-12.307056,4.051176)" />
+  <text
+     x="245.87544"
+     y="245.86429"
+     font-size="12.2px"
+     font-style="italic"
+     id="text190"
+     style="font-style:italic;font-size:12.2px;text-anchor:start;fill:#000000">E<tspan font-size="8.784px" dy="2.8" id="tspan188" style="font-size:8.784px">a</tspan></text>
+  <text
+     x="105"
+     y="324"
+     font-size="11.59px"
+     id="text192"
+     style="font-size:11.59px;text-anchor:middle;fill:#000000">ЭК бутадиена</text>
+  <text
+     x="375"
+     y="324"
+     font-size="11.59px"
+     id="text194"
+     style="font-size:11.59px;text-anchor:middle;fill:#000000">ЭК продукта</text>
+  <polygon
+     style="fill:#000000;stroke:#000000;stroke-width:0.5"
+     id="polygon8611"
+     points="254.48,289.6 252,296 249.52,289.6 "
+     transform="matrix(1,0,0,-1,-12.336636,490.09223)" />
+  <path
+     d="m 150,300.08019 c 40,0 55,-107.46875 90,-107.46875 35,0 50,107.46875 90,107.46875"
+     id="path146"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1.4739145;stroke-miterlimit:4;stroke-dasharray:none" />
+  <circle
+     cx="203.96777"
+     cy="231.89368"
+     r="2"
+     id="circle178"
+     style="fill:#ff0000" />
+  <circle
+     cx="239.59059"
+     cy="192.45906"
+     r="2"
+     id="circle172"
+     style="fill:#ff0000" />
+  <path
+     d="m 150,78.027155 c 40,0 55,74.606845 90,74.606845 35,0 50,-74.606845 90,-74.606845"
+     id="path148"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1.52691317" />
+  <circle
+     cx="210.4425"
+     cy="133.72997"
+     r="2"
+     id="circle160"
+     style="fill:#ff0000" />
+  <circle
+     cx="240.47562"
+     cy="152.56271"
+     r="2"
+     id="circle166"
+     style="fill:#ff0000" />
+</svg>

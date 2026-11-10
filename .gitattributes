@@ -1,0 +1,2 @@
+# Preserve the imported files byte for byte on both machines.
+* -text

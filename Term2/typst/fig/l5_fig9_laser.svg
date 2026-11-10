@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="30 40 590 220"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="l5_fig9_laser.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.50084746"
+     inkscape:cx="113.80711"
+     inkscape:cy="141.75973"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <marker
+       id="ah"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.6) rotate(180)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;fill:#000000"
+         id="path1" />
+    </marker>
+    <marker
+       id="ahsm"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.38) rotate(180)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;fill:#000000"
+         id="path-ahsm" />
+    </marker>
+  </defs>
+  <!-- ===== оптическая ось резонатора ===== -->
+  <line
+     x1="70.470924"
+     y1="165.08824"
+     x2="533.95319"
+     y2="165.08824"
+     stroke="#000000"
+     stroke-width="0.790389"
+     stroke-dasharray="8, 5"
+     id="axis" />
+  <!-- ===== глухое зеркало (вогнутое), штриховка с тыльной стороны ===== -->
+  <path
+     d="M 60,105 Q 82,165 60,225"
+     fill="none"
+     stroke="#000"
+     stroke-width="3.2"
+     id="m1" />
+  <g
+     stroke="#000"
+     stroke-width="1"
+     fill="none"
+     id="hatch">
+    <line
+       x1="64"
+       y1="117"
+       x2="54"
+       y2="125"
+       id="h1" />
+    <line
+       x1="69"
+       y1="141"
+       x2="59"
+       y2="149"
+       id="h2" />
+    <line
+       x1="71"
+       y1="165"
+       x2="61"
+       y2="173"
+       id="h3" />
+    <line
+       x1="69"
+       y1="189"
+       x2="59"
+       y2="197"
+       id="h4" />
+    <line
+       x1="64"
+       y1="213"
+       x2="54"
+       y2="221"
+       id="h5" />
+  </g>
+  <!-- ===== полупрозрачное выходное зеркало ===== -->
+  <path
+     d="M 545,105 Q 523,165 545,225"
+     fill="none"
+     stroke="#000"
+     stroke-width="2.0"
+     id="m2" />
+  <!-- ===== рабочая среда ===== -->
+  <rect
+     x="150"
+     y="132"
+     width="150"
+     height="66"
+     fill="#fff"
+     stroke="#000"
+     stroke-width="1.6"
+     id="med" />
+  <text
+     x="225"
+     y="171"
+     font-size="16"
+     text-anchor="middle"
+     id="tmed">рабочая среда</text>
+  <!-- ===== лампа накачки ===== -->
+  <rect
+     x="160"
+     y="52"
+     width="130"
+     height="40"
+     fill="#fff"
+     stroke="#000"
+     stroke-width="1.4"
+     id="lamp" />
+  <text
+     x="225"
+     y="78"
+     font-size="16"
+     text-anchor="middle"
+     id="tlamp">ЛАМПА</text>
+  <g
+     stroke="#000"
+     stroke-width="1.2"
+     fill="none"
+     id="pump">
+    <line
+       x1="185"
+       y1="95"
+       x2="185"
+       y2="127"
+       marker-end="url(#ah)"
+       id="pu1" />
+    <line
+       x1="265"
+       y1="95"
+       x2="265"
+       y2="127"
+       marker-end="url(#ah)"
+       id="pu2" />
+  </g>
+  <!-- ===== затвор (Q-switch) ===== -->
+  <rect
+     x="370"
+     y="132"
+     width="110"
+     height="66"
+     fill="#fff"
+     stroke="#000"
+     stroke-width="1.6"
+     id="qsw" />
+  <text
+     x="425"
+     y="171"
+     font-size="16"
+     text-anchor="middle"
+     id="tqsw">ЗАТВОР</text>
+  <!-- ===== выходной пучок ===== -->
+  <line
+     x1="548"
+     y1="165"
+     x2="606"
+     y2="165"
+     stroke="#000"
+     stroke-width="1.9"
+     marker-end="url(#ahsm)"
+     id="out" />
+  <text
+     x="578"
+     y="153"
+     font-size="16"
+     font-style="italic"
+     text-anchor="middle"
+     id="tout">hν</text>
+  <!-- ===== коэффициенты отражения зеркал ===== -->
+  <g
+     font-size="16"
+     text-anchor="middle"
+     fill="#000"
+     id="refl">
+    <text
+       x="58"
+       y="96"
+       id="r1">100 %</text>
+    <text
+       x="547"
+       y="96"
+       id="r2">99 %</text>
+  </g>
+</svg>

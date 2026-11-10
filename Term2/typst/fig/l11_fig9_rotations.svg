@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="16.56 32.64 215.41 186.72"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg11"
+   sodipodi:docname="l11_fig9_rotations.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.0948276"
+     inkscape:cx="40.098765"
+     inkscape:cy="128.41152"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11" />
+  <defs
+     id="defs2">
+    <!-- наконечник стрелки в конце линии -->
+    <marker
+       id="ah"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.6) rotate(180)"
+         d="M 8.72,4.03 L -2.21,0.02 L 8.72,-4.00 C 6.97,-1.63 6.98,1.62 8.72,4.03 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:context-stroke;fill:context-stroke"
+         id="path1" />
+    </marker>
+    <!-- наконечник стрелки в начале линии -->
+    <marker
+       id="ahs"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.6)"
+         d="M 8.72,4.03 L -2.21,0.02 L 8.72,-4.00 C 6.97,-1.63 6.98,1.62 8.72,4.03 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:context-stroke;fill:context-stroke"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- лабораторная система координат -->
+  <line
+     x1="96.00"
+     y1="156.00"
+     x2="96.00"
+     y2="40.00"
+     stroke="#000"
+     stroke-width="0.90"
+     marker-end="url(#ah)"
+     id="line2" />
+  <text
+     x="88.974701"
+     y="45.307888"
+     font-size="12px"
+     text-anchor="end"
+     fill="#000000"
+     font-style="italic"
+     id="text2">z</text>
+  <line
+     x1="96.00"
+     y1="156.00"
+     x2="214.00"
+     y2="156.00"
+     stroke="#000"
+     stroke-width="0.90"
+     marker-end="url(#ah)"
+     id="line3" />
+  <text
+     x="220.00"
+     y="160.00"
+     font-size="12"
+     text-anchor="start"
+     fill="#000"
+     font-style="italic"
+     id="text3">y</text>
+  <line
+     x1="96.00"
+     y1="156.00"
+     x2="34.00"
+     y2="208.00"
+     stroke="#000"
+     stroke-width="0.90"
+     marker-end="url(#ah)"
+     id="line4" />
+  <text
+     x="29.350195"
+     y="206.54863"
+     font-size="12px"
+     text-anchor="end"
+     fill="#000000"
+     font-style="italic"
+     id="text4">x</text>
+  <!-- молекулярная система координат -->
+  <line
+     x1="96.00"
+     y1="156.00"
+     x2="140.00"
+     y2="66.00"
+     stroke="#000"
+     stroke-width="1.00"
+     marker-end="url(#ah)"
+     id="line5" />
+  <text
+     x="144.66245"
+     y="71.438721"
+     font-size="11px"
+     text-anchor="start"
+     fill="#000000"
+     font-style="italic"
+     id="text5">z′</text>
+  <line
+     x1="96.00"
+     y1="156.00"
+     x2="174.00"
+     y2="122.00"
+     stroke="#000"
+     stroke-width="1.00"
+     marker-end="url(#ah)"
+     id="line6" />
+  <text
+     x="178.31226"
+     y="132.07588"
+     font-size="11px"
+     text-anchor="start"
+     fill="#000000"
+     font-style="italic"
+     id="text6">y′</text>
+  <line
+     x1="96.00"
+     y1="156.00"
+     x2="66.00"
+     y2="212.00"
+     stroke="#000"
+     stroke-width="1.00"
+     marker-end="url(#ah)"
+     id="line7" />
+  <text
+     x="84.571159"
+     y="212.81758"
+     font-size="11px"
+     text-anchor="end"
+     fill="#000000"
+     font-style="italic"
+     id="text7">x′</text>
+  <!-- углы поворотов -->
+  <path
+     d="m 96.168774,110.31226 c 4.931946,-5.72443 18.611686,-3.0866 21.589026,1.68074"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.7"
+     id="path7"
+     sodipodi:nodetypes="cc" />
+  <text
+     x="108.45573"
+     y="102.98735"
+     font-size="10px"
+     text-anchor="middle"
+     fill="#000000"
+     font-style="italic"
+     id="text8">θ</text>
+  <path
+     d="m 67.465698,180.02248 c 1.749373,4.65758 5.004024,8.26627 10.572894,9.03812"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.7"
+     id="path8"
+     sodipodi:nodetypes="cc" />
+  <text
+     x="66.742699"
+     y="193.59485"
+     font-size="10px"
+     text-anchor="middle"
+     fill="#000000"
+     font-style="italic"
+     id="text9">φ</text>
+  <!-- номера поворотов -->
+  <text
+     x="112.68533"
+     y="87.765144"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text10">(1)</text>
+  <text
+     x="57.412422"
+     y="205.55432"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text11">(2)</text>
+</svg>

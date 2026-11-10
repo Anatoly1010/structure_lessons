@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="17 33 410 226"
+   version="1.1"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg16"
+   sodipodi:docname="l6_fig2_axial_polar.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.5290107"
+     inkscape:cx="115.8965"
+     inkscape:cy="191.27174"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <defs
+     id="defs2">
+    <!-- наконечник стрелки: Arrow2 в конце линии -->
+    <marker
+       id="ah"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.6) rotate(180)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;fill:#000000"
+         id="path1" />
+    </marker>
+    <!-- тот же наконечник в начале линии -->
+    <marker
+       id="ahs"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.6) rotate(180)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;fill:#000000"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- ===================== верхний ряд: аксиальный вектор ===================== -->
+  <text
+     x="20"
+     y="46"
+     font-size="13px"
+     font-style="italic"
+     id="text2">аксиальный вектор: вращение</text>
+  <!--   панель A: до инверсии   -->
+  <!-- орбита частицы, показанная в перспективе -->
+  <ellipse
+     cx="110"
+     cy="140"
+     rx="64"
+     ry="22"
+     fill="none"
+     stroke="#8c8c8c"
+     stroke-width="1"
+     id="ellipse2" />
+  <!-- направление обхода: передняя (нижняя) дуга идёт влево -->
+  <circle
+     cx="110"
+     cy="140"
+     r="2.4"
+     fill="#000"
+     id="circle3" />
+  <!-- момент импульса вдоль оси орбиты -->
+  <line
+     x1="110"
+     y1="140"
+     x2="110"
+     y2="64"
+     stroke="#000"
+     stroke-width="1.1"
+     marker-end="url(#ah)"
+     id="line3" />
+  <text
+     x="90"
+     y="76"
+     font-size="13px"
+     font-style="italic"
+     id="text3">L</text>
+  <path
+     d="m 89,63 h 11 m -3.2,-2.2 3.2,2.2 -3.2,2.2"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="path4" />
+  <!-- радиус-вектор частицы -->
+  <line
+     x1="110"
+     y1="140"
+     x2="165.62334"
+     y2="140"
+     stroke="#000000"
+     stroke-width="1.1"
+     marker-end="url(#ah)"
+     id="line4" />
+  <text
+     x="118"
+     y="135"
+     font-size="13px"
+     font-style="italic"
+     id="text4">r</text>
+  <path
+     d="m 117,124 h 11 m -3.2,-2.2 3.2,2.2 -3.2,2.2"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="path5" />
+  <!-- частица и её импульс (по касательной, на зрителя) -->
+  <circle
+     cx="174"
+     cy="140"
+     r="6.5"
+     fill="#fff"
+     stroke="#000"
+     stroke-width="1.1"
+     id="circle5" />
+  <circle
+     cx="174"
+     cy="140"
+     r="1.9"
+     fill="#000"
+     id="circle5dot" />
+  <text
+     x="172"
+     y="124"
+     font-size="13px"
+     font-style="italic"
+     id="text5">p</text>
+  <path
+     d="m 171,113 h 11 m -3.2,-2.2 3.2,2.2 -3.2,2.2"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="path6" />
+  <!--   операция инверсии   -->
+  <line
+     x1="214"
+     y1="140"
+     x2="252"
+     y2="140"
+     stroke="#000000"
+     stroke-width="1"
+     marker-end="url(#ah)"
+     id="line6" />
+  <text
+     x="229"
+     y="131"
+     font-size="13px"
+     font-style="italic"
+     id="text6">I</text>
+  <!--   панель B: после инверсии   -->
+  <ellipse
+     cx="360"
+     cy="140"
+     rx="64"
+     ry="22"
+     fill="none"
+     stroke="#8c8c8c"
+     stroke-width="1"
+     id="ellipse6" />
+  <circle
+     cx="360"
+     cy="140"
+     r="2.4"
+     fill="#000"
+     id="circle7" />
+  <!-- момент импульса остался прежним -->
+  <line
+     x1="360"
+     y1="140"
+     x2="360"
+     y2="64"
+     stroke="#000"
+     stroke-width="1.1"
+     marker-end="url(#ah)"
+     id="line7" />
+  <text
+     x="340"
+     y="76"
+     font-size="13px"
+     font-style="italic"
+     id="text7">L</text>
+  <path
+     d="m 339,63 h 11 m -3.2,-2.2 3.2,2.2 -3.2,2.2"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="path8" />
+  <!-- радиус-вектор развернулся -->
+  <line
+     x1="360"
+     y1="140"
+     x2="304.51434"
+     y2="140"
+     stroke="#000000"
+     stroke-width="1.1"
+     marker-end="url(#ah)"
+     id="line8" />
+  <text
+     x="332.79013"
+     y="135.93004"
+     font-size="13px"
+     id="text8">–</text>
+  <text
+     x="343.79013"
+     y="135.93004"
+     font-size="13px"
+     font-style="italic"
+     id="text9">r</text>
+  <path
+     d="m 342.79012,124.93004 h 11 m -3.2,-2.2 3.2,2.2 -3.2,2.2"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="path9" />
+  <!-- импульс развернулся -->
+  <circle
+     cx="296"
+     cy="140"
+     r="6.5"
+     fill="#fff"
+     stroke="#000"
+     stroke-width="1.1"
+     id="circle9" />
+  <path
+     d="M 291.4,135.4 L 300.6,144.6 M 291.4,144.6 L 300.6,135.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="1.1"
+     id="circle9cross" />
+  <text
+     x="284"
+     y="124"
+     font-size="13px"
+     id="text10">–</text>
+  <text
+     x="295"
+     y="124"
+     font-size="13px"
+     font-style="italic"
+     id="text11">p</text>
+  <path
+     d="m 294,113 h 11 m -3.2,-2.2 3.2,2.2 -3.2,2.2"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="path11" />
+  <!-- ===================== нижний ряд: полярный вектор ===================== -->
+  <text
+     x="20"
+     y="184"
+     font-size="13px"
+     font-style="italic"
+     id="text12">полярный вектор: смещение</text>
+  <circle
+     cx="110"
+     cy="228"
+     r="2.4000001"
+     fill="#000000"
+     id="circle12" />
+  <line
+     x1="110"
+     y1="228"
+     x2="170"
+     y2="204"
+     stroke="#000000"
+     stroke-width="1.1"
+     marker-end="url(#ah)"
+     id="line12" />
+  <text
+     x="142"
+     y="236"
+     font-size="13px"
+     font-style="italic"
+     id="text13">p</text>
+  <path
+     d="m 141.56673,224.71663 h 11 m -3.2,-2.2 3.2,2.2 -3.2,2.2"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="path13" />
+  <line
+     x1="214"
+     y1="228"
+     x2="252"
+     y2="228"
+     stroke="#000000"
+     stroke-width="1"
+     marker-end="url(#ah)"
+     id="line13" />
+  <text
+     x="229"
+     y="219"
+     font-size="13px"
+     font-style="italic"
+     id="text14">I</text>
+  <circle
+     cx="360"
+     cy="228"
+     r="2.4000001"
+     fill="#000000"
+     id="circle14" />
+  <line
+     x1="360"
+     y1="228"
+     x2="300"
+     y2="252"
+     stroke="#000000"
+     stroke-width="1.1"
+     marker-end="url(#ah)"
+     id="line14" />
+  <text
+     x="312.3786"
+     y="230.61728"
+     font-size="13px"
+     id="text15">–</text>
+  <text
+     x="323.3786"
+     y="230.61728"
+     font-size="13px"
+     font-style="italic"
+     id="text16">p</text>
+  <path
+     d="m 322.3786,219.61728 h 11 m -3.2,-2.2 3.2,2.2 -3.2,2.2"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="path16" />
+</svg>

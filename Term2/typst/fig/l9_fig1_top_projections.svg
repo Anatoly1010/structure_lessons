@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="35.2 0 169.5 230"
+   version="1.1"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg7"
+   sodipodi:docname="l9_fig1_top_projections.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.1130435"
+     inkscape:cx="84.711933"
+     inkscape:cy="84.238682"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs2">
+    <marker
+       markerWidth="0.52499998"
+       markerHeight="0.99999995"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       id="marker5"
+       viewBox="0 0 0.525 1"
+       inkscape:stockid="Triangle cap"
+       style="overflow:visible"
+       preserveAspectRatio="xMidYMid"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         style="fill:context-stroke;stroke-linecap:butt"
+         d="M 0,-1 1,0 0,1 -0.05,0 Z"
+         sodipodi:nodetypes="sssssscsss"
+         transform="scale(0.5)"
+         id="path5" />
+    </marker>
+    <linearGradient
+       id="swatch7"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#1a4fbf;stop-opacity:1;"
+         offset="0"
+         id="stop7" />
+    </linearGradient>
+    <marker
+       markerWidth="0.52499997"
+       markerHeight="0.99999994"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       id="CapTriangle"
+       viewBox="0 0 0.525 1"
+       inkscape:stockid="Triangle cap"
+       style="overflow:visible"
+       preserveAspectRatio="xMidYMid"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         style="fill:context-stroke;stroke-linecap:butt"
+         d="M 0,-1 1,0 0,1 -0.05,0 Z"
+         sodipodi:nodetypes="sssssscsss"
+         transform="scale(0.5)"
+         id="path61" />
+    </marker>
+    <marker
+       id="ah"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto"
+       viewBox="0 0 5.7753823 4.33018796"
+       markerWidth="5.77499986"
+       markerHeight="4.32990122"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="m -4.3592939,-2.0168676 5.4629386,2.00886097 -5.4629389,2.00886053 c 0.8727492,-1.18603045 0.8677204,-2.80872595 3e-7,-4.0177215 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.3125;stroke-linejoin:round"
+         id="path1" />
+    </marker>
+    <!-- синий наконечник для вектора K -->
+    <marker
+       id="ahb"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto"
+       viewBox="0 0 5.7753823 4.33018796"
+       markerWidth="5.77499986"
+       markerHeight="4.32990122"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="m -4.3592939,-2.0168676 5.4629386,2.00886097 -5.4629389,2.00886053 c 0.8727492,-1.18603045 0.8677204,-2.80872595 3e-7,-4.0177215 z"
+         style="fill:#1a4fbf;fill-rule:evenodd;stroke:#1a4fbf;stroke-width:0.3125;stroke-linejoin:round"
+         id="path1b" />
+    </marker>
+    <marker
+       id="ahr"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto"
+       viewBox="0 0 5.7753823 4.33018796"
+       markerWidth="5.77538208"
+       markerHeight="4.3301878"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5) rotate(180)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#cc0000;fill:#cc0000"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- ось лабораторной системы -->
+  <line
+     x1="120"
+     y1="218"
+     x2="120"
+     y2="18"
+     stroke="#000"
+     stroke-width="0.9"
+     marker-end="url(#ah)"
+     id="line2" />
+  <text
+     x="126.99609"
+     y="22.677113"
+     font-size="13px"
+     font-style="italic"
+     id="text2">z</text>
+  <!-- ось молекулы: наклон 58 градусов к оси z -->
+  <!-- молекула-волчок: цилиндр вдоль оси молекулы -->
+  <g
+     transform="rotate(58 120 152)"
+     id="g3">
+    <ellipse
+       cx="120"
+       cy="110"
+       rx="34"
+       ry="12"
+       fill="#f4f4f4"
+       stroke="#000"
+       stroke-width="1"
+       id="ellipse2" />
+    <path
+       d="M 86,110 L 86,194 A 34,12 0 0 0 154,194 L 154,110"
+       fill="#f4f4f4"
+       stroke="#000"
+       stroke-width="1"
+       id="path3" />
+  </g>
+  <line
+     x1="200.6"
+     y1="101.7"
+     x2="39.4"
+     y2="202.3"
+     stroke="#888"
+     stroke-width="0.7"
+     stroke-dasharray="4,3"
+     id="line3" />
+  <!-- вектор полного момента -->
+  <line
+     x1="119.98947"
+     y1="152.00581"
+     x2="146.63261"
+     y2="51.992977"
+     stroke="#000000"
+     stroke-width="1.4"
+     marker-end="url(#ah)"
+     id="line4" />
+  <text
+     x="158"
+     y="45"
+     font-size="14px"
+     font-style="italic"
+     id="text4">J</text>
+  <path
+     d="m 152.893,30.095679 h 12 m -3.4,-2.3 3.4,2.3 -3.4,2.3"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     id="path4" />
+  <!-- проекция на лабораторную ось z -->
+  <line
+     x1="120"
+     y1="152"
+     x2="120"
+     y2="50.6"
+     stroke="#cc0000"
+     stroke-width="1.2"
+     marker-end="url(#ahr)"
+     id="line5"
+     style="marker-end:url(#CapTriangle)" />
+  <text
+     x="94"
+     y="52.354939"
+     font-size="13px"
+     font-style="italic"
+     fill="#cc0000"
+     id="text5">M<tspan
+   font-size="9px"
+   dy="3"
+   id="tspan5">J</tspan></text>
+  <line
+     x1="120"
+     y1="50.6"
+     x2="147.2"
+     y2="50.6"
+     stroke="#cc0000"
+     stroke-width="0.6"
+     stroke-dasharray="3,3"
+     id="line6" />
+  <!-- проекция на ось молекулы -->
+  <line
+     x1="147.2"
+     y1="50.6"
+     x2="185.1"
+     y2="111.3"
+     stroke="#1a4fbf"
+     stroke-width="0.6"
+     stroke-dasharray="3,3"
+     id="line8" />
+  <line
+     x1="119.33072"
+     y1="152.50195"
+     x2="184.43073"
+     y2="111.80196"
+     stroke="#1a4fbf"
+     stroke-width="1.2"
+     marker-end="url(#ahb)"
+     id="line7"
+     style="display:inline;opacity:1;mix-blend-mode:normal;fill:none;fill-opacity:1;stroke:#1a4fbf;stroke-opacity:1;marker-end:url(#marker5)" />
+  <text
+     x="186.68726"
+     y="124.80864"
+     font-size="13px"
+     font-style="italic"
+     fill="#1a4fbf"
+     id="text7">K</text>
+</svg>

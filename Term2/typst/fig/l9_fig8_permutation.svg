@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 22 560 340"
+   version="1.1"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg19"
+   sodipodi:docname="l9_fig8_permutation.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.57857145"
+     inkscape:cx="-91.604935"
+     inkscape:cy="349.13579"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <defs
+     id="defs1">
+    <marker
+       id="ah"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.5) rotate(180)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;fill:#000000"
+         id="path1" />
+    </marker>
+  </defs>
+  <!-- сдвиг вправо: схема центрируется без учёта легенды справа -->
+  <g
+     transform="translate(45,0)"
+     id="g1">
+    <line
+       x1="42"
+       y1="60"
+       x2="114"
+       y2="60"
+       stroke="#000000"
+       stroke-width="1.1"
+       id="line1" />
+    <circle
+       cx="42"
+       cy="60"
+       r="13"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="1.2"
+       id="circle1" />
+    <text
+       x="42"
+       y="64"
+       font-size="11px"
+       text-anchor="middle"
+       font-style="italic"
+       id="text1">A</text>
+    <circle
+       cx="114"
+       cy="60"
+       r="13"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="1.2"
+       id="circle2" />
+    <path
+       d="m 114,47 a 13,13 0 0 0 0,26 z"
+       fill="#a9c0e8"
+       id="path2" />
+    <text
+       x="114"
+       y="64"
+       font-size="11px"
+       text-anchor="middle"
+       font-style="italic"
+       id="text2">B</text>
+    <line
+       x1="114"
+       y1="47"
+       x2="114"
+       y2="30"
+       stroke="#1a3f8f"
+       stroke-width="1.1"
+       id="line2" />
+    <path
+       d="m 114,30 14,4 -14,4 z"
+       fill="#1a3f8f"
+       id="path3" />
+    <line
+       x1="352"
+       y1="60"
+       x2="424"
+       y2="60"
+       stroke="#000000"
+       stroke-width="1.1"
+       id="line3" />
+    <circle
+       cx="352"
+       cy="60"
+       r="13"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="1.2"
+       id="circle3" />
+    <text
+       x="352"
+       y="64"
+       font-size="11px"
+       text-anchor="middle"
+       font-style="italic"
+       id="text3">B</text>
+    <circle
+       cx="424"
+       cy="60"
+       r="13"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="1.2"
+       id="circle4" />
+    <path
+       d="m 424,47 a 13,13 0 0 0 0,26 z"
+       fill="#a9c0e8"
+       id="path4" />
+    <text
+       x="424"
+       y="64"
+       font-size="11px"
+       text-anchor="middle"
+       font-style="italic"
+       id="text4">A</text>
+    <line
+       x1="424"
+       y1="47"
+       x2="424"
+       y2="30"
+       stroke="#1a3f8f"
+       stroke-width="1.1"
+       id="line4" />
+    <path
+       d="m 424,30 14,4 -14,4 z"
+       fill="#1a3f8f"
+       id="path5" />
+    <line
+       x1="42"
+       y1="210"
+       x2="114"
+       y2="210"
+       stroke="#000000"
+       stroke-width="1.1"
+       id="line5" />
+    <circle
+       cx="42"
+       cy="210"
+       r="13"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="1.2"
+       id="circle5" />
+    <path
+       d="m 42,197 a 13,13 0 0 0 0,26 z"
+       fill="#a9c0e8"
+       id="path6" />
+    <text
+       x="42"
+       y="214"
+       font-size="11px"
+       text-anchor="middle"
+       font-style="italic"
+       id="text6">B</text>
+    <circle
+       cx="114"
+       cy="210"
+       r="13"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="1.2"
+       id="circle6" />
+    <text
+       x="114"
+       y="214"
+       font-size="11px"
+       text-anchor="middle"
+       font-style="italic"
+       id="text7">A</text>
+    <line
+       x1="42"
+       y1="197"
+       x2="42"
+       y2="180"
+       stroke="#1a3f8f"
+       stroke-width="1.1"
+       id="line7" />
+    <path
+       d="m 42,180 14,4 -14,4 z"
+       fill="#1a3f8f"
+       id="path7" />
+    <line
+       x1="197"
+       y1="340"
+       x2="269"
+       y2="340"
+       stroke="#000000"
+       stroke-width="1.1"
+       id="line8" />
+    <circle
+       cx="197"
+       cy="340"
+       r="13"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="1.2"
+       id="circle8" />
+    <path
+       d="m 197,327 a 13,13 0 0 0 0,26 z"
+       fill="#a9c0e8"
+       id="path8" />
+    <text
+       x="197"
+       y="344"
+       font-size="11px"
+       text-anchor="middle"
+       font-style="italic"
+       id="text8">B</text>
+    <circle
+       cx="269"
+       cy="340"
+       r="13"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="1.2"
+       id="circle9" />
+    <text
+       x="269"
+       y="344"
+       font-size="11px"
+       text-anchor="middle"
+       font-style="italic"
+       id="text9">A</text>
+    <line
+       x1="197"
+       y1="327"
+       x2="197"
+       y2="310"
+       stroke="#1a3f8f"
+       stroke-width="1.1"
+       id="line9" />
+    <path
+       d="m 197,310 14,4 -14,4 z"
+       fill="#1a3f8f"
+       id="path9" />
+    <line
+       x1="352"
+       y1="210"
+       x2="424"
+       y2="210"
+       stroke="#000000"
+       stroke-width="1.1"
+       id="line10" />
+    <circle
+       cx="352"
+       cy="210"
+       r="13"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="1.2"
+       id="circle10" />
+    <path
+       d="m 352,197 a 13,13 0 0 0 0,26 z"
+       fill="#a9c0e8"
+       id="path10" />
+    <text
+       x="352"
+       y="214"
+       font-size="11px"
+       text-anchor="middle"
+       font-style="italic"
+       id="text10">B</text>
+    <circle
+       cx="424"
+       cy="210"
+       r="13"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="1.2"
+       id="circle11" />
+    <text
+       x="424"
+       y="214"
+       font-size="11px"
+       text-anchor="middle"
+       font-style="italic"
+       id="text11">A</text>
+    <line
+       x1="424"
+       y1="197"
+       x2="424"
+       y2="180"
+       stroke="#1a3f8f"
+       stroke-width="1.1"
+       id="line11" />
+    <path
+       d="m 424,180 14,4 -14,4 z"
+       fill="#1a3f8f"
+       id="path11" />
+    <line
+       x1="162"
+       y1="60"
+       x2="327"
+       y2="60"
+       stroke="#000000"
+       stroke-width="1"
+       marker-end="url(#ah)"
+       id="line12" />
+    <text
+       x="244"
+       y="46"
+       font-size="14px"
+       text-anchor="middle"
+       font-style="italic"
+       id="text12">P̂</text>
+    <text
+       x="244"
+       y="78"
+       font-size="9.5px"
+       text-anchor="middle"
+       id="text13">перестановка ядер</text>
+    <line
+       x1="78"
+       y1="92"
+       x2="78"
+       y2="172"
+       stroke="#000000"
+       stroke-width="1"
+       marker-end="url(#ah)"
+       id="line13" />
+    <text
+       x="90"
+       y="136"
+       font-size="12px"
+       font-style="italic"
+       id="text14">C<tspan font-size="9px" dy="3" id="tspan13">2</tspan></text>
+    <line
+       x1="79.446648"
+       y1="230.26331"
+       x2="190.50693"
+       y2="298.76996"
+       stroke="#000000"
+       stroke-width="1.10956"
+       marker-end="url(#ah)"
+       id="line14"
+       style="stroke-width:0.98;stroke-dasharray:none" />
+    <text
+       x="112"
+       y="276"
+       font-size="12px"
+       font-style="italic"
+       id="text15">i<tspan font-size="9px" dy="-5" id="tspan14">E</tspan></text>
+    <line
+       x1="282.39789"
+       y1="298.7894"
+       x2="381.85278"
+       y2="229.76108"
+       stroke="#000000"
+       stroke-width="1.18006"
+       marker-end="url(#ah)"
+       id="line15" />
+    <text
+       x="338"
+       y="278"
+       font-size="12px"
+       font-style="italic"
+       id="text16">σ<tspan font-size="9px" dy="-5" id="tspan15">E</tspan></text>
+    <line
+       x1="388"
+       y1="172"
+       x2="388"
+       y2="94"
+       stroke="#000000"
+       stroke-width="1"
+       marker-end="url(#ah)"
+       id="line16" />
+    <text
+       x="400"
+       y="140"
+       font-size="12px"
+       font-style="italic"
+       id="text17">P̂<tspan font-size="9px" id="tspan16" dy="3">nuc</tspan></text>
+    <line
+       x1="383.23877"
+       y1="320.48114"
+       x2="383.23877"
+       y2="306.48114"
+       stroke="#1a3f8f"
+       stroke-width="1.1"
+       id="line17" />
+    <path
+       d="m 383.23879,306.48112 14,4 -14,4 z"
+       fill="#a9c0e8"
+       id="path17"
+       style="fill:#1a3f8f;fill-opacity:1" />
+    <text
+       x="439.23877"
+       y="318.48114"
+       font-size="10px"
+       id="text18">электрон</text>
+    <circle
+       cx="373.47275"
+       cy="340.3681"
+       r="9"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="1.1"
+       id="circle18" />
+    <circle
+       cx="399.47275"
+       cy="340.3681"
+       r="9"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="1.1"
+       id="circle19" />
+    <path
+       d="m 399.47275,331.36807 a 9,9 0 0 0 0,18 z"
+       fill="#a9c0e8"
+       id="path19" />
+    <text
+       x="463.0127"
+       y="336.3681"
+       font-size="10px"
+       id="text19"
+       style="text-align:center;text-anchor:middle"><tspan sodipodi:role="line" id="tspan1" x="463.0127" y="336.3681">ядерное спиновое</tspan><tspan sodipodi:role="line" id="tspan2" x="463.0127" y="348.8681">состояние</tspan></text>
+    <circle
+       cx="197"
+       cy="340"
+       r="13"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="1.2"
+       id="circle20"
+       style="fill:none" />
+    <circle
+       cx="42"
+       cy="210"
+       r="13"
+       fill="#fff"
+       stroke="#000000"
+       stroke-width="1.2"
+       id="circle21"
+       style="fill:none" />
+    <circle
+       cx="114"
+       cy="60"
+       r="13"
+       fill="#fff"
+       stroke="#000000"
+       stroke-width="1.2"
+       id="circle22"
+       style="fill:none" />
+    <circle
+       cx="424"
+       cy="60"
+       r="13"
+       fill="#fff"
+       stroke="#000000"
+       stroke-width="1.2"
+       id="circle23"
+       style="fill:none" />
+    <circle
+       cx="352"
+       cy="210"
+       r="13"
+       fill="#fff"
+       stroke="#000000"
+       stroke-width="1.2"
+       id="circle24"
+       style="fill:none" />
+    <circle
+       cx="399.47275"
+       cy="340.3681"
+       r="9"
+       fill="#fff"
+       stroke="#000000"
+       stroke-width="1.1"
+       id="circle25"
+       style="fill:none" />
+  </g>
+</svg>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="18 58 434 264"
+   version="1.1"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg41"
+   sodipodi:docname="l6_fig3_mirror_T_R.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview41"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.0672481"
+     inkscape:cx="226.2829"
+     inkscape:cy="245.49118"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg41" />
+  <defs
+     id="defs2">
+    <!-- наконечник стрелки -->
+    <marker
+       id="ah"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.6) rotate(180)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;fill:#000000"
+         id="path1" />
+    </marker>
+    <!-- то же серым: зеркальный образ -->
+    <marker
+       id="ahg"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.6) rotate(180)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#666666;fill:#666666"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- ===================== панель T: полярный вектор ===================== -->
+  <!-- плоскость отражения -->
+  <polygon
+     points="35,165 155,135 215,175 95,205"
+     fill="#f0f0f0"
+     stroke="#000"
+     stroke-width="0.8"
+     id="polygon3" />
+  <text
+     x="56.465019"
+     y="170.98354"
+     font-size="12px"
+     font-style="italic"
+     id="text4">σ<tspan
+   font-size="9px"
+   dy="3"
+   id="tspan3">xy</tspan></text>
+  <!-- исходный вектор над плоскостью -->
+  <circle
+     cx="125"
+     cy="125"
+     r="2.6"
+     fill="#000"
+     id="circle4" />
+  <line
+     x1="125"
+     y1="125"
+     x2="125"
+     y2="70"
+     stroke="#000"
+     stroke-width="1.2"
+     marker-end="url(#ah)"
+     id="line4" />
+  <text
+     x="132"
+     y="80"
+     font-size="12"
+     font-style="italic"
+     id="text5">T<tspan
+   font-size="9"
+   dy="3"
+   id="tspan4">z</tspan></text>
+  <!-- зеркальный образ под плоскостью: направление изменилось -->
+  <circle
+     cx="125"
+     cy="215"
+     r="2.6"
+     fill="#666"
+     id="circle5" />
+  <line
+     x1="125"
+     y1="215"
+     x2="125"
+     y2="270"
+     stroke="#666"
+     stroke-width="1.2"
+     stroke-dasharray="4,3"
+     marker-end="url(#ahg)"
+     id="line5" />
+  <text
+     x="132"
+     y="262"
+     font-size="12"
+     fill="#666"
+     id="text6">–<tspan
+   font-style="italic"
+   id="tspan5">T</tspan><tspan
+   font-size="9"
+   dy="3"
+   font-style="italic"
+   id="tspan6">z</tspan></text>
+  <text x="60.16" y="294" font-size="10" text-anchor="start" id="text18_0"><tspan font-style="italic">T</tspan><tspan font-size="7.5" dy="2.5" font-style="italic">z</tspan></text>
+  <path d="M 72.73,290.8 L 77.63,290.8" stroke="#000000" stroke-width="0.9" fill="none" id="text18_a0" />
+  <path d="M 79.53,290.8 l -2.7,1.65 l 0,-3.3 z" fill="#000000" id="text18_h0" />
+  <text x="82.13" y="294" font-size="10" text-anchor="start" id="text18_1"><tspan>–</tspan><tspan font-style="italic">T</tspan><tspan font-size="7.5" dy="2.5" font-style="italic">z</tspan><tspan dy="-2.5">;  </tspan><tspan font-style="italic">T</tspan><tspan font-size="7.5" dy="2.5" font-style="italic">x</tspan><tspan dy="-2.5">, </tspan><tspan font-style="italic">T</tspan><tspan font-size="7.5" dy="2.5" font-style="italic">y</tspan><tspan dy="-2.5"> — на месте</tspan></text>
+  <text
+     x="125"
+     y="310"
+     font-size="11"
+     text-anchor="middle"
+     font-style="italic"
+     id="text19">χ(T) = 1</text>
+  <!-- ===================== панель R: аксиальный вектор ===================== -->
+  <polygon
+     points="260,165 380,135 440,175 320,205"
+     fill="#f0f0f0"
+     stroke="#000"
+     stroke-width="0.8"
+     id="polygon21" />
+  <text
+     x="282.79013"
+     y="170.32098"
+     font-size="12px"
+     font-style="italic"
+     id="text22">σ<tspan
+   font-size="9px"
+   dy="3"
+   id="tspan21">xy</tspan></text>
+  <!-- исходное вращение над плоскостью -->
+  <ellipse
+     cx="350"
+     cy="118"
+     rx="32"
+     ry="11"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="ellipse22" />
+  <path
+     d="m 366,108.42027 a 32,11 0 0 0 -32,0"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     marker-end="url(#ah)"
+     id="path22" />
+  <line
+     x1="350"
+     y1="118"
+     x2="350"
+     y2="70"
+     stroke="#000"
+     stroke-width="1.2"
+     marker-end="url(#ah)"
+     id="line22" />
+  <text
+     x="357"
+     y="80"
+     font-size="12"
+     font-style="italic"
+     id="text23">R<tspan
+   font-size="9"
+   dy="3"
+   id="tspan22">z</tspan></text>
+  <!-- зеркальный образ: обход тот же, вектор не изменился -->
+  <ellipse
+     cx="350"
+     cy="240"
+     rx="32"
+     ry="11"
+     fill="none"
+     stroke="#666"
+     stroke-width="0.9"
+     stroke-dasharray="4,3"
+     id="ellipse23" />
+  <path
+     d="m 365.5859,230.44856 a 32,11 0 0 0 -32,0"
+     fill="none"
+     stroke="#666666"
+     stroke-width="1"
+     stroke-dasharray="4, 3"
+     marker-end="url(#ahg)"
+     id="path23" />
+  <line
+     x1="350"
+     y1="240"
+     x2="350"
+     y2="204"
+     stroke="#666"
+     stroke-width="1.2"
+     stroke-dasharray="4,3"
+     marker-end="url(#ahg)"
+     id="line23" />
+  <text
+     x="357"
+     y="222"
+     font-size="12"
+     fill="#666"
+     font-style="italic"
+     id="text24">R<tspan
+   font-size="9"
+   dy="3"
+   id="tspan23">z</tspan></text>
+  <text x="292.06" y="294" font-size="10" text-anchor="start" id="text40_0"><tspan font-style="italic">R</tspan><tspan font-size="7.5" dy="2.5" font-style="italic">z</tspan></text>
+  <path d="M 305.14,290.8 L 310.04,290.8" stroke="#000000" stroke-width="0.9" fill="none" id="text40_a0" />
+  <path d="M 311.94,290.8 l -2.7,1.65 l 0,-3.3 z" fill="#000000" id="text40_h0" />
+  <text x="314.54" y="294" font-size="10" text-anchor="start" id="text40_1"><tspan font-style="italic">R</tspan><tspan font-size="7.5" dy="2.5" font-style="italic">z</tspan><tspan dy="-2.5">;  </tspan><tspan font-style="italic">R</tspan><tspan font-size="7.5" dy="2.5" font-style="italic">x</tspan><tspan dy="-2.5">, </tspan><tspan font-style="italic">R</tspan><tspan font-size="7.5" dy="2.5" font-style="italic">y</tspan></text>
+  <path d="M 362.10,290.8 L 367.00,290.8" stroke="#000000" stroke-width="0.9" fill="none" id="text40_a1" />
+  <path d="M 368.90,290.8 l -2.7,1.65 l 0,-3.3 z" fill="#000000" id="text40_h1" />
+  <text x="371.50" y="294" font-size="10" text-anchor="start" id="text40_2"><tspan>–</tspan><tspan font-style="italic">R</tspan><tspan font-size="7.5" dy="2.5" font-style="italic">x</tspan><tspan dy="-2.5">, –</tspan><tspan font-style="italic">R</tspan><tspan font-size="7.5" dy="2.5" font-style="italic">y</tspan></text>
+  <text
+     x="350"
+     y="310"
+     font-size="11"
+     text-anchor="middle"
+     font-style="italic"
+     id="text41">χ(R) = –1</text>
+</svg>

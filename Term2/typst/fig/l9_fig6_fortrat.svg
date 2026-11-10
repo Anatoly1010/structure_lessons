@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 14 640 344"
+   version="1.1"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg136"
+   sodipodi:docname="l9_fig6_fortrat.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview136"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.6075"
+     inkscape:cx="179.42387"
+     inkscape:cy="202.46914"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg136" />
+  <defs
+     id="defs1">
+    <marker
+       id="ah"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.45) rotate(180)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;fill:#000000"
+         id="path1" />
+    </marker>
+  </defs>
+  <line
+     x1="54"
+     y1="132"
+     x2="54"
+     y2="22"
+     stroke="#000000"
+     stroke-width="0.9"
+     marker-end="url(#ah)"
+     id="line1" />
+  <text
+     x="40"
+     y="32"
+     font-size="12px"
+     font-style="italic"
+     id="text1">J</text>
+  <circle
+     cx="536.7"
+     cy="130.0"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle1" />
+  <circle
+     cx="546.5"
+     cy="125.5"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle2" />
+  <circle
+     cx="555.3"
+     cy="120.9"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle3" />
+  <circle
+     cx="563.1"
+     cy="116.4"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle4" />
+  <circle
+     cx="569.9"
+     cy="111.8"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle5" />
+  <circle
+     cx="575.7"
+     cy="107.3"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle6" />
+  <circle
+     cx="580.6"
+     cy="102.7"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle7" />
+  <circle
+     cx="584.4"
+     cy="98.2"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle8" />
+  <circle
+     cx="587.2"
+     cy="93.6"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle9" />
+  <circle
+     cx="589.1"
+     cy="89.1"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle10" />
+  <circle
+     cx="589.9"
+     cy="84.5"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle11" />
+  <circle
+     cx="589.8"
+     cy="80.0"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle12" />
+  <circle
+     cx="588.7"
+     cy="75.5"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle13" />
+  <circle
+     cx="586.6"
+     cy="70.9"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle14" />
+  <circle
+     cx="583.4"
+     cy="66.4"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle15" />
+  <circle
+     cx="579.3"
+     cy="61.8"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle16" />
+  <circle
+     cx="574.2"
+     cy="57.3"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle17" />
+  <circle
+     cx="568.1"
+     cy="52.7"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle18" />
+  <circle
+     cx="561.0"
+     cy="48.2"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle19" />
+  <circle
+     cx="553.0"
+     cy="43.6"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle20" />
+  <circle
+     cx="543.9"
+     cy="39.1"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle21" />
+  <circle
+     cx="533.8"
+     cy="34.5"
+     r="2.4"
+     fill="none"
+     stroke="#000"
+     stroke-width="0.9"
+     id="circle22" />
+  <text
+     x="546.474"
+     y="98.801872"
+     font-size="15px"
+     font-style="italic"
+     id="text22">R</text>
+  <line
+     x1="54"
+     y1="148"
+     x2="54"
+     y2="254.91322"
+     stroke="#000000"
+     stroke-width="0.93059"
+     marker-end="url(#ah)"
+     id="line22" />
+  <text
+     x="40"
+     y="254"
+     font-size="12px"
+     font-style="italic"
+     id="text23">J</text>
+  <text
+     x="36.981476"
+     y="275.09219"
+     font-size="12px"
+     font-style="italic"
+     id="text23-7"
+     style="font-size:12px">A</text>
+  <circle
+     cx="525.9"
+     cy="162.0"
+     r="2.4"
+     fill="#000"
+     id="circle23" />
+  <circle
+     cx="514.1"
+     cy="166.1"
+     r="2.4"
+     fill="#000"
+     id="circle24" />
+  <circle
+     cx="501.4"
+     cy="170.2"
+     r="2.4"
+     fill="#000"
+     id="circle25" />
+  <circle
+     cx="487.6"
+     cy="174.3"
+     r="2.4"
+     fill="#000"
+     id="circle26" />
+  <circle
+     cx="472.8"
+     cy="178.4"
+     r="2.4"
+     fill="#000"
+     id="circle27" />
+  <circle
+     cx="457.1"
+     cy="182.5"
+     r="2.4"
+     fill="#000"
+     id="circle28" />
+  <circle
+     cx="440.3"
+     cy="186.6"
+     r="2.4"
+     fill="#000"
+     id="circle29" />
+  <circle
+     cx="422.6"
+     cy="190.7"
+     r="2.4"
+     fill="#000"
+     id="circle30" />
+  <circle
+     cx="403.9"
+     cy="194.8"
+     r="2.4"
+     fill="#000"
+     id="circle31" />
+  <circle
+     cx="384.2"
+     cy="198.9"
+     r="2.4"
+     fill="#000"
+     id="circle32" />
+  <circle
+     cx="363.4"
+     cy="203.0"
+     r="2.4"
+     fill="#000"
+     id="circle33" />
+  <circle
+     cx="341.7"
+     cy="207.0"
+     r="2.4"
+     fill="#000"
+     id="circle34" />
+  <circle
+     cx="319.0"
+     cy="211.1"
+     r="2.4"
+     fill="#000"
+     id="circle35" />
+  <circle
+     cx="295.3"
+     cy="215.2"
+     r="2.4"
+     fill="#000"
+     id="circle36" />
+  <circle
+     cx="270.6"
+     cy="219.3"
+     r="2.4"
+     fill="#000"
+     id="circle37" />
+  <circle
+     cx="245.0"
+     cy="223.4"
+     r="2.4"
+     fill="#000"
+     id="circle38" />
+  <circle
+     cx="218.3"
+     cy="227.5"
+     r="2.4"
+     fill="#000"
+     id="circle39" />
+  <circle
+     cx="190.6"
+     cy="231.6"
+     r="2.4"
+     fill="#000"
+     id="circle40" />
+  <circle
+     cx="161.9"
+     cy="235.7"
+     r="2.4"
+     fill="#000"
+     id="circle41" />
+  <circle
+     cx="132.3"
+     cy="239.8"
+     r="2.4"
+     fill="#000"
+     id="circle42" />
+  <circle
+     cx="101.6"
+     cy="243.9"
+     r="2.4"
+     fill="#000"
+     id="circle43" />
+  <circle
+     cx="70.0"
+     cy="248.0"
+     r="2.4"
+     fill="#000"
+     id="circle44" />
+  <text
+     x="459.14279"
+     y="161.06996"
+     font-size="15px"
+     font-style="italic"
+     id="text44">P</text>
+  <line
+     x1="54.0"
+     y1="350.0"
+     x2="620.0"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="0.9"
+     marker-end="url(#ah)"
+     id="line44" />
+  <text
+     x="612.77368"
+     y="342.2428"
+     font-size="12px"
+     font-style="italic"
+     id="text45">ν</text>
+  <line
+     x1="54"
+     y1="351.05316"
+     x2="54"
+     y2="265.39923"
+     stroke="#000000"
+     stroke-width="0.882393"
+     marker-end="url(#ah)"
+     id="line45" />
+  <line
+     x1="525.9"
+     y1="350.0"
+     x2="525.9"
+     y2="321.9"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line46" />
+  <line
+     x1="520.2"
+     y1="350.0"
+     x2="520.2"
+     y2="305.2"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line47" />
+  <line
+     x1="514.1"
+     y1="350.0"
+     x2="514.1"
+     y2="291.3"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line48" />
+  <line
+     x1="507.9"
+     y1="350.0"
+     x2="507.9"
+     y2="281.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line49" />
+  <line
+     x1="501.4"
+     y1="350.0"
+     x2="501.4"
+     y2="274.5"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line50" />
+  <line
+     x1="494.6"
+     y1="350.0"
+     x2="494.6"
+     y2="271.9"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line51" />
+  <line
+     x1="487.6"
+     y1="350.0"
+     x2="487.6"
+     y2="272.9"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line52" />
+  <line
+     x1="480.3"
+     y1="350.0"
+     x2="480.3"
+     y2="276.8"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line53" />
+  <line
+     x1="472.8"
+     y1="350.0"
+     x2="472.8"
+     y2="283.1"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line54" />
+  <line
+     x1="465.1"
+     y1="350.0"
+     x2="465.1"
+     y2="290.8"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line55" />
+  <line
+     x1="457.1"
+     y1="350.0"
+     x2="457.1"
+     y2="299.2"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line56" />
+  <line
+     x1="448.8"
+     y1="350.0"
+     x2="448.8"
+     y2="307.7"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line57" />
+  <line
+     x1="440.3"
+     y1="350.0"
+     x2="440.3"
+     y2="315.8"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line58" />
+  <line
+     x1="431.6"
+     y1="350.0"
+     x2="431.6"
+     y2="323.1"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line59" />
+  <line
+     x1="422.6"
+     y1="350.0"
+     x2="422.6"
+     y2="329.4"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line60" />
+  <line
+     x1="413.4"
+     y1="350.0"
+     x2="413.4"
+     y2="334.6"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line61" />
+  <line
+     x1="403.9"
+     y1="350.0"
+     x2="403.9"
+     y2="338.8"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line62" />
+  <line
+     x1="394.1"
+     y1="350.0"
+     x2="394.1"
+     y2="342.1"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line63" />
+  <line
+     x1="384.2"
+     y1="350.0"
+     x2="384.2"
+     y2="344.5"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line64" />
+  <line
+     x1="373.9"
+     y1="350.0"
+     x2="373.9"
+     y2="346.3"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line65" />
+  <line
+     x1="363.4"
+     y1="350.0"
+     x2="363.4"
+     y2="347.6"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line66" />
+  <line
+     x1="352.7"
+     y1="350.0"
+     x2="352.7"
+     y2="348.4"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line67" />
+  <line
+     x1="341.7"
+     y1="350.0"
+     x2="341.7"
+     y2="349.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line68" />
+  <line
+     x1="330.5"
+     y1="350.0"
+     x2="330.5"
+     y2="349.4"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line69" />
+  <line
+     x1="319.0"
+     y1="350.0"
+     x2="319.0"
+     y2="349.6"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line70" />
+  <line
+     x1="307.3"
+     y1="350.0"
+     x2="307.3"
+     y2="349.8"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line71" />
+  <line
+     x1="295.3"
+     y1="350.0"
+     x2="295.3"
+     y2="349.9"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line72" />
+  <line
+     x1="283.1"
+     y1="350.0"
+     x2="283.1"
+     y2="349.9"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line73" />
+  <line
+     x1="270.6"
+     y1="350.0"
+     x2="270.6"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line74" />
+  <line
+     x1="257.9"
+     y1="350.0"
+     x2="257.9"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line75" />
+  <line
+     x1="245.0"
+     y1="350.0"
+     x2="245.0"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line76" />
+  <line
+     x1="231.7"
+     y1="350.0"
+     x2="231.7"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line77" />
+  <line
+     x1="218.3"
+     y1="350.0"
+     x2="218.3"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line78" />
+  <line
+     x1="204.6"
+     y1="350.0"
+     x2="204.6"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line79" />
+  <line
+     x1="190.6"
+     y1="350.0"
+     x2="190.6"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line80" />
+  <line
+     x1="176.4"
+     y1="350.0"
+     x2="176.4"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line81" />
+  <line
+     x1="161.9"
+     y1="350.0"
+     x2="161.9"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line82" />
+  <line
+     x1="147.2"
+     y1="350.0"
+     x2="147.2"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line83" />
+  <line
+     x1="132.3"
+     y1="350.0"
+     x2="132.3"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line84" />
+  <line
+     x1="117.1"
+     y1="350.0"
+     x2="117.1"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line85" />
+  <line
+     x1="101.6"
+     y1="350.0"
+     x2="101.6"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line86" />
+  <line
+     x1="85.9"
+     y1="350.0"
+     x2="85.9"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line87" />
+  <line
+     x1="70.0"
+     y1="350.0"
+     x2="70.0"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line88" />
+  <line
+     x1="536.7"
+     y1="350.0"
+     x2="536.7"
+     y2="340.4"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line89" />
+  <line
+     x1="541.7"
+     y1="350.0"
+     x2="541.7"
+     y2="321.9"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line90" />
+  <line
+     x1="546.5"
+     y1="350.0"
+     x2="546.5"
+     y2="305.2"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line91" />
+  <line
+     x1="551.0"
+     y1="350.0"
+     x2="551.0"
+     y2="291.3"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line92" />
+  <line
+     x1="555.3"
+     y1="350.0"
+     x2="555.3"
+     y2="281.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line93" />
+  <line
+     x1="559.3"
+     y1="350.0"
+     x2="559.3"
+     y2="274.5"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line94" />
+  <line
+     x1="563.1"
+     y1="350.0"
+     x2="563.1"
+     y2="271.9"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line95" />
+  <line
+     x1="566.6"
+     y1="350.0"
+     x2="566.6"
+     y2="272.9"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line96" />
+  <line
+     x1="569.9"
+     y1="350.0"
+     x2="569.9"
+     y2="276.8"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line97" />
+  <line
+     x1="573.0"
+     y1="350.0"
+     x2="573.0"
+     y2="283.1"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line98" />
+  <line
+     x1="575.7"
+     y1="350.0"
+     x2="575.7"
+     y2="290.8"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line99" />
+  <line
+     x1="578.3"
+     y1="350.0"
+     x2="578.3"
+     y2="299.2"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line100" />
+  <line
+     x1="580.6"
+     y1="350.0"
+     x2="580.6"
+     y2="307.7"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line101" />
+  <line
+     x1="582.6"
+     y1="350.0"
+     x2="582.6"
+     y2="315.8"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line102" />
+  <line
+     x1="584.4"
+     y1="350.0"
+     x2="584.4"
+     y2="323.1"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line103" />
+  <line
+     x1="585.9"
+     y1="350.0"
+     x2="585.9"
+     y2="329.4"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line104" />
+  <line
+     x1="587.2"
+     y1="350.0"
+     x2="587.2"
+     y2="334.6"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line105" />
+  <line
+     x1="588.3"
+     y1="350.0"
+     x2="588.3"
+     y2="338.8"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line106" />
+  <line
+     x1="589.1"
+     y1="350.0"
+     x2="589.1"
+     y2="342.1"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line107" />
+  <line
+     x1="589.6"
+     y1="350.0"
+     x2="589.6"
+     y2="344.5"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line108" />
+  <line
+     x1="589.9"
+     y1="350.0"
+     x2="589.9"
+     y2="346.3"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line109" />
+  <line
+     x1="590.0"
+     y1="350.0"
+     x2="590.0"
+     y2="347.6"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line110" />
+  <line
+     x1="589.8"
+     y1="350.0"
+     x2="589.8"
+     y2="348.4"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line111" />
+  <line
+     x1="589.4"
+     y1="350.0"
+     x2="589.4"
+     y2="349.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line112" />
+  <line
+     x1="588.7"
+     y1="350.0"
+     x2="588.7"
+     y2="349.4"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line113" />
+  <line
+     x1="587.7"
+     y1="350.0"
+     x2="587.7"
+     y2="349.6"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line114" />
+  <line
+     x1="586.6"
+     y1="350.0"
+     x2="586.6"
+     y2="349.8"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line115" />
+  <line
+     x1="585.1"
+     y1="350.0"
+     x2="585.1"
+     y2="349.9"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line116" />
+  <line
+     x1="583.4"
+     y1="350.0"
+     x2="583.4"
+     y2="349.9"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line117" />
+  <line
+     x1="581.5"
+     y1="350.0"
+     x2="581.5"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line118" />
+  <line
+     x1="579.3"
+     y1="350.0"
+     x2="579.3"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line119" />
+  <line
+     x1="576.9"
+     y1="350.0"
+     x2="576.9"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line120" />
+  <line
+     x1="574.2"
+     y1="350.0"
+     x2="574.2"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line121" />
+  <line
+     x1="571.3"
+     y1="350.0"
+     x2="571.3"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line122" />
+  <line
+     x1="568.1"
+     y1="350.0"
+     x2="568.1"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line123" />
+  <line
+     x1="564.7"
+     y1="350.0"
+     x2="564.7"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line124" />
+  <line
+     x1="561.0"
+     y1="350.0"
+     x2="561.0"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line125" />
+  <line
+     x1="557.1"
+     y1="350.0"
+     x2="557.1"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line126" />
+  <line
+     x1="553.0"
+     y1="350.0"
+     x2="553.0"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line127" />
+  <line
+     x1="548.5"
+     y1="350.0"
+     x2="548.5"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line128" />
+  <line
+     x1="543.9"
+     y1="350.0"
+     x2="543.9"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line129" />
+  <line
+     x1="539.0"
+     y1="350.0"
+     x2="539.0"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line130" />
+  <line
+     x1="533.8"
+     y1="350.0"
+     x2="533.8"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line131" />
+  <line
+     x1="528.4"
+     y1="350.0"
+     x2="528.4"
+     y2="350.0"
+     stroke="#000"
+     stroke-width="1.1"
+     id="line132" />
+  <line
+     x1="422.60001"
+     y1="193.7554"
+     x2="422.60001"
+     y2="329.39999"
+     stroke="#888888"
+     stroke-width="0.494462"
+     stroke-dasharray="3, 3"
+     id="line133"
+     style="stroke-dasharray:1.97784805,1.97784805;stroke-dashoffset:0" />
+  <text
+     x="436.6"
+     y="254"
+     font-size="10px"
+     text-anchor="middle"
+     id="text133">P15</text>
+  <line
+     x1="457.10001"
+     y1="185.74979"
+     x2="457.10001"
+     y2="298.82468"
+     stroke="#888888"
+     stroke-width="0.506021"
+     stroke-dasharray="3, 3"
+     id="line134"
+     style="stroke-dasharray:2.02408409,2.02408409;stroke-dashoffset:0" />
+  <text
+     x="471.10001"
+     y="254"
+     font-size="10px"
+     text-anchor="middle"
+     id="text134">P10</text>
+  <line
+     x1="546.5"
+     y1="128.66861"
+     x2="546.5"
+     y2="305.20001"
+     stroke="#888888"
+     stroke-width="0.495572"
+     stroke-dasharray="3, 3"
+     id="line135"
+     style="stroke-dasharray:1.982288,1.982288;stroke-dashoffset:0" />
+  <text
+     x="536.5"
+     y="254"
+     font-size="10px"
+     text-anchor="middle"
+     id="text135">R2</text>
+  <line
+     x1="589.40002"
+     y1="96.032402"
+     x2="589.40002"
+     y2="349"
+     stroke="#888888"
+     stroke-width="0.482811"
+     stroke-dasharray="3, 3"
+     id="line136"
+     style="stroke-dasharray:1.93125, 1.93125;stroke-dashoffset:0" />
+  <text
+     x="577.40002"
+     y="254"
+     font-size="10px"
+     text-anchor="middle"
+     id="text136">R23</text>
+  <line
+     x1="50"
+     y1="125.5"
+     x2="53.884773"
+     y2="125.5"
+     stroke="#000000"
+     stroke-width="0.8"
+     id="line2" />
+  <text
+     x="46"
+     y="128.7"
+     font-size="9px"
+     text-anchor="end"
+     id="text2">2</text>
+  <line
+     x1="50.036373"
+     y1="76.499664"
+     x2="54.126907"
+     y2="76.499664"
+     stroke="#000000"
+     stroke-width="0.8"
+     id="line3" />
+  <text
+     x="46.036373"
+     y="79.699669"
+     font-size="9px"
+     text-anchor="end"
+     id="text3">23</text>
+  <line
+     x1="50"
+     y1="190.7"
+     x2="54.502056"
+     y2="190.7"
+     stroke="#000000"
+     stroke-width="0.8"
+     id="line4" />
+  <text
+     x="46"
+     y="193.9"
+     font-size="9px"
+     text-anchor="end"
+     id="text4">15</text>
+  <line
+     x1="50.072746"
+     y1="181.9635"
+     x2="54.16328"
+     y2="181.9635"
+     stroke="#000000"
+     stroke-width="0.8"
+     id="line5" />
+  <text
+     x="46.072746"
+     y="185.16351"
+     font-size="9px"
+     text-anchor="end"
+     id="text5">10</text>
+  <line
+     x1="420.01727"
+     y1="190.63115"
+     x2="54.32901"
+     y2="190.63115"
+     stroke="#888888"
+     stroke-width="0.811871"
+     stroke-dasharray="3, 3"
+     id="line6"
+     style="stroke-width:0.5;stroke-dasharray:2,2;stroke-dashoffset:0" />
+  <line
+     x1="454.78329"
+     y1="182.02583"
+     x2="54.431892"
+     y2="182.02583"
+     stroke="#888888"
+     stroke-width="0.849478"
+     stroke-dasharray="3, 3"
+     id="line7"
+     style="stroke-width:0.5;stroke-dasharray:2,2;stroke-dashoffset:0" />
+  <line
+     x1="543.86273"
+     y1="125.53732"
+     x2="54.468266"
+     y2="125.53732"
+     stroke="#888888"
+     stroke-width="0.939206"
+     stroke-dasharray="3, 3"
+     id="line8"
+     style="stroke-width:0.5;stroke-dasharray:2,2;stroke-dashoffset:0" />
+  <line
+     x1="586.30804"
+     y1="76.506371"
+     x2="54.468266"
+     y2="76.506371"
+     stroke="#888888"
+     stroke-width="0.939206"
+     stroke-dasharray="3, 3"
+     id="line9"
+     style="stroke-width:0.5;stroke-dasharray:2.00000183,2.00000183;stroke-dashoffset:0" />
+</svg>

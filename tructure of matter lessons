@@ -1,0 +1,398 @@
+ .gitattributes                                     |     2 [32m+[m
+ .gitignore                                         |     8 [32m+[m
+ CLAUDE.md                                          |   211 [32m+[m
+ Term1.zip                                          |   Bin [31m0[m -> [32m16544137[m bytes
+ ...jugate_systems_by_the_h\303\274ckel_method.pdf" |   Bin [31m0[m -> [32m1583941[m bytes
+ Term1/Lesson_11_Alternant_systems.pdf              |   Bin [31m0[m -> [32m1191317[m bytes
+ Term1/Lesson_12_Cyclic_and_Linear_Systems.pdf      |   Bin [31m0[m -> [32m1730502[m bytes
+ Term1/Lesson_13_Perturbations_in_Huckel_method.pdf |   Bin [31m0[m -> [32m1313146[m bytes
+ ...ent_Theory_Second_Order_Perturbation_Theory.pdf |   Bin [31m0[m -> [32m1601580[m bytes
+ ...n_15_Level_Anticrossings_Thomas_Fermi_Model.pdf |   Bin [31m0[m -> [32m863643[m bytes
+ ...esson_1_Angular_momentum_Hydrogen_atom_Spin.pdf |   Bin [31m0[m -> [32m1886798[m bytes
+ ...atom_Pauli_principle_Spin_orbit_interaction.pdf |   Bin [31m0[m -> [32m915752[m bytes
+ ...sson_3_Atomic_terms_LS_coupling_Hunds_rules.pdf |   Bin [31m0[m -> [32m1072864[m bytes
+ ..._coupling_Hartree_Fock_Approximate_orbitals.pdf |   Bin [31m0[m -> [32m818164[m bytes
+ ...election_rules_Total_momentum_Zeeman_effect.pdf |   Bin [31m0[m -> [32m811864[m bytes
+ ...ck_effect_Starck_effect_Wigner_Witmer_rules.pdf |   Bin [31m0[m -> [32m1153631[m bytes
+ ..._MO_LCAO_Rayleigh_Ritz_method_Huckel_method.pdf |   Bin [31m0[m -> [32m839546[m bytes
+ Term1/Lesson_8_Dihydrogen_Dioxygen_Dinitrogen.pdf  |   Bin [31m0[m -> [32m1198085[m bytes
+ Term1/Lesson_9_Group_Theory_for_Chemists.pdf       |   Bin [31m0[m -> [32m1521818[m bytes
+ Term1/typst/Lectures_Term1.pdf                     | 58886 [32m+++++++++++++++++++[m
+ Term1/typst/Lectures_Term1.typ                     |   177 [32m+[m
+ ...f_pi_conjugate_systems_by_the_Huckel_method.pdf |  5205 [32m++[m
+ ...f_pi_conjugate_systems_by_the_Huckel_method.typ |   335 [32m+[m
+ Term1/typst/Lesson_11_Alternant_systems.pdf        |  3556 [32m++[m
+ Term1/typst/Lesson_11_Alternant_systems.typ        |   249 [32m+[m
+ .../typst/Lesson_12_Cyclic_and_Linear_Systems.pdf  |  5094 [32m++[m
+ .../typst/Lesson_12_Cyclic_and_Linear_Systems.typ  |   294 [32m+[m
+ .../Lesson_13_Perturbations_in_Huckel_method.pdf   |  4615 [32m++[m
+ .../Lesson_13_Perturbations_in_Huckel_method.typ   |   232 [32m+[m
+ ...ent_Theory_Second_Order_Perturbation_Theory.pdf |  5054 [32m++[m
+ ...ent_Theory_Second_Order_Perturbation_Theory.typ |   320 [32m+[m
+ ...n_15_Level_Anticrossings_Thomas_Fermi_Model.pdf |  2846 [32m+[m
+ ...n_15_Level_Anticrossings_Thomas_Fermi_Model.typ |   203 [32m+[m
+ ...esson_1_Angular_momentum_Hydrogen_atom_Spin.pdf |  8717 [32m+++[m
+ ...esson_1_Angular_momentum_Hydrogen_atom_Spin.typ |   419 [32m+[m
+ Term1/typst/Lesson_2_Helium_Pauli_Spin_orbit.pdf   |  2618 [32m+[m
+ Term1/typst/Lesson_2_Helium_Pauli_Spin_orbit.typ   |   216 [32m+[m
+ ...sson_3_Atomic_terms_LS_coupling_Hunds_rules.pdf |  3793 [32m++[m
+ ...sson_3_Atomic_terms_LS_coupling_Hunds_rules.typ |   320 [32m+[m
+ ..._coupling_Hartree_Fock_Approximate_orbitals.pdf |  2642 [32m+[m
+ ..._coupling_Hartree_Fock_Approximate_orbitals.typ |   223 [32m+[m
+ ...election_rules_Total_momentum_Zeeman_effect.pdf |  2251 [32m+[m
+ ...election_rules_Total_momentum_Zeeman_effect.typ |   218 [32m+[m
+ ...ck_effect_Starck_effect_Wigner_Witmer_rules.pdf |  3604 [32m++[m
+ ...ck_effect_Starck_effect_Wigner_Witmer_rules.typ |   247 [32m+[m
+ ..._MO_LCAO_Rayleigh_Ritz_method_Huckel_method.pdf |  2477 [32m+[m
+ ..._MO_LCAO_Rayleigh_Ritz_method_Huckel_method.typ |   189 [32m+[m
+ .../Lesson_8_Dihydrogen_Dioxygen_Dinitrogen.pdf    |  3592 [32m++[m
+ .../Lesson_8_Dihydrogen_Dioxygen_Dinitrogen.typ    |   197 [32m+[m
+ Term1/typst/Lesson_9_Group_Theory_for_Chemists.pdf |  6717 [32m+++[m
+ Term1/typst/Lesson_9_Group_Theory_for_Chemists.typ |   386 [32m+[m
+ Term1/typst/figures/cover_dop_glavy.png            |   Bin [31m0[m -> [32m83460[m bytes
+ Term1/typst/figures/cover_dop_glavy.svg            |   106 [32m+[m
+ Term1/typst/figures/cover_v2_kran.png              |   Bin [31m0[m -> [32m132243[m bytes
+ Term1/typst/figures/cover_v2_kran.svg              |    63 [32m+[m
+ Term1/typst/figures/fig1_Lrp.png                   |   Bin [31m0[m -> [32m22936[m bytes
+ Term1/typst/figures/fig2_orbitals.png              |   Bin [31m0[m -> [32m397615[m bytes
+ Term1/typst/figures/fig3_harmonics.png             |   Bin [31m0[m -> [32m518515[m bytes
+ Term1/typst/figures/fig4_addition.png              |   Bin [31m0[m -> [32m31956[m bytes
+ Term1/typst/figures/l10_fig1a_ethylene_levels.png  |   Bin [31m0[m -> [32m41724[m bytes
+ .../figures/l10_fig1b_cyclopropenyl_levels.png     |   Bin [31m0[m -> [32m61832[m bytes
+ Term1/typst/figures/l10_fig2_block_diagonal.png    |   Bin [31m0[m -> [32m29505[m bytes
+ Term1/typst/figures/l10_fig3_cyclopropenyl_mo.png  |   Bin [31m0[m -> [32m76448[m bytes
+ Term1/typst/figures/l10_fig4_transition.png        |   Bin [31m0[m -> [32m21104[m bytes
+ Term1/typst/figures/l10_fig5_water_axes.png        |   Bin [31m0[m -> [32m15595[m bytes
+ Term1/typst/figures/l10_fig6_water_mo.png          |   Bin [31m0[m -> [32m172674[m bytes
+ .../typst/figures/l10_fig_cyclopropenyl_graph.png  |   Bin [31m0[m -> [32m15904[m bytes
+ Term1/typst/figures/l10_fig_ethylene_graph.png     |   Bin [31m0[m -> [32m8627[m bytes
+ Term1/typst/figures/l11_fig10_allyl_mo.png         |   Bin [31m0[m -> [32m94742[m bytes
+ Term1/typst/figures/l11_fig1_benzyl_numbering.png  |   Bin [31m0[m -> [32m48592[m bytes
+ Term1/typst/figures/l11_fig2_electron_transfer.png |   Bin [31m0[m -> [32m21303[m bytes
+ Term1/typst/figures/l11_fig3_benzyl_somo.png       |   Bin [31m0[m -> [32m85209[m bytes
+ Term1/typst/figures/l11_fig4_alternant_system.png  |   Bin [31m0[m -> [32m16163[m bytes
+ Term1/typst/figures/l11_fig5_levels.png            |   Bin [31m0[m -> [32m34176[m bytes
+ Term1/typst/figures/l11_fig6_two_assignments.png   |   Bin [31m0[m -> [32m50339[m bytes
+ Term1/typst/figures/l11_fig7_cyclobutadiene.png    |   Bin [31m0[m -> [32m40677[m bytes
+ .../figures/l11_fig8_cyclobutadiene_levels.png     |   Bin [31m0[m -> [32m31286[m bytes
+ Term1/typst/figures/l11_fig9_allyl_numbering.png   |   Bin [31m0[m -> [32m12183[m bytes
+ Term1/typst/figures/l11_fig_benzyl_marked.png      |   Bin [31m0[m -> [32m26534[m bytes
+ Term1/typst/figures/l12_fig1_cyclic_systems.png    |   Bin [31m0[m -> [32m53256[m bytes
+ Term1/typst/figures/l12_fig2_roots_of_unity.png    |   Bin [31m0[m -> [32m21941[m bytes
+ Term1/typst/figures/l12_fig3_levels_4i2_4i1.png    |   Bin [31m0[m -> [32m125410[m bytes
+ Term1/typst/figures/l12_fig4_levels_4i_4i3.png     |   Bin [31m0[m -> [32m98080[m bytes
+ .../typst/figures/l12_fig5_ethylene_in_benzene.png |   Bin [31m0[m -> [32m89986[m bytes
+ .../typst/figures/l12_fig6_butadiene_graphical.png |   Bin [31m0[m -> [32m322697[m bytes
+ Term1/typst/figures/l12_fig7_polyene_bands.png     |   Bin [31m0[m -> [32m70388[m bytes
+ Term1/typst/figures/l12_fig_benzene_graph.png      |   Bin [31m0[m -> [32m18374[m bytes
+ Term1/typst/figures/l12_fig_linear_chain.png       |   Bin [31m0[m -> [32m14929[m bytes
+ Term1/typst/figures/l13_fig10_homo_interaction.png |   Bin [31m0[m -> [32m15410[m bytes
+ .../figures/l13_fig11_odd_alternant_levels.png     |   Bin [31m0[m -> [32m21673[m bytes
+ .../figures/l13_fig12_odd_alternant_splitting.png  |   Bin [31m0[m -> [32m9454[m bytes
+ .../typst/figures/l13_fig13_cyclopropenyl_mos.png  |   Bin [31m0[m -> [32m115859[m bytes
+ .../figures/l13_fig14_united_system_levels.png     |   Bin [31m0[m -> [32m114545[m bytes
+ .../typst/figures/l13_fig1_benzene_to_pyridine.png |   Bin [31m0[m -> [32m25045[m bytes
+ .../typst/figures/l13_fig2_benzene_levels_homo.png |   Bin [31m0[m -> [32m80347[m bytes
+ .../typst/figures/l13_fig3_nitrogen_splitting.png  |   Bin [31m0[m -> [32m18743[m bytes
+ .../typst/figures/l13_fig4_benzene_to_toluene.png  |   Bin [31m0[m -> [32m22833[m bytes
+ .../figures/l13_fig5_cation_radical_levels.png     |   Bin [31m0[m -> [32m83299[m bytes
+ Term1/typst/figures/l13_fig6_methyl_splitting.png  |   Bin [31m0[m -> [32m34611[m bytes
+ Term1/typst/figures/l13_fig7_pi_charges.png        |   Bin [31m0[m -> [32m93240[m bytes
+ Term1/typst/figures/l13_fig8_stilbene_diphenyl.png |   Bin [31m0[m -> [32m68619[m bytes
+ .../typst/figures/l13_fig9_two_benzene_levels.png  |   Bin [31m0[m -> [32m10954[m bytes
+ .../typst/figures/l14_fig1_intermediate_states.png |   Bin [31m0[m -> [32m33564[m bytes
+ .../typst/figures/l14_fig2_pentadienyl_levels.png  |   Bin [31m0[m -> [32m58017[m bytes
+ .../figures/l14_fig3_butadiene_h_addition.png      |   Bin [31m0[m -> [32m13498[m bytes
+ .../figures/l14_fig4_reaction_paths_levels.png     |   Bin [31m0[m -> [32m170375[m bytes
+ .../figures/l14_fig5_mesomeric_substituent.png     |   Bin [31m0[m -> [32m29923[m bytes
+ Term1/typst/figures/l14_fig6_filled_empty_mo.png   |   Bin [31m0[m -> [32m54277[m bytes
+ .../figures/l14_fig7_empty_substituent_mo.png      |   Bin [31m0[m -> [32m27781[m bytes
+ Term1/typst/figures/l14_fig8_se_ar_numbering.png   |   Bin [31m0[m -> [32m29094[m bytes
+ Term1/typst/figures/l14_fig9_pentadienyl_mos.png   |   Bin [31m0[m -> [32m96614[m bytes
+ Term1/typst/figures/l15_fig1_avoided_crossing.png  |   Bin [31m0[m -> [32m49720[m bytes
+ .../typst/figures/l15_fig2_rydberg_excitation.svg  |   405 [32m+[m
+ Term1/typst/figures/l15_fig3_octant_states.png     |   Bin [31m0[m -> [32m26987[m bytes
+ Term1/typst/figures/l2_fig1_He_coords.png          |   Bin [31m0[m -> [32m23373[m bytes
+ Term1/typst/figures/l2_fig2_radial_split.png       |   Bin [31m0[m -> [32m54707[m bytes
+ Term1/typst/figures/l4_fig1_correlation.svg        |   320 [32m+[m
+ Term1/typst/figures/l5_fig1_zeeman.svg             |   773 [32m+[m
+ Term1/typst/figures/l6_fig1_paschen_back.png       |   Bin [31m0[m -> [32m81823[m bytes
+ Term1/typst/figures/l6_fig2_paschen_back_soc.png   |   Bin [31m0[m -> [32m118235[m bytes
+ Term1/typst/figures/l6_fig3_stark_lyman.png        |   Bin [31m0[m -> [32m80474[m bytes
+ Term1/typst/figures/l6_fig4_axial_vector.png       |   Bin [31m0[m -> [32m36820[m bytes
+ Term1/typst/figures/l6_fig5_gu_doubling.svg        |   345 [32m+[m
+ Term1/typst/figures/l7_fig1_bo_coords.png          |   Bin [31m0[m -> [32m15312[m bytes
+ Term1/typst/figures/l7_fig2_elliptic_coords.png    |   Bin [31m0[m -> [32m23364[m bytes
+ Term1/typst/figures/l7_fig3_h2_coords.png          |   Bin [31m0[m -> [32m34752[m bytes
+ Term1/typst/figures/l7_fig4_h2_mo.png              |   Bin [31m0[m -> [32m86312[m bytes
+ Term1/typst/figures/l7_fig5_hetero_mo.png          |   Bin [31m0[m -> [32m92518[m bytes
+ Term1/typst/figures/l8_fig1_mo_examples.svg        |   740 [32m+[m
+ Term1/typst/figures/l8_fig2_mo_shapes.png          |   Bin [31m0[m -> [32m140025[m bytes
+ Term1/typst/figures/l8_fig3_h2_mo.png              |   Bin [31m0[m -> [32m37896[m bytes
+ Term1/typst/figures/l8_fig4_o2_mo.png              |   Bin [31m0[m -> [32m120453[m bytes
+ Term1/typst/figures/l8_fig5_second_period_mo.svg   |   484 [32m+[m
+ Term1/typst/figures/l9_fig1a_rotation.png          |   Bin [31m0[m -> [32m21330[m bytes
+ Term1/typst/figures/l9_fig1b_sigma_v.png           |   Bin [31m0[m -> [32m9189[m bytes
+ Term1/typst/figures/l9_fig1c_sigma_h.png           |   Bin [31m0[m -> [32m8830[m bytes
+ Term1/typst/figures/l9_fig1d_sigma_d.png           |   Bin [31m0[m -> [32m8538[m bytes
+ Term1/typst/figures/l9_fig1e_inversion.png         |   Bin [31m0[m -> [32m12733[m bytes
+ Term1/typst/figures/l9_fig1f_s4.png                |   Bin [31m0[m -> [32m10243[m bytes
+ Term1/typst/figures/l9_fig2_water_symmetry.svg     |   262 [32m+[m
+ Term1/typst/figures/l9_fig3_point_groups.png       |   Bin [31m0[m -> [32m130394[m bytes
+ Term1/typst/figures/l9_fig4_c3v.png                |   Bin [31m0[m -> [32m40830[m bytes
+ Term1/typst/figures/l9_fig5_block_diagonal.svg     |   248 [32m+[m
+ Term1/typst/figures/l9_fig6_c2v_three_atoms.png    |   Bin [31m0[m -> [32m15298[m bytes
+ Term1/typst/lecture.typ                            |   254 [32m+[m
+ Term1/typst/references.bib                         |   144 [32m+[m
+ Term2/Lesson_10_EPR_in_liquid.pdf                  |   Bin [31m0[m -> [32m8474772[m bytes
+ Term2/Lesson_11_Exchange_in_magnetic_resonance.pdf |   Bin [31m0[m -> [32m8599441[m bytes
+ Term2/Lesson_12_NMR_in_liquid.pdf                  |   Bin [31m0[m -> [32m5740367[m bytes
+ Term2/Lesson_13_AB_system_13C_NMR.pdf              |   Bin [31m0[m -> [32m7692665[m bytes
+ Term2/Lesson_14_Pulsed_methods.pdf                 |   Bin [31m0[m -> [32m4779425[m bytes
+ Term2/Lesson_14_Pulsed_methods_2025.pdf            |   Bin [31m0[m -> [32m1751690[m bytes
+ Term2/Lesson_1_Woodward_Hoffmann_rules.pdf         |   Bin [31m0[m -> [32m6979368[m bytes
+ Term2/Lesson_2_Crystal_field_theory.pdf            |   Bin [31m0[m -> [32m8287373[m bytes
+ Term2/Lesson_2_reference_data.pdf                  |   Bin [31m0[m -> [32m1926215[m bytes
+ Term2/Lesson_3_Ligand_field_theory.pdf             |   Bin [31m0[m -> [32m7995055[m bytes
+ Term2/Lesson_4_Fluorescence_anisotropy.pdf         |   Bin [31m0[m -> [32m7948641[m bytes
+ Term2/Lesson_5_Fluorescence_quenching.pdf          |   Bin [31m0[m -> [32m7656881[m bytes
+ Term2/Lesson_6_Infrared_spectroscopy.pdf           |   Bin [31m0[m -> [32m8734481[m bytes
+ Term2/Lesson_7_Raman_spectroscopy.pdf              |   Bin [31m0[m -> [32m4997287[m bytes
+ Term2/Lesson_8_Jahn_Teller_effect.pdf              |   Bin [31m0[m -> [32m6325564[m bytes
+ Term2/Lesson_9_Rotational_spectroscopy.pdf         |   Bin [31m0[m -> [32m7844408[m bytes
+ Term2/Woodward-Hoffmann.pdf                        |   Bin [31m0[m -> [32m104238[m bytes
+ Term2/tkp.docx                                     |   Bin [31m0[m -> [32m11972[m bytes
+ Term2/typst/Lectures_Term2.pdf                     | 44757 [32m++++++++++++++[m
+ Term2/typst/Lectures_Term2.typ                     |   211 [32m+[m
+ Term2/typst/Lesson_10_EPR_in_liquid.pdf            |  4701 [32m++[m
+ Term2/typst/Lesson_10_EPR_in_liquid.typ            |   403 [32m+[m
+ .../Lesson_11_Exchange_in_magnetic_resonance.pdf   |  3396 [32m++[m
+ .../Lesson_11_Exchange_in_magnetic_resonance.typ   |   383 [32m+[m
+ Term2/typst/Lesson_12_NMR_in_liquid.pdf            |  2257 [32m+[m
+ Term2/typst/Lesson_12_NMR_in_liquid.typ            |   209 [32m+[m
+ Term2/typst/Lesson_13_AB_system_13C_NMR.pdf        |  3012 [32m+[m
+ Term2/typst/Lesson_13_AB_system_13C_NMR.typ        |   320 [32m+[m
+ Term2/typst/Lesson_14_Pulsed_methods.pdf           |  2543 [32m+[m
+ Term2/typst/Lesson_14_Pulsed_methods.typ           |   227 [32m+[m
+ Term2/typst/Lesson_1_Woodward_Hoffmann_rules.pdf   |  3868 [32m++[m
+ Term2/typst/Lesson_1_Woodward_Hoffmann_rules.typ   |   509 [32m+[m
+ Term2/typst/Lesson_2_Crystal_field_theory.pdf      |  5207 [32m++[m
+ Term2/typst/Lesson_2_Crystal_field_theory.typ      |   656 [32m+[m
+ Term2/typst/Lesson_3_Ligand_field_theory.pdf       |  3558 [32m++[m
+ Term2/typst/Lesson_3_Ligand_field_theory.typ       |   530 [32m+[m
+ Term2/typst/Lesson_4_Fluorescence_anisotropy.pdf   |  2687 [32m+[m
+ Term2/typst/Lesson_4_Fluorescence_anisotropy.typ   |   268 [32m+[m
+ Term2/typst/Lesson_5_Fluorescence_quenching.pdf    |  2608 [32m+[m
+ Term2/typst/Lesson_5_Fluorescence_quenching.typ    |   350 [32m+[m
+ Term2/typst/Lesson_6_Infrared_spectroscopy.pdf     |  3721 [32m++[m
+ Term2/typst/Lesson_6_Infrared_spectroscopy.typ     |   370 [32m+[m
+ Term2/typst/Lesson_7_Raman_spectroscopy.pdf        |  2894 [32m+[m
+ Term2/typst/Lesson_7_Raman_spectroscopy.typ        |   387 [32m+[m
+ Term2/typst/Lesson_8_Jahn_Teller_effect.pdf        |  3411 [32m++[m
+ Term2/typst/Lesson_8_Jahn_Teller_effect.typ        |   366 [32m+[m
+ Term2/typst/Lesson_9_Rotational_spectroscopy.pdf   |  3376 [32m++[m
+ Term2/typst/Lesson_9_Rotational_spectroscopy.typ   |   274 [32m+[m
+ Term2/typst/fig/bb.png                             |   Bin [31m0[m -> [32m41251[m bytes
+ Term2/typst/fig/bb.typ                             |     2 [32m+[m
+ Term2/typst/fig/cover_kran_term2.png               |   Bin [31m0[m -> [32m131695[m bytes
+ Term2/typst/fig/cover_kran_term2.svg               |    55 [32m+[m
+ Term2/typst/fig/l10_fig1_zeeman.svg                |   177 [32m+[m
+ Term2/typst/fig/l10_fig2_levels_half.svg           |   472 [32m+[m
+ Term2/typst/fig/l10_fig3_stick_half.svg            |   231 [32m+[m
+ Term2/typst/fig/l10_fig4_tempo.svg                 |    36 [32m+[m
+ Term2/typst/fig/l10_fig5_levels_one.svg            |   405 [32m+[m
+ Term2/typst/fig/l10_fig6_second_order.svg          |   252 [32m+[m
+ Term2/typst/fig/l10_fig7_spin_polarization.svg     |   232 [32m+[m
+ Term2/typst/fig/l10_fig8_hyperconjugation.svg      |   224 [32m+[m
+ Term2/typst/fig/l10_fig9_ethyl.svg                 |   353 [32m+[m
+ Term2/typst/fig/l11_fig10_isotropic.svg            |   188 [32m+[m
+ Term2/typst/fig/l11_fig11_gtensor.svg              |   623 [32m+[m
+ Term2/typst/fig/l11_fig1_larmor.svg                |   292 [32m+[m
+ Term2/typst/fig/l11_fig2_rotating_vector.svg       |   238 [32m+[m
+ Term2/typst/fig/l11_fig3_two_lines.svg             |    30 [32m+[m
+ Term2/typst/fig/l11_fig4_exchange_stages.svg       |   231 [32m+[m
+ Term2/typst/fig/l11_fig5_dinitro.svg               |   532 [32m+[m
+ Term2/typst/fig/l11_fig6_exchanging_lines.svg      |   652 [32m+[m
+ Term2/typst/fig/l11_fig7_sum_spectra.svg           |   426 [32m+[m
+ Term2/typst/fig/l11_fig8_benzene.svg               |   281 [32m+[m
+ Term2/typst/fig/l11_fig9_rotations.svg             |   210 [32m+[m
+ Term2/typst/fig/l12_fig10_multiple_bonds.svg       |   453 [32m+[m
+ Term2/typst/fig/l12_fig11_groups.svg               |   359 [32m+[m
+ Term2/typst/fig/l12_fig1_spectra.svg               |   418 [32m+[m
+ Term2/typst/fig/l12_fig2_scales.svg                |    99 [32m+[m
+ Term2/typst/fig/l12_fig3_j_nature.svg              |   373 [32m+[m
+ Term2/typst/fig/l12_fig4_ax_levels.svg             |   300 [32m+[m
+ Term2/typst/fig/l12_fig5_ax_spectrum.svg           |   301 [32m+[m
+ Term2/typst/fig/l12_fig6_ch3_levels.svg            |   226 [32m+[m
+ Term2/typst/fig/l12_fig7_electronegativity.svg     |   113 [32m+[m
+ Term2/typst/fig/l12_fig8_substitution.svg          |    53 [32m+[m
+ Term2/typst/fig/l12_fig9_benzene_cone.svg          |   176 [32m+[m
+ Term2/typst/fig/l13_fig10_iq_mixer.svg             |   184 [32m+[m
+ Term2/typst/fig/l13_fig11_mirror.svg               |   174 [32m+[m
+ Term2/typst/fig/l13_fig12_pulse_phases.svg         |   216 [32m+[m
+ Term2/typst/fig/l13_fig13_pulse_sequence.svg       |   128 [32m+[m
+ Term2/typst/fig/l13_fig14_rabi.svg                 |   274 [32m+[m
+ Term2/typst/fig/l13_fig1_ab_levels.svg             |   222 [32m+[m
+ Term2/typst/fig/l13_fig2_ab_spectrum.svg           |   195 [32m+[m
+ Term2/typst/fig/l13_fig3_ax_limit.svg              |   197 [32m+[m
+ Term2/typst/fig/l13_fig4_no_j.svg                  |   127 [32m+[m
+ Term2/typst/fig/l13_fig5_equivalent.svg            |    72 [32m+[m
+ Term2/typst/fig/l13_fig6_toluene.svg               |   319 [32m+[m
+ Term2/typst/fig/l13_fig7a_magnet.svg               |   200 [32m+[m
+ Term2/typst/fig/l13_fig7b_probe.svg                |   373 [32m+[m
+ Term2/typst/fig/l13_fig8_block.svg                 |   484 [32m+[m
+ Term2/typst/fig/l13_fig9_quadrature.svg            |   313 [32m+[m
+ Term2/typst/fig/l14_fig10_cosy_single.svg          |   165 [32m+[m
+ Term2/typst/fig/l14_fig11_cosy_ax.svg              |   459 [32m+[m
+ Term2/typst/fig/l14_fig12_propyl_acetate.svg       |   579 [32m+[m
+ Term2/typst/fig/l14_fig13_other_sequences.svg      |   390 [32m+[m
+ Term2/typst/fig/l14_fig1_effective_field.svg       |   215 [32m+[m
+ Term2/typst/fig/l14_fig2_pulse_bandwidth.svg       |   569 [32m+[m
+ Term2/typst/fig/l14_fig3_fid.svg                   |   291 [32m+[m
+ Term2/typst/fig/l14_fig4_detection.svg             |   416 [32m+[m
+ Term2/typst/fig/l14_fig5_echo_sequence.svg         |   148 [32m+[m
+ Term2/typst/fig/l14_fig6_echo_vectors.svg          |   566 [32m+[m
+ Term2/typst/fig/l14_fig7_echo_decay.svg            |   126 [32m+[m
+ Term2/typst/fig/l14_fig8_stimulated.svg            |   182 [32m+[m
+ Term2/typst/fig/l14_fig9_cosy_sequence.svg         |   255 [32m+[m
+ Term2/typst/fig/l1_fig10_2plus2_c2.svg             |   340 [32m+[m
+ Term2/typst/fig/l1_fig11_2plus2_sa.svg             |   953 [32m+[m
+ Term2/typst/fig/l1_fig12_2plus2_states.svg         |   277 [32m+[m
+ Term2/typst/fig/l1_fig13_diels_alder.svg           |   134 [32m+[m
+ .../typst/fig/l1_fig14_diels_alder_correlation.svg |  1154 [32m+[m
+ Term2/typst/fig/l1_fig15_h_shift_13.svg            |   283 [32m+[m
+ Term2/typst/fig/l1_fig16_h_shift_15.svg            |   316 [32m+[m
+ Term2/typst/fig/l1_fig17_ch3_shift_13.svg          |   398 [32m+[m
+ Term2/typst/fig/l1_fig18_ch3_shift_15.svg          |   443 [32m+[m
+ Term2/typst/fig/l1_fig19_cope.svg                  |   395 [32m+[m
+ Term2/typst/fig/l1_fig1_electrocyclic.svg          |   236 [32m+[m
+ Term2/typst/fig/l1_fig20_h2d2.svg                  |   897 [32m+[m
+ Term2/typst/fig/l1_fig21_components.svg            |   798 [32m+[m
+ Term2/typst/fig/l1_fig22_claisen.png               |   Bin [31m0[m -> [32m215047[m bytes
+ Term2/typst/fig/l1_fig2_con_dis.svg                |   239 [32m+[m
+ Term2/typst/fig/l1_fig3_butadiene_correlation.svg  |  1759 [32m+[m
+ Term2/typst/fig/l1_fig4_product.svg                |   106 [32m+[m
+ Term2/typst/fig/l1_fig5_photo_correlation.svg      |   968 [32m+[m
+ Term2/typst/fig/l1_fig6_state_correlation.svg      |   355 [32m+[m
+ Term2/typst/fig/l1_fig7_supra_antara.svg           |   171 [32m+[m
+ Term2/typst/fig/l1_fig8_2plus2_planes.svg          |   154 [32m+[m
+ Term2/typst/fig/l1_fig9_2plus2_ss.svg              |  1373 [32m+[m
+ Term2/typst/fig/l4_anisotropy_setup.svg            |   446 [32m+[m
+ Term2/typst/fig/l4_fig10_perrin_plot.svg           |   226 [32m+[m
+ Term2/typst/fig/l4_fig1_jablonski.svg              |   565 [32m+[m
+ Term2/typst/fig/l4_fig2_fc_classical.svg           |   257 [32m+[m
+ Term2/typst/fig/l4_fig3_fc_quantum.svg             |   315 [32m+[m
+ Term2/typst/fig/l4_fig4_anthracene.svg             |   207 [32m+[m
+ Term2/typst/fig/l4_fig6_dipole.svg                 |   183 [32m+[m
+ Term2/typst/fig/l4_fig6_unpolarized.svg            |   469 [32m+[m
+ Term2/typst/fig/l4_fig7_polarizer.svg              |   425 [32m+[m
+ Term2/typst/fig/l4_fig8_perrin_plot.svg            |   226 [32m+[m
+ Term2/typst/fig/l4_fig8_unpolarized.svg            |   469 [32m+[m
+ Term2/typst/fig/l4_fig9_polarizer.svg              |   425 [32m+[m
+ Term2/typst/fig/l5_fig1_stern_volmer.svg           |   142 [32m+[m
+ Term2/typst/fig/l5_fig2_tcspc.svg                  |   267 [32m+[m
+ Term2/typst/fig/l5_fig6_fret.svg                   |   301 [32m+[m
+ Term2/typst/fig/l5_fig8_einstein.svg               |   244 [32m+[m
+ Term2/typst/fig/l5_fig9_laser.svg                  |   218 [32m+[m
+ Term2/typst/fig/l6_fig2_axial_polar.svg            |   350 [32m+[m
+ Term2/typst/fig/l6_fig3_mirror_T_R.svg             |   246 [32m+[m
+ Term2/typst/fig/l6_fig4_water_symmetry.svg         |   282 [32m+[m
+ Term2/typst/fig/l7_fig2_interferogram.svg          |    44 [32m+[m
+ Term2/typst/fig/l8_fig3_pseudo_jt.svg              |   125 [32m+[m
+ Term2/typst/fig/l9_fig1_top_projections.svg        |   254 [32m+[m
+ Term2/typst/fig/l9_fig2_tops.svg                   |   259 [32m+[m
+ Term2/typst/fig/l9_fig3_rot_spectra.svg            |   373 [32m+[m
+ Term2/typst/fig/l9_fig4_branches.svg               |   262 [32m+[m
+ Term2/typst/fig/l9_fig5_pqr_band.svg               |   273 [32m+[m
+ Term2/typst/fig/l9_fig6_fortrat.svg                |  1283 [32m+[m
+ Term2/typst/fig/l9_fig7_hcl.svg                    |   607 [32m+[m
+ Term2/typst/fig/l9_fig8_permutation.svg            |   502 [32m+[m
+ Term2/typst/fig/l9_fig9_ortho_para.svg             |   228 [32m+[m
+ Term2/typst/lecture.typ                            |   254 [32m+[m
+ Term2/typst/references.bib                         |    55 [32m+[m
+ covers_collage.png                                 |   Bin [31m0[m -> [32m136068[m bytes
+ figures/Fig_1.cdr                                  |   Bin [31m0[m -> [32m567338[m bytes
+ figures/Fig_1.png                                  |   Bin [31m0[m -> [32m22936[m bytes
+ figures/Fig_10.cdr                                 |   Bin [31m0[m -> [32m567906[m bytes
+ figures/Fig_10.png                                 |   Bin [31m0[m -> [32m23364[m bytes
+ figures/Fig_11.cdr                                 |   Bin [31m0[m -> [32m571598[m bytes
+ figures/Fig_11.png                                 |   Bin [31m0[m -> [32m34752[m bytes
+ figures/Fig_12.cdr                                 |   Bin [31m0[m -> [32m1667211[m bytes
+ figures/Fig_12.png                                 |   Bin [31m0[m -> [32m86312[m bytes
+ figures/Fig_13.cdr                                 |   Bin [31m0[m -> [32m1673332[m bytes
+ figures/Fig_13.png                                 |   Bin [31m0[m -> [32m92518[m bytes
+ figures/Fig_14.cdr                                 |   Bin [31m0[m -> [32m1128516[m bytes
+ figures/Fig_14.png                                 |   Bin [31m0[m -> [32m140025[m bytes
+ figures/Fig_15.cdr                                 |   Bin [31m0[m -> [32m1668042[m bytes
+ figures/Fig_15.png                                 |   Bin [31m0[m -> [32m37896[m bytes
+ figures/Fig_16.cdr                                 |   Bin [31m0[m -> [32m1679162[m bytes
+ figures/Fig_16.png                                 |   Bin [31m0[m -> [32m120453[m bytes
+ figures/Fig_17.cdr                                 |   Bin [31m0[m -> [32m1673469[m bytes
+ figures/Fig_17.png                                 |   Bin [31m0[m -> [32m40830[m bytes
+ figures/Fig_18.cdr                                 |   Bin [31m0[m -> [32m1116255[m bytes
+ figures/Fig_18.png                                 |   Bin [31m0[m -> [32m15298[m bytes
+ figures/Fig_19.cdr                                 |   Bin [31m0[m -> [32m566075[m bytes
+ figures/Fig_19.png                                 |   Bin [31m0[m -> [32m8627[m bytes
+ figures/Fig_2.cdr                                  |   Bin [31m0[m -> [32m1638110[m bytes
+ figures/Fig_2.png                                  |   Bin [31m0[m -> [32m31956[m bytes
+ figures/Fig_20.cdr                                 |   Bin [31m0[m -> [32m1775626[m bytes
+ figures/Fig_20.png                                 |   Bin [31m0[m -> [32m41724[m bytes
+ figures/Fig_21.cdr                                 |   Bin [31m0[m -> [32m1783285[m bytes
+ figures/Fig_21.png                                 |   Bin [31m0[m -> [32m61832[m bytes
+ figures/Fig_22.cdr                                 |   Bin [31m0[m -> [32m571872[m bytes
+ figures/Fig_22.png                                 |   Bin [31m0[m -> [32m15904[m bytes
+ figures/Fig_23.cdr                                 |   Bin [31m0[m -> [32m1670742[m bytes
+ figures/Fig_23.png                                 |   Bin [31m0[m -> [32m29505[m bytes
+ figures/Fig_24.cdr                                 |   Bin [31m0[m -> [32m1117116[m bytes
+ figures/Fig_24.png                                 |   Bin [31m0[m -> [32m21104[m bytes
+ figures/Fig_25.cdr                                 |   Bin [31m0[m -> [32m2329379[m bytes
+ figures/Fig_25.png                                 |   Bin [31m0[m -> [32m76448[m bytes
+ figures/Fig_26.cdr                                 |   Bin [31m0[m -> [32m2362286[m bytes
+ figures/Fig_26.png                                 |   Bin [31m0[m -> [32m172674[m bytes
+ figures/Fig_27.cdr                                 |   Bin [31m0[m -> [32m570157[m bytes
+ figures/Fig_27.png                                 |   Bin [31m0[m -> [32m15595[m bytes
+ figures/Fig_28.cdr                                 |   Bin [31m0[m -> [32m576356[m bytes
+ figures/Fig_28.png                                 |   Bin [31m0[m -> [32m48592[m bytes
+ figures/Fig_29.cdr                                 |   Bin [31m0[m -> [32m1125864[m bytes
+ figures/Fig_29.png                                 |   Bin [31m0[m -> [32m85209[m bytes
+ figures/Fig_3.cdr                                  |   Bin [31m0[m -> [32m572256[m bytes
+ figures/Fig_3.png                                  |   Bin [31m0[m -> [32m23373[m bytes
+ figures/Fig_30.cdr                                 |   Bin [31m0[m -> [32m1114776[m bytes
+ figures/Fig_30.png                                 |   Bin [31m0[m -> [32m21303[m bytes
+ figures/Fig_31.cdr                                 |   Bin [31m0[m -> [32m574722[m bytes
+ figures/Fig_31.png                                 |   Bin [31m0[m -> [32m26534[m bytes
+ figures/Fig_32.cdr                                 |   Bin [31m0[m -> [32m569475[m bytes
+ figures/Fig_32.png                                 |   Bin [31m0[m -> [32m16163[m bytes
+ figures/Fig_33.cdr                                 |   Bin [31m0[m -> [32m1120302[m bytes
+ figures/Fig_33.png                                 |   Bin [31m0[m -> [32m34176[m bytes
+ figures/Fig_34.cdr                                 |   Bin [31m0[m -> [32m1781227[m bytes
+ figures/Fig_34.png                                 |   Bin [31m0[m -> [32m50339[m bytes
+ figures/Fig_35.cdr                                 |   Bin [31m0[m -> [32m1779752[m bytes
+ figures/Fig_35.png                                 |   Bin [31m0[m -> [32m40677[m bytes
+ figures/Fig_36.cdr                                 |   Bin [31m0[m -> [32m2718306[m bytes
+ figures/Fig_36.png                                 |   Bin [31m0[m -> [32m31286[m bytes
+ figures/Fig_37.cdr                                 |   Bin [31m0[m -> [32m567740[m bytes
+ figures/Fig_37.png                                 |   Bin [31m0[m -> [32m12183[m bytes
+ figures/Fig_38.cdr                                 |   Bin [31m0[m -> [32m2331036[m bytes
+ figures/Fig_38.png                                 |   Bin [31m0[m -> [32m94742[m bytes
+ figures/Fig_39.cdr                                 |   Bin [31m0[m -> [32m20138[m bytes
+ figures/Fig_39.png                                 |   Bin [31m0[m -> [32m1055632[m bytes
+ figures/Fig_4.cdr                                  |   Bin [31m0[m -> [32m1118898[m bytes
+ figures/Fig_4.png                                  |   Bin [31m0[m -> [32m54707[m bytes
+ figures/Fig_40.cdr                                 |   Bin [31m0[m -> [32m22441[m bytes
+ figures/Fig_40.png                                 |   Bin [31m0[m -> [32m18374[m bytes
+ figures/Fig_41.cdr                                 |   Bin [31m0[m -> [32m682967[m bytes
+ figures/Fig_41.png                                 |   Bin [31m0[m -> [32m21941[m bytes
+ figures/Fig_42.cdr                                 |   Bin [31m0[m -> [32m1784961[m bytes
+ figures/Fig_42.png                                 |   Bin [31m0[m -> [32m125410[m bytes
+ figures/Fig_43.cdr                                 |   Bin [31m0[m -> [32m1781274[m bytes
+ figures/Fig_43.png                                 |   Bin [31m0[m -> [32m98080[m bytes
+ figures/Fig_44.cdr                                 |   Bin [31m0[m -> [32m2334376[m bytes
+ figures/Fig_44.png                                 |   Bin [31m0[m -> [32m116325[m bytes
+ figures/Fig_45.cdr                                 |   Bin [31m0[m -> [32m1225136[m bytes
+ figures/Fig_45.png                                 |   Bin [31m0[m -> [32m14929[m bytes
+ figures/Fig_46.cdr                                 |   Bin [31m0[m -> [32m3221805[m bytes
+ figures/Fig_46.png                                 |   Bin [31m0[m -> [32m322697[m bytes
+ figures/Fig_47.cdr                                 |   Bin [31m0[m -> [32m2201687[m bytes
+ figures/Fig_47.png                                 |   Bin [31m0[m -> [32m70388[m bytes
+ figures/Fig_48.cdr                                 |   Bin [31m

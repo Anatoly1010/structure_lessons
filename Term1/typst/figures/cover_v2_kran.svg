@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1277" viewBox="0 0 900 1277">
+<rect width="900" height="1277" fill="#ffffff"/>
+<!-- заголовок -->
+<text x="450.0" y="140" font-family="Noto Serif" font-size="62" font-weight="bold" fill="#3B3B38" text-anchor="middle">Курс лекций</text>
+<text x="450.0" y="218" font-family="Noto Serif" font-size="62" font-weight="bold" fill="#3B3B38" text-anchor="middle">по строению вещества</text>
+<line x1="300.0" y1="256" x2="600.0" y2="256" stroke="#1B1B8F" stroke-width="4"/>
+<text x="450.0" y="300" font-family="Noto Serif" font-size="36" fill="#1B1B8F" text-anchor="middle">Часть 1. Строение атомов и молекул</text>
+<!-- стрела крана -->
+<rect x="0" y="362" width="900" height="14" fill="#3B3B38"/>
+<rect x="0" y="420" width="900" height="10" fill="#3B3B38"/>
+<polyline points="0,376 64,420 128,376 192,420 256,376 320,420 384,376 448,420 512,376 576,420 640,376 704,420 768,376 832,420 896,376" fill="none" stroke="#3B3B38" stroke-width="7"/>
+<!-- каретка и трос -->
+<circle cx="476" cy="406" r="15" fill="#3B3B38"/>
+<circle cx="524" cy="406" r="15" fill="#3B3B38"/>
+<rect x="450" y="418" width="100" height="24" rx="4" fill="#3B3B38"/>
+<polygon points="450,442 550,442 528,474 472,474" fill="#3B3B38"/>
+<line x1="500" y1="472" x2="500" y2="510" stroke="#3B3B38" stroke-width="5"/>
+<g transform="translate(467.0,505.7) scale(0.7171) rotate(180 50 66)">
+<path d="M 8,36 C 8,-6 92,-6 92,38 C 92,72 52,88 12,126 L 96,126" fill="none" stroke="#3B3B38" stroke-width="17.1" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<!-- строп и бензильный радикал -->
+<line x1="500" y1="601" x2="500" y2="640" stroke="#1B1B8F" stroke-width="6"/>
+<!-- связи -->
+<line x1="500.0" y1="752.0" x2="597.0" y2="808.0" stroke="#1B1B8F" stroke-width="8"/>
+<line x1="597.0" y1="808.0" x2="597.0" y2="920.0" stroke="#1B1B8F" stroke-width="8"/>
+<line x1="597.0" y1="920.0" x2="500.0" y2="976.0" stroke="#1B1B8F" stroke-width="8"/>
+<line x1="500.0" y1="976.0" x2="403.0" y2="920.0" stroke="#1B1B8F" stroke-width="8"/>
+<line x1="403.0" y1="920.0" x2="403.0" y2="808.0" stroke="#1B1B8F" stroke-width="8"/>
+<line x1="403.0" y1="808.0" x2="500.0" y2="752.0" stroke="#1B1B8F" stroke-width="8"/>
+<line x1="500.0" y1="752.0" x2="500.0" y2="640.0" stroke="#1B1B8F" stroke-width="8"/>
+<!-- узлы: закрашенные — отмеченные, полые — неотмеченные -->
+<circle cx="500.0" cy="752.0" r="24" fill="#ffffff" stroke="#1B1B8F" stroke-width="8"/>
+<circle cx="597.0" cy="920.0" r="24" fill="#ffffff" stroke="#1B1B8F" stroke-width="8"/>
+<circle cx="403.0" cy="920.0" r="24" fill="#ffffff" stroke="#1B1B8F" stroke-width="8"/>
+<circle cx="500.0" cy="640.0" r="24" fill="#1B1B8F"/>
+<circle cx="597.0" cy="808.0" r="24" fill="#1B1B8F"/>
+<circle cx="500.0" cy="976.0" r="24" fill="#1B1B8F"/>
+<circle cx="403.0" cy="808.0" r="24" fill="#1B1B8F"/>
+<!-- кладка -->
+<rect x="30.0" y="1034.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="171.5" y="1034.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="30.0" y="1097.0" width="61.8" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="100.8" y="1097.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="242.2" y="1097.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="383.8" y="1097.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="525.2" y="1097.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="666.8" y="1097.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="808.2" y="1097.0" width="61.8" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="30.0" y="1160.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="171.5" y="1160.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="313.0" y="1160.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="454.5" y="1160.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="596.0" y="1160.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="737.5" y="1160.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="30.0" y="1223.0" width="61.8" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="100.8" y="1223.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="242.2" y="1223.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="383.8" y="1223.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="525.2" y="1223.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="666.8" y="1223.0" width="132.5" height="54.0" rx="3" fill="#3B3B38"/>
+<rect x="808.2" y="1223.0" width="61.8" height="54.0" rx="3" fill="#3B3B38"/>
+</svg>

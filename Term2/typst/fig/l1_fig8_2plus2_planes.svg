@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="8 0 268 78"
+   version="1.1"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg40"
+   sodipodi:docname="l1_fig8_2plus2_planes.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata46">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs44" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     id="namedview42"
+     showgrid="false"
+     inkscape:zoom="6.0578999"
+     inkscape:cx="115.44836"
+     inkscape:cy="39.099278"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg40" />
+  <!-- два этилена торцом: сохраняются плоскости σ1 и σ2 -->
+  <line
+     x1="34"
+     y1="22"
+     x2="34"
+     y2="62"
+     id="line2"
+     style="stroke:#000000;stroke-width:1.29999995" />
+  <line
+     x1="38"
+     y1="22"
+     x2="38"
+     y2="62"
+     id="line4"
+     style="stroke:#000000;stroke-width:1.29999995" />
+  <line
+     x1="78"
+     y1="22"
+     x2="78"
+     y2="62"
+     id="line6"
+     style="stroke:#000000;stroke-width:1.29999995" />
+  <line
+     x1="82"
+     y1="22"
+     x2="82"
+     y2="62"
+     id="line8"
+     style="stroke:#000000;stroke-width:1.29999995" />
+  <line
+     x1="58"
+     y1="12"
+     x2="58"
+     y2="72"
+     id="line10"
+     style="stroke:#c02020;stroke-width:1" />
+  <line
+     x1="18"
+     y1="42"
+     x2="98"
+     y2="42"
+     id="line12"
+     style="stroke:#c02020;stroke-width:1" />
+  <text
+     x="58"
+     y="6"
+     font-size="10px"
+     font-style="italic"
+     id="text16"
+     style="font-style:italic;font-size:10px;text-anchor:middle;fill:#c02020">σ<tspan font-size="7.2px" dy="2.8" id="tspan14" style="font-size:7.19999981px">1</tspan></text>
+  <text
+     x="102.67941"
+     y="43.349262"
+     font-size="10px"
+     font-style="italic"
+     id="text20"
+     style="font-style:italic;font-size:10px;text-anchor:start;fill:#c02020">σ<tspan font-size="7.2px" dy="2.8" id="tspan18" style="font-size:7.19999981px">2</tspan></text>
+  <!-- продукт — циклобутан, обе плоскости сохранены -->
+  <line
+     x1="126"
+     y1="42"
+     x2="161.6"
+     y2="42"
+     stroke="#000000"
+     stroke-width="1.2"
+     id="line22" />
+  <polygon
+     points="161.6,44.48 161.6,39.52 168,42"
+     fill="#000000"
+     stroke="#000000"
+     stroke-width="0.5"
+     id="polygon24" />
+  <polygon
+     points="236,22 236,62 196,62 196,22 "
+     id="polygon26"
+     transform="translate(-2)"
+     style="fill:none;stroke:#000000;stroke-width:1.29999995" />
+  <line
+     x1="214"
+     y1="12"
+     x2="214"
+     y2="72"
+     id="line28"
+     style="stroke:#c02020;stroke-width:1" />
+  <line
+     x1="184"
+     y1="42"
+     x2="244"
+     y2="42"
+     id="line30"
+     style="stroke:#c02020;stroke-width:1" />
+  <text
+     x="214"
+     y="6"
+     font-size="10px"
+     font-style="italic"
+     id="text34"
+     style="font-style:italic;font-size:10px;text-anchor:middle;fill:#c02020">σ<tspan font-size="7.2px" dy="2.8" id="tspan32" style="font-size:7.19999981px">1</tspan></text>
+  <text
+     x="248.34926"
+     y="43.349262"
+     font-size="10px"
+     font-style="italic"
+     id="text38"
+     style="font-style:italic;font-size:10px;text-anchor:start;fill:#c02020">σ<tspan font-size="7.2px" dy="2.8" id="tspan36" style="font-size:7.19999981px">2</tspan></text>
+</svg>

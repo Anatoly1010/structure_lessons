@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 42 640 236"
+   version="1.1"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg63"
+   sodipodi:docname="l9_fig7_hcl.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview63"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.57275649"
+     inkscape:cx="186.81587"
+     inkscape:cy="40.156681"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg63" />
+  <defs
+     id="defs1">
+    <marker
+       id="ah"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.45) rotate(180)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;fill:#000000"
+         id="path1" />
+    </marker>
+  </defs>
+  <line
+     x1="44.11866"
+     y1="250"
+     x2="586.0733"
+     y2="250"
+     stroke="#000000"
+     stroke-width="0.900906"
+     marker-end="url(#ah)"
+     id="line1" />
+  <text
+     x="583.98303"
+     y="223.61635"
+     font-size="12px"
+     text-anchor="middle"
+     id="text1"
+     style="text-align:center;text-anchor:middle"><tspan
+       sodipodi:role="line"
+       id="tspan2"
+       x="583.98303"
+       y="223.61635">волновое</tspan><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       x="583.98303"
+       y="238.61635">число, см<tspan
+   font-size="9px"
+   dy="-4"
+   id="tspan1">–1</tspan></tspan></text>
+  <line
+     x1="44"
+     y1="250.54393"
+     x2="44"
+     y2="51.972843"
+     stroke="#000000"
+     stroke-width="0.887944"
+     marker-end="url(#ah)"
+     id="line2" />
+  <text
+     x="34.690544"
+     y="59.09457"
+     font-size="11px"
+     text-anchor="middle"
+     id="text2"
+     style="font-size:12px"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Noto Serif', 'DejaVu Serif', serif;-inkscape-font-specification:'Noto Serif, DejaVu Serif, serif Italic'"
+       id="tspan63">A</tspan></text>
+  <line
+     x1="58.599998"
+     y1="250"
+     x2="58.599998"
+     y2="255"
+     stroke="#000000"
+     stroke-width="0.7"
+     id="line3" />
+  <text
+     x="58.599998"
+     y="270"
+     font-size="10px"
+     text-anchor="middle"
+     id="text3">2600</text>
+  <line
+     x1="155"
+     y1="250"
+     x2="155"
+     y2="255"
+     stroke="#000000"
+     stroke-width="0.7"
+     id="line4" />
+  <text
+     x="155"
+     y="270"
+     font-size="10px"
+     text-anchor="middle"
+     id="text4">2700</text>
+  <line
+     x1="251.39999"
+     y1="250"
+     x2="251.39999"
+     y2="255"
+     stroke="#000000"
+     stroke-width="0.7"
+     id="line5" />
+  <text
+     x="251.39999"
+     y="270"
+     font-size="10px"
+     text-anchor="middle"
+     id="text5">2800</text>
+  <line
+     x1="347.89999"
+     y1="250"
+     x2="347.89999"
+     y2="255"
+     stroke="#000000"
+     stroke-width="0.7"
+     id="line6" />
+  <text
+     x="347.89999"
+     y="270"
+     font-size="10px"
+     text-anchor="middle"
+     id="text6">2900</text>
+  <line
+     x1="444.29999"
+     y1="250"
+     x2="444.29999"
+     y2="255"
+     stroke="#000000"
+     stroke-width="0.7"
+     id="line7" />
+  <text
+     x="444.29999"
+     y="270"
+     font-size="10px"
+     text-anchor="middle"
+     id="text7">3000</text>
+  <line
+     x1="540.70001"
+     y1="250"
+     x2="540.70001"
+     y2="255"
+     stroke="#000000"
+     stroke-width="0.7"
+     id="line8" />
+  <text
+     x="540.70001"
+     y="270"
+     font-size="10px"
+     text-anchor="middle"
+     id="text8">3100</text>
+  <line
+     x1="314.20001"
+     y1="250"
+     x2="314.20001"
+     y2="126.7"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line9" />
+  <line
+     x1="312.20001"
+     y1="250"
+     x2="312.20001"
+     y2="208.10001"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line10" />
+  <line
+     x1="353.89999"
+     y1="250"
+     x2="353.89999"
+     y2="204.60001"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line11" />
+  <line
+     x1="351.89999"
+     y1="250"
+     x2="351.89999"
+     y2="234.60001"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line12" />
+  <line
+     x1="293.5"
+     y1="250"
+     x2="293.5"
+     y2="81.599998"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line13" />
+  <line
+     x1="291.5"
+     y1="250"
+     x2="291.5"
+     y2="192.7"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line14" />
+  <line
+     x1="372.89999"
+     y1="250"
+     x2="372.89999"
+     y2="126.7"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line15" />
+  <line
+     x1="370.89999"
+     y1="250"
+     x2="370.89999"
+     y2="208.10001"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line16" />
+  <line
+     x1="272.20001"
+     y1="250"
+     x2="272.20001"
+     y2="75"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line17" />
+  <line
+     x1="270.20001"
+     y1="250"
+     x2="270.20001"
+     y2="190.5"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line18" />
+  <line
+     x1="391.29999"
+     y1="250"
+     x2="391.29999"
+     y2="81.599998"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line19" />
+  <line
+     x1="389.29999"
+     y1="250"
+     x2="389.29999"
+     y2="192.7"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line20" />
+  <line
+     x1="250.29999"
+     y1="250"
+     x2="250.29999"
+     y2="98.800003"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line21" />
+  <line
+     x1="248.29999"
+     y1="250"
+     x2="248.29999"
+     y2="198.60001"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line22" />
+  <line
+     x1="409.10001"
+     y1="250"
+     x2="409.10001"
+     y2="75"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line23" />
+  <line
+     x1="407.10001"
+     y1="250"
+     x2="407.10001"
+     y2="190.5"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line24" />
+  <line
+     x1="227.89999"
+     y1="250"
+     x2="227.89999"
+     y2="137.60001"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line25" />
+  <line
+     x1="225.89999"
+     y1="250"
+     x2="225.89999"
+     y2="211.8"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line26" />
+  <line
+     x1="426.39999"
+     y1="250"
+     x2="426.39999"
+     y2="98.800003"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line27" />
+  <line
+     x1="424.29999"
+     y1="250"
+     x2="424.29999"
+     y2="198.60001"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line28" />
+  <line
+     x1="204.89999"
+     y1="250"
+     x2="204.89999"
+     y2="176.89999"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line29" />
+  <line
+     x1="202.8"
+     y1="250"
+     x2="202.8"
+     y2="225.10001"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line30" />
+  <line
+     x1="443"
+     y1="250"
+     x2="443"
+     y2="137.60001"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line31" />
+  <line
+     x1="441"
+     y1="250"
+     x2="441"
+     y2="211.8"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line32" />
+  <line
+     x1="181.3"
+     y1="250"
+     x2="181.3"
+     y2="207.89999"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line33" />
+  <line
+     x1="179.2"
+     y1="250"
+     x2="179.2"
+     y2="235.7"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line34" />
+  <line
+     x1="459.10001"
+     y1="250"
+     x2="459.10001"
+     y2="176.89999"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line35" />
+  <line
+     x1="457.10001"
+     y1="250"
+     x2="457.10001"
+     y2="225.10001"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line36" />
+  <line
+     x1="157.10001"
+     y1="250"
+     x2="157.10001"
+     y2="228.5"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line37" />
+  <line
+     x1="155.10001"
+     y1="250"
+     x2="155.10001"
+     y2="242.7"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line38" />
+  <line
+     x1="474.59998"
+     y1="250"
+     x2="474.59998"
+     y2="207.89999"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line39" />
+  <line
+     x1="472.59998"
+     y1="250"
+     x2="472.59998"
+     y2="235.7"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line40" />
+  <line
+     x1="132.3"
+     y1="250"
+     x2="132.3"
+     y2="240.2"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line41" />
+  <line
+     x1="130.3"
+     y1="250"
+     x2="130.3"
+     y2="246.7"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line42" />
+  <line
+     x1="489.5"
+     y1="250"
+     x2="489.5"
+     y2="228.5"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line43" />
+  <line
+     x1="487.5"
+     y1="250"
+     x2="487.5"
+     y2="242.7"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line44" />
+  <line
+     x1="107"
+     y1="250"
+     x2="107"
+     y2="246"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line45" />
+  <line
+     x1="105"
+     y1="250"
+     x2="105"
+     y2="248.60001"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line46" />
+  <line
+     x1="503.90002"
+     y1="250"
+     x2="503.90002"
+     y2="240.2"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line47" />
+  <line
+     x1="501.90002"
+     y1="250"
+     x2="501.90002"
+     y2="246.7"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line48" />
+  <line
+     x1="81.099998"
+     y1="250"
+     x2="81.099998"
+     y2="248.5"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line49" />
+  <line
+     x1="79"
+     y1="250"
+     x2="79"
+     y2="249.5"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line50" />
+  <line
+     x1="517.59998"
+     y1="250"
+     x2="517.59998"
+     y2="246"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line51" />
+  <line
+     x1="515.59998"
+     y1="250"
+     x2="515.59998"
+     y2="248.60001"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line52" />
+  <line
+     x1="54.599998"
+     y1="250"
+     x2="54.599998"
+     y2="249.5"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line53" />
+  <line
+     x1="52.5"
+     y1="250"
+     x2="52.5"
+     y2="249.8"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line54" />
+  <line
+     x1="530.79999"
+     y1="250"
+     x2="530.79999"
+     y2="248.5"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line55" />
+  <line
+     x1="528.79999"
+     y1="250"
+     x2="528.79999"
+     y2="249.5"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line56" />
+  <line
+     x1="543.5"
+     y1="250"
+     x2="543.5"
+     y2="249.5"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line59" />
+  <line
+     x1="541.40002"
+     y1="250"
+     x2="541.40002"
+     y2="249.8"
+     stroke="#000000"
+     stroke-width="1.1"
+     id="line60" />
+  <text
+     x="271"
+     y="60"
+     font-size="14px"
+     font-style="italic"
+     id="text60">P</text>
+  <text
+     x="406"
+     y="60"
+     font-size="14px"
+     font-style="italic"
+     id="text61">R</text>
+  <line
+     x1="334.39999"
+     y1="250"
+     x2="334.39999"
+     y2="113.53667"
+     stroke="#888888"
+     stroke-width="0.7"
+     stroke-dasharray="4, 3"
+     id="line61" />
+  <text
+     x="334.39999"
+     y="104"
+     font-size="10px"
+     text-anchor="middle"
+     id="text62">нет Q-ветви</text>
+  <text
+     x="92"
+     y="136"
+     font-size="12px"
+     id="text63">HCl</text>
+</svg>

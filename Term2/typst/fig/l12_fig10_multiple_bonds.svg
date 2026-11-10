@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="26 34 284 146"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg30"
+   sodipodi:docname="l12_fig10_multiple_bonds.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.6433346"
+     inkscape:cx="205.88652"
+     inkscape:cy="63.962653"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg30" />
+  <defs
+     id="defs1">
+    <!-- наконечник стрелки в конце линии -->
+    <marker
+       id="ah"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.5) rotate(180)"
+         d="M 8.72,4.03 L -2.21,0.02 L 8.72,-4.00 C 6.97,-1.63 6.98,1.62 8.72,4.03 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:context-stroke;fill:context-stroke"
+         id="path1" />
+    </marker>
+  </defs>
+  <!-- ================= а) двойная связь ================= -->
+  <text
+     x="105.22324"
+     y="173.77168"
+     font-size="10px"
+     fill="#000000"
+     id="text1">а)</text>
+  <!-- силовые линии индуцированного поля -->
+  <ellipse
+     cx="81.37056"
+     cy="94"
+     rx="28.63858"
+     ry="42.00914"
+     fill="none"
+     stroke="#cc0000"
+     stroke-width="0.781722"
+     id="ellipse1" />
+  <ellipse
+     cx="137.25888"
+     cy="94"
+     rx="27.277382"
+     ry="42.018497"
+     fill="none"
+     stroke="#cc0000"
+     stroke-width="0.763004"
+     id="ellipse2" />
+  <!-- этилен: двойная связь и четыре протона -->
+  <text
+     x="96"
+     y="98"
+     font-size="11"
+     text-anchor="middle"
+     fill="#000"
+     id="text2">C</text>
+  <text
+     x="123.13855"
+     y="97.892319"
+     font-size="11px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text3">C</text>
+  <line
+     x1="104"
+     y1="92.598984"
+     x2="116"
+     y2="92.598984"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="line3" />
+  <line
+     x1="103.92386"
+     y1="95.553299"
+     x2="115.92386"
+     y2="95.553299"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="line4" />
+  <text
+     x="74"
+     y="84"
+     font-size="11"
+     text-anchor="middle"
+     fill="#000"
+     id="text4">H</text>
+  <text
+     x="74"
+     y="114"
+     font-size="11"
+     text-anchor="middle"
+     fill="#000"
+     id="text5">H</text>
+  <text
+     x="146"
+     y="84"
+     font-size="11"
+     text-anchor="middle"
+     fill="#000"
+     id="text6">H</text>
+  <text
+     x="146"
+     y="114"
+     font-size="11"
+     text-anchor="middle"
+     fill="#000"
+     id="text7">H</text>
+  <line
+     x1="91.946884"
+     y1="97.296944"
+     x2="80.022247"
+     y2="105.96941"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="line8" />
+  <line
+     x1="128.39902"
+     y1="89.494492"
+     x2="140.13611"
+     y2="82.025436"
+     stroke="#000000"
+     stroke-width="0.960307"
+     id="line9" />
+  <line
+     x1="128.6069"
+     y1="97.70813"
+     x2="139.99077"
+     y2="105.9873"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="line10" />
+  <!-- ток π-электронов вокруг связи -->
+  <!-- внешнее магнитное поле -->
+  <line
+     x1="110"
+     y1="142"
+     x2="110"
+     y2="52"
+     stroke="#000"
+     stroke-width="0.9"
+     marker-end="url(#ah)"
+     id="line11" />
+  <line
+     x1="92.475822"
+     y1="89.968819"
+     x2="80.031715"
+     y2="82.049843"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="line7" />
+  <path
+     d="m 105.49411,85.781485 c 16.27735,-0.63452 31.64386,2.144667 35.12239,6.350972 3.47838,4.206162 -6.12573,8.394443 -21.94814,9.577033 -15.82235,1.1826 -34.6679,-1.25646 -38.701159,-5.536782 -5.058021,-5.367882 7.743837,-9.151338 25.579439,-10.427964"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1.3394"
+     marker-end="url(#ah)"
+     id="path10"
+     sodipodi:nodetypes="csssc"
+     style="stroke:#808080;stroke-width:0.7;stroke-dasharray:none" />
+  <text
+     x="103.48223"
+     y="50.954315"
+     font-size="12px"
+     text-anchor="middle"
+     fill="#000000"
+     font-style="italic"
+     id="text11">B</text>
+  <line
+     x1="99.375633"
+     y1="39.888329"
+     x2="109.37563"
+     y2="39.888329"
+     stroke="#000000"
+     stroke-width="0.6"
+     marker-end="url(#ah)"
+     id="line12" />
+  <!-- индуцированное поле в месте протонов сонаправлено с внешним -->
+  <line
+     x1="170.78172"
+     y1="105.99999"
+     x2="170.78172"
+     y2="82"
+     stroke="#cc0000"
+     stroke-width="0.9"
+     marker-end="url(#ah)"
+     id="line13" />
+  <text
+     x="176.78172"
+     y="98"
+     font-size="12px"
+     fill="#cc0000"
+     font-style="italic"
+     id="text13">B′</text>
+  <line
+     x1="177.69543"
+     y1="87.086296"
+     x2="185.69543"
+     y2="87.086296"
+     stroke="#cc0000"
+     stroke-width="0.6"
+     marker-end="url(#ah)"
+     id="line14" />
+  <line
+     x1="46"
+     y1="106"
+     x2="46"
+     y2="82"
+     stroke="#cc0000"
+     stroke-width="0.9"
+     marker-end="url(#ah)"
+     id="line15" />
+  <text
+     x="30"
+     y="98"
+     font-size="12px"
+     fill="#cc0000"
+     font-style="italic"
+     id="text15">B′</text>
+  <line
+     x1="30.913706"
+     y1="87.390862"
+     x2="38.913704"
+     y2="87.390862"
+     stroke="#cc0000"
+     stroke-width="0.6"
+     marker-end="url(#ah)"
+     id="line16" />
+  <text
+     x="110"
+     y="158"
+     font-size="10px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text16"><tspan
+   font-style="italic"
+   id="tspan16">δ</tspan>(H) ~ 5–6 м.д.</text>
+  <!-- ================= б) тройная связь ================= -->
+  <text
+     x="259.7056"
+     y="173.93909"
+     font-size="10px"
+     fill="#000000"
+     id="text17">б)</text>
+  <!-- силовые линии индуцированного поля -->
+  <ellipse
+     cx="241.81793"
+     cy="94"
+     rx="16.942083"
+     ry="36.000679"
+     fill="none"
+     stroke="#cc0000"
+     stroke-width="0.798644"
+     id="ellipse17" />
+  <ellipse
+     cx="287.30347"
+     cy="94"
+     rx="18.087248"
+     ry="35.98748"
+     fill="none"
+     stroke="#cc0000"
+     stroke-width="0.825042"
+     id="ellipse18" />
+  <!-- ацетилен: тройная связь вдоль поля -->
+  <text
+     x="264"
+     y="58"
+     font-size="11px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text18">H</text>
+  <text
+     x="264"
+     y="80.646088"
+     font-size="11px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text19">C</text>
+  <text
+     x="264"
+     y="116.76142"
+     font-size="11px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text20">C</text>
+  <text
+     x="264"
+     y="138"
+     font-size="11px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text21">H</text>
+  <line
+     x1="264"
+     y1="61.353912"
+     x2="264"
+     y2="70.353912"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="line21" />
+  <line
+     x1="264"
+     y1="119.0863"
+     x2="264"
+     y2="128.0863"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="line22" />
+  <line
+     x1="260.75375"
+     y1="84"
+     x2="260.75375"
+     y2="106"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="line23" />
+  <line
+     x1="264"
+     y1="84"
+     x2="264"
+     y2="106"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="line24" />
+  <line
+     x1="267.24625"
+     y1="84"
+     x2="267.24625"
+     y2="106"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="line25" />
+  <!-- ток π-электронов вокруг оси связи -->
+  <path
+     d="m 254.49738,88.666321 c 13.88992,-0.725962 31.682,1.064182 34.35227,4.06086 2.67017,2.996586 -4.82094,5.975062 -17.17608,6.83301 -12.35515,0.857949 -25.39718,-0.694687 -29.91206,-3.563174 -4.51507,-2.868578 2.53331,-6.081937 14.21566,-7.368177"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.911079"
+     marker-end="url(#ah)"
+     id="path25"
+     sodipodi:nodetypes="csssc"
+     style="stroke:#808080;stroke-width:0.7;stroke-dasharray:none" />
+  <!-- внешнее магнитное поле -->
+  <line
+     x1="216"
+     y1="141.75201"
+     x2="216"
+     y2="52.168991"
+     stroke="#000000"
+     stroke-width="0.964513"
+     marker-end="url(#ah)"
+     id="line26" />
+  <text
+     x="208"
+     y="50.913704"
+     font-size="12px"
+     text-anchor="middle"
+     fill="#000000"
+     font-style="italic"
+     id="text26">B</text>
+  <line
+     x1="204.07681"
+     y1="39.836891"
+     x2="214.07681"
+     y2="39.836891"
+     stroke="#000000"
+     stroke-width="0.6"
+     marker-end="url(#ah)"
+     id="line27" />
+  <!-- на оси связи индуцированное поле направлено против внешнего -->
+  <line
+     x1="276.88937"
+     y1="84.055763"
+     x2="276.88937"
+     y2="105.0645"
+     stroke="#cc0000"
+     stroke-width="0.922417"
+     marker-end="url(#ah)"
+     id="line28" />
+  <text
+     x="281.18198"
+     y="113.16385"
+     font-size="12px"
+     fill="#cc0000"
+     font-style="italic"
+     id="text28">B′</text>
+  <line
+     x1="281.79111"
+     y1="102.12399"
+     x2="289.79111"
+     y2="102.12399"
+     stroke="#cc0000"
+     stroke-width="0.6"
+     marker-end="url(#ah)"
+     id="line29" />
+  <text
+     x="264"
+     y="158"
+     font-size="10px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text30"><tspan
+   font-style="italic"
+   id="tspan30">δ</tspan>(H) ~ 2–3 м.д.</text>
+  <line
+     x1="250.80019"
+     y1="84.055763"
+     x2="250.80019"
+     y2="105.0645"
+     stroke="#cc0000"
+     stroke-width="0.922417"
+     marker-end="url(#ah)"
+     id="line1" />
+  <text
+     x="235.82806"
+     y="113.16385"
+     font-size="12px"
+     fill="#cc0000"
+     font-style="italic"
+     id="text8">B′</text>
+  <line
+     x1="236.43719"
+     y1="102.12399"
+     x2="244.43719"
+     y2="102.12399"
+     stroke="#cc0000"
+     stroke-width="0.6"
+     marker-end="url(#ah)"
+     id="line17" />
+</svg>

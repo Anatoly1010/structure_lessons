@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="36 37 267 289"
+   version="1.1"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg12"
+   sodipodi:docname="l9_fig9_ortho_para.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.62"
+     inkscape:cx="91.975309"
+     inkscape:cy="180.8642"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker12"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path12" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+    <marker
+       id="ah"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.45) rotate(180)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#cc0000;fill:#cc0000"
+         id="path1" />
+    </marker>
+  </defs>
+  <line
+     x1="185.0"
+     y1="275.0"
+     x2="280.0"
+     y2="275.0"
+     stroke="#000"
+     stroke-width="1.5"
+     id="line1" />
+  <text
+     x="176.0"
+     y="279.0"
+     font-size="12"
+     text-anchor="end"
+     font-style="italic"
+     id="text1">0</text>
+  <line
+     x1="55.0"
+     y1="259.7"
+     x2="150.0"
+     y2="259.7"
+     stroke="#000"
+     stroke-width="1.5"
+     id="line2" />
+  <text
+     x="46.0"
+     y="263.7"
+     font-size="12"
+     text-anchor="end"
+     font-style="italic"
+     id="text2">1</text>
+  <line
+     x1="185.0"
+     y1="229.0"
+     x2="280.0"
+     y2="229.0"
+     stroke="#000"
+     stroke-width="1.5"
+     id="line3" />
+  <text
+     x="176.0"
+     y="233.0"
+     font-size="12"
+     text-anchor="end"
+     font-style="italic"
+     id="text3">2</text>
+  <line
+     x1="55.0"
+     y1="183.0"
+     x2="150.0"
+     y2="183.0"
+     stroke="#000"
+     stroke-width="1.5"
+     id="line4" />
+  <text
+     x="46.0"
+     y="187.0"
+     font-size="12"
+     text-anchor="end"
+     font-style="italic"
+     id="text4">3</text>
+  <line
+     x1="185.0"
+     y1="121.6"
+     x2="280.0"
+     y2="121.6"
+     stroke="#000"
+     stroke-width="1.5"
+     id="line5" />
+  <text
+     x="176.0"
+     y="125.6"
+     font-size="12"
+     text-anchor="end"
+     font-style="italic"
+     id="text5">4</text>
+  <line
+     x1="55.0"
+     y1="44.9"
+     x2="150.0"
+     y2="44.9"
+     stroke="#000"
+     stroke-width="1.5"
+     id="line6" />
+  <text
+     x="46.0"
+     y="48.9"
+     font-size="12"
+     text-anchor="end"
+     font-style="italic"
+     id="text6">5</text>
+  <line
+     x1="298.88889"
+     y1="259.70001"
+     x2="146.58025"
+     y2="259.70001"
+     stroke="#cc0000"
+     stroke-width="1.66256"
+     stroke-dasharray="4, 3"
+     id="line7"
+     style="stroke-width:1.06;stroke-dasharray:4.23999977,4.23999977;stroke-dashoffset:0" />
+  <line
+     x1="199"
+     y1="271.07593"
+     x2="199"
+     y2="263.97791"
+     stroke="#cc0000"
+     stroke-width="0.681118"
+     marker-start="url(#ah)"
+     marker-end="url(#ah)"
+     id="line8"
+     style="marker-start:url(#ConcaveTriangle);marker-end:url(#marker12)" />
+  <path d="M 207.00,269.10 c 1.2,-1.7 2.6,-1.7 3.8,0 c 1.2,1.7 2.6,1.7 3.8,0" stroke="#cc0000" stroke-width="0.9" fill="none" id="text8_x1" />
+  <path d="M 207.00,266.10 c 1.2,-1.7 2.6,-1.7 3.8,0 c 1.2,1.7 2.6,1.7 3.8,0" stroke="#cc0000" stroke-width="0.9" fill="none" id="text8_x2" />
+  <text x="217.00" y="271.3" font-size="11" fill="#cc0000" id="text8">122 см<tspan font-size="8" dy="-4" id="tspan8">–1</tspan></text>
+  <text
+     x="102"
+     y="300"
+     font-size="13"
+     text-anchor="middle"
+     id="text9">орто-H<tspan
+   font-size="10"
+   dy="3"
+   id="tspan9">2</tspan></text>
+  <text
+     x="232"
+     y="300"
+     font-size="13"
+     text-anchor="middle"
+     id="text10">пара-H<tspan
+   font-size="10"
+   dy="3"
+   id="tspan10">2</tspan></text>
+  <text
+     x="102"
+     y="320"
+     font-size="12"
+     text-anchor="middle"
+     id="text11">75 %</text>
+  <text
+     x="232"
+     y="320"
+     font-size="12"
+     text-anchor="middle"
+     id="text12">25 %</text>
+</svg>

@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="30 26 265 269"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg65"
+   sodipodi:docname="l14_fig12_propyl_acetate.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   width="265"
+   height="269"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview65"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.24"
+     inkscape:cx="170.67901"
+     inkscape:cy="71.296295"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg65" />
+  <defs
+     id="defs2">
+    <!-- наконечник стрелки в конце линии -->
+    <marker
+       id="ah"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.45)"
+         d="M 8.72,4.03 -2.21,0.02 8.72,-4 c -1.75,2.37 -1.74,5.62 0,8.03 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1" />
+    </marker>
+    <!-- наконечник стрелки в начале линии -->
+    <marker
+       id="ahs"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.45)"
+         d="M 8.72,4.03 -2.21,0.02 8.72,-4 c -1.75,2.37 -1.74,5.62 0,8.03 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- структурная формула пропилацетата -->
+  <g
+     fill="#000000"
+     font-size="7.5px"
+     text-anchor="middle"
+     id="g7"
+     transform="translate(-10,-2)">
+    <text
+       x="114"
+       y="52"
+       id="text2">CH<tspan
+   font-size="6px"
+   dy="2.5"
+   id="tspan2">3</tspan></text>
+    <text
+       x="134"
+       y="52"
+       id="text3">C</text>
+    <text
+       x="150"
+       y="52"
+       id="text4">O</text>
+    <text
+       x="173"
+       y="52"
+       id="text5">CH<tspan
+   font-size="6px"
+   dy="2.5"
+   id="tspan4">2</tspan></text>
+    <text
+       x="200"
+       y="52"
+       id="text6">CH<tspan
+   font-size="6px"
+   dy="2.5"
+   id="tspan5">2</tspan></text>
+    <text
+       x="227"
+       y="52"
+       id="text7">CH<tspan
+   font-size="6px"
+   dy="2.5"
+   id="tspan6">3</tspan></text>
+  </g>
+  <!-- простые связи цепи -->
+  <g
+     stroke="#000000"
+     stroke-width="0.8"
+     id="g11"
+     transform="translate(-10,-2)">
+    <line
+       x1="123"
+       y1="49.299999"
+       x2="130"
+       y2="49.299999"
+       id="line7" />
+    <line
+       x1="139"
+       y1="49.299999"
+       x2="146"
+       y2="49.299999"
+       id="line8" />
+    <line
+       x1="156"
+       y1="49.299999"
+       x2="163"
+       y2="49.299999"
+       id="line9" />
+    <line
+       x1="183"
+       y1="49.299999"
+       x2="190"
+       y2="49.299999"
+       id="line10" />
+    <line
+       x1="210"
+       y1="49.299999"
+       x2="217"
+       y2="49.299999"
+       id="line11" />
+  </g>
+  <!-- карбонильная двойная связь -->
+  <line
+     x1="123"
+     y1="43"
+     x2="123"
+     y2="37.5"
+     id="line12"
+     style="stroke:#000000;stroke-width:0.8" />
+  <line
+     x1="125"
+     y1="43"
+     x2="125"
+     y2="37.5"
+     id="line13"
+     style="stroke:#000000;stroke-width:0.8" />
+  <text
+     x="124"
+     y="35.617283"
+     font-size="7.5px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text13">O</text>
+  <!-- нумерация групп -->
+  <g
+     fill="#000000"
+     font-size="6px"
+     text-anchor="middle"
+     id="g17"
+     transform="translate(-12)">
+    <text
+       x="114"
+       y="40"
+       id="text14">4</text>
+    <text
+       x="173"
+       y="40"
+       id="text15">3</text>
+    <text
+       x="200"
+       y="40"
+       id="text16">2</text>
+    <text
+       x="227"
+       y="40"
+       id="text17">1</text>
+  </g>
+  <!-- рамка двумерной карты -->
+  <line
+     x1="50"
+     y1="62"
+     x2="270"
+     y2="62"
+     stroke="#000000"
+     stroke-width="0.8"
+     id="line17" />
+  <line
+     x1="270"
+     y1="62"
+     x2="270"
+     y2="272"
+     stroke="#000000"
+     stroke-width="0.8"
+     id="line18" />
+  <!-- оси химических сдвигов -->
+  <line
+     x1="50"
+     y1="272"
+     x2="50"
+     y2="52"
+     stroke="#000000"
+     stroke-width="0.9"
+     marker-end="url(#ah)"
+     id="line19" />
+  <text
+     x="50"
+     y="44"
+     font-size="7.5px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text20"><tspan
+       font-style="italic"
+       id="tspan19">δ</tspan><tspan
+       font-size="6px"
+       dy="2.5"
+       id="tspan20">1</tspan></text>
+  <line
+     x1="50"
+     y1="272"
+     x2="278"
+     y2="272"
+     stroke="#000000"
+     stroke-width="0.9"
+     marker-end="url(#ah)"
+     id="line20" />
+  <text
+     x="283.15433"
+     y="273.99384"
+     font-size="7.5px"
+     fill="#000000"
+     id="text22"><tspan
+       font-style="italic"
+       id="tspan21">δ</tspan><tspan
+       font-size="6px"
+       dy="2.5"
+       id="tspan22">2</tspan></text>
+  <!-- диагональ карты -->
+  <line
+     x1="50"
+     y1="272"
+     x2="270"
+     y2="62"
+     stroke="#000000"
+     stroke-width="0.9"
+     id="line22" />
+  <!-- мультиплеты по горизонтальной оси -->
+  <g
+     stroke="#000000"
+     stroke-width="0.8"
+     id="g35"
+     transform="translate(-10,-28)">
+    <line
+       x1="97.400002"
+       y1="300"
+       x2="97.400002"
+       y2="307"
+       id="line23" />
+    <line
+       x1="100"
+       y1="300"
+       x2="100"
+       y2="307"
+       id="line24" />
+    <line
+       x1="102.6"
+       y1="300"
+       x2="102.6"
+       y2="307"
+       id="line25" />
+    <line
+       x1="125"
+       y1="300"
+       x2="125"
+       y2="307"
+       id="line26" />
+    <line
+       x1="127"
+       y1="300"
+       x2="127"
+       y2="307"
+       id="line27" />
+    <line
+       x1="129"
+       y1="300"
+       x2="129"
+       y2="307"
+       id="line28" />
+    <line
+       x1="131"
+       y1="300"
+       x2="131"
+       y2="307"
+       id="line29" />
+    <line
+       x1="133"
+       y1="300"
+       x2="133"
+       y2="307"
+       id="line30" />
+    <line
+       x1="135"
+       y1="300"
+       x2="135"
+       y2="307"
+       id="line31" />
+    <line
+       x1="183"
+       y1="300"
+       x2="183"
+       y2="307"
+       id="line32" />
+    <line
+       x1="242.39999"
+       y1="300"
+       x2="242.39999"
+       y2="307"
+       id="line33" />
+    <line
+       x1="245"
+       y1="300"
+       x2="245"
+       y2="307"
+       id="line34" />
+    <line
+       x1="247.60001"
+       y1="300"
+       x2="247.60001"
+       y2="307"
+       id="line35" />
+  </g>
+  <text
+     x="90"
+     y="290"
+     font-size="6.5px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text35">1</text>
+  <text
+     x="120"
+     y="290"
+     font-size="6.5px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text36">2</text>
+  <text
+     x="173"
+     y="290"
+     font-size="6.5px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text37">4</text>
+  <text
+     x="235"
+     y="290"
+     font-size="6.5px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text38">3</text>
+  <!-- мультиплеты по вертикальной оси -->
+  <g
+     stroke="#000000"
+     stroke-width="0.8"
+     id="g50"
+     transform="translate(-10,-28)">
+    <line
+       x1="53"
+       y1="259.39999"
+       x2="60"
+       y2="259.39999"
+       id="line38" />
+    <line
+       x1="53"
+       y1="262"
+       x2="60"
+       y2="262"
+       id="line39" />
+    <line
+       x1="53"
+       y1="264.60001"
+       x2="60"
+       y2="264.60001"
+       id="line40" />
+    <line
+       x1="53"
+       y1="228"
+       x2="60"
+       y2="228"
+       id="line41" />
+    <line
+       x1="53"
+       y1="230"
+       x2="60"
+       y2="230"
+       id="line42" />
+    <line
+       x1="53"
+       y1="232"
+       x2="60"
+       y2="232"
+       id="line43" />
+    <line
+       x1="53"
+       y1="234"
+       x2="60"
+       y2="234"
+       id="line44" />
+    <line
+       x1="53"
+       y1="236"
+       x2="60"
+       y2="236"
+       id="line45" />
+    <line
+       x1="53"
+       y1="238"
+       x2="60"
+       y2="238"
+       id="line46" />
+    <line
+       x1="53"
+       y1="182"
+       x2="60"
+       y2="182"
+       id="line47" />
+    <line
+       x1="53"
+       y1="121.4"
+       x2="60"
+       y2="121.4"
+       id="line48" />
+    <line
+       x1="53"
+       y1="124"
+       x2="60"
+       y2="124"
+       id="line49" />
+    <line
+       x1="53"
+       y1="126.6"
+       x2="60"
+       y2="126.6"
+       id="line50" />
+  </g>
+  <text
+     x="37"
+     y="237"
+     font-size="6.5px"
+     text-anchor="end"
+     fill="#000000"
+     id="text50">1</text>
+  <text
+     x="37"
+     y="208"
+     font-size="6.5px"
+     text-anchor="end"
+     fill="#000000"
+     id="text51">2</text>
+  <text
+     x="37"
+     y="157"
+     font-size="6.5px"
+     text-anchor="end"
+     fill="#000000"
+     id="text52">4</text>
+  <text
+     x="37"
+     y="99"
+     font-size="6.5px"
+     text-anchor="end"
+     fill="#000000"
+     id="text53">3</text>
+  <!-- вспомогательные линии через пики -->
+  <g
+     stroke="#cc0000"
+     stroke-width="0.5"
+     stroke-dasharray="3, 3"
+     id="g58"
+     transform="translate(-10,-28)">
+    <line
+       x1="100"
+       y1="300"
+       x2="100"
+       y2="233"
+       id="line53" />
+    <line
+       x1="130"
+       y1="300"
+       x2="130"
+       y2="124"
+       id="line54" />
+    <line
+       x1="245"
+       y1="300"
+       x2="245"
+       y2="124"
+       id="line55" />
+    <line
+       x1="60"
+       y1="262"
+       x2="130"
+       y2="262"
+       id="line56" />
+    <line
+       x1="60"
+       y1="233"
+       x2="245"
+       y2="233"
+       id="line57" />
+    <line
+       x1="60"
+       y1="124"
+       x2="245"
+       y2="124"
+       id="line58" />
+  </g>
+  <!-- диагональные пики -->
+  <g
+     fill="#000000"
+     id="g61"
+     transform="translate(-10,-28)">
+    <circle
+       cx="100"
+       cy="262"
+       r="2.5"
+       id="circle58" />
+    <circle
+       cx="130"
+       cy="233"
+       r="2.5"
+       id="circle59" />
+    <circle
+       cx="183"
+       cy="182"
+       r="2.5"
+       id="circle60" />
+    <circle
+       cx="245"
+       cy="124"
+       r="2.5"
+       id="circle61" />
+  </g>
+  <!-- кросс-пики -->
+  <g
+     fill="#000000"
+     id="g65"
+     transform="translate(-10,-28)">
+    <circle
+       cx="100"
+       cy="233"
+       r="2.5"
+       id="circle62" />
+    <circle
+       cx="130"
+       cy="262"
+       r="2.5"
+       id="circle63" />
+    <circle
+       cx="130"
+       cy="124"
+       r="2.5"
+       id="circle64" />
+    <circle
+       cx="245"
+       cy="233"
+       r="2.5"
+       id="circle65" />
+  </g>
+</svg>

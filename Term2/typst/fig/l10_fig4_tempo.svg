@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="2 10 196 142"
+   version="1.1"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <!-- пиперидиновое кольцо: N сверху, C2 и C6 несут по две метильные группы -->
+  <g stroke="#000" stroke-width="1.6" fill="none" stroke-linecap="round">
+    <!-- связи N-C2 и N-C6, укорочены у надписи N -->
+    <line x1="106.4" y1="61.5" x2="139.0" y2="77.5" />
+    <line x1="93.6"  y1="61.5" x2="61.0"  y2="77.5" />
+    <!-- остальная часть кольца -->
+    <line x1="139.0" y1="77.5" x2="139.0" y2="122.5" />
+    <line x1="139.0" y1="122.5" x2="100.0" y2="145.0" />
+    <line x1="100.0" y1="145.0" x2="61.0"  y2="122.5" />
+    <line x1="61.0"  y1="122.5" x2="61.0"  y2="77.5" />
+    <!-- связь N-O -->
+    <line x1="100.0" y1="46.0" x2="100.0" y2="34.0" />
+    <!-- метильные группы при C2 и C6 -->
+    <line x1="139.0" y1="77.5" x2="164.8" y2="66.6" />
+    <line x1="139.0" y1="77.5" x2="164.8" y2="88.4" />
+    <line x1="61.0"  y1="77.5" x2="35.2"  y2="66.6" />
+    <line x1="61.0"  y1="77.5" x2="35.2"  y2="88.4" />
+  </g>
+  <!-- атомы N и O -->
+  <text x="100" y="59.5" font-size="14px" text-anchor="middle">N</text>
+  <text x="100" y="30.0" font-size="14px" text-anchor="middle">O</text>
+  <!-- неспаренный электрон -->
+  <circle cx="114" cy="20" r="2.2" fill="#000" />
+  <!-- метильные группы подписаны явно -->
+  <text x="169" y="64" font-size="11px">CH<tspan font-size="8px" dy="3">3</tspan></text>
+  <text x="169" y="93" font-size="11px">CH<tspan font-size="8px" dy="3">3</tspan></text>
+  <text x="31" y="64" font-size="11px" text-anchor="end">H<tspan font-size="8px" dy="3">3</tspan><tspan font-size="11px" dy="-3">C</tspan></text>
+  <text x="31" y="93" font-size="11px" text-anchor="end">H<tspan font-size="8px" dy="3">3</tspan><tspan font-size="11px" dy="-3">C</tspan></text>
+</svg>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="12 14 289 72"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg10"
+   sodipodi:docname="l14_fig8_stimulated.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   width="289"
+   height="72"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.966443"
+     inkscape:cx="204.46531"
+     inkscape:cy="45.884941"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <defs
+     id="defs2">
+    <!-- наконечник стрелки в конце линии -->
+    <marker
+       id="ah"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.45)"
+         d="M 8.72,4.03 -2.21,0.02 8.72,-4 c -1.75,2.37 -1.74,5.62 0,8.03 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1" />
+    </marker>
+    <!-- наконечник стрелки в начале линии -->
+    <marker
+       id="ahs"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.45)"
+         d="M 8.72,4.03 -2.21,0.02 8.72,-4 c -1.75,2.37 -1.74,5.62 0,8.03 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- ось времени -->
+  <line
+     x1="18"
+     y1="70"
+     x2="286"
+     y2="70"
+     stroke="#000000"
+     stroke-width="0.8"
+     marker-end="url(#ah)"
+     id="line2" />
+  <text
+     x="290.99152"
+     y="73.24366"
+     font-size="10px"
+     font-style="italic"
+     fill="#000000"
+     id="text2">t</text>
+  <!-- три импульса 90 градусов -->
+  <rect
+     x="28"
+     y="36"
+     width="7"
+     height="34"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="1"
+     id="rect2" />
+  <text
+     x="31.5"
+     y="30"
+     font-size="10px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text3"><tspan
+   font-style="italic"
+   id="tspan2">π</tspan>/2</text>
+  <rect
+     x="88"
+     y="36"
+     width="7"
+     height="34"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="1"
+     id="rect3" />
+  <text
+     x="91.5"
+     y="30"
+     font-size="10px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text4"><tspan
+   font-style="italic"
+   id="tspan3">π</tspan>/2</text>
+  <rect
+     x="160"
+     y="36"
+     width="7"
+     height="34"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="1"
+     id="rect4" />
+  <text
+     x="163.5"
+     y="30"
+     font-size="10px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text5"><tspan
+   font-style="italic"
+   id="tspan4">π</tspan>/2</text>
+  <!-- интервалы между импульсами -->
+  <text
+     x="59.5"
+     y="55"
+     font-size="10px"
+     text-anchor="middle"
+     font-style="italic"
+     fill="#000000"
+     id="text6">τ</text>
+  <text
+     x="125.5"
+     y="55"
+     font-size="10px"
+     text-anchor="middle"
+     font-style="italic"
+     fill="#000000"
+     id="text7">T</text>
+  <text
+     x="194"
+     y="55"
+     font-size="10px"
+     text-anchor="middle"
+     font-style="italic"
+     fill="#000000"
+     id="text8">τ</text>
+  <!-- стимулированное эхо -->
+  <polyline
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     points="175.5,69.8 176.0,70.2 176.5,70.8 177.0,71.3 177.5,71.7 178.0,72.1 178.5,72.4 179.0,72.5 179.5,72.5 180.0,72.4 180.5,72.1 181.0,71.6 181.5,71.1 182.0,70.4 182.5,69.6 183.0,68.8        183.5,68.1 184.0,67.4 184.5,66.8 185.0,66.3 185.5,66.1 186.0,66.1 186.5,66.3 187.0,66.8 187.5,67.5 188.0,68.4 188.5,69.4 189.0,70.6 189.5,71.8 190.0,73.0 190.5,74.1 191.0,75.0        191.5,75.6 192.0,76.0 192.5,76.0 193.0,75.7 193.5,75.0 194.0,73.9 194.5,72.5 195.0,70.9 195.5,69.1 196.0,67.2 196.5,65.4 197.0,63.7 197.5,62.3 198.0,61.3 198.5,60.8 199.0,60.7        199.5,61.2 200.0,62.3 200.5,64.0 201.0,66.1 201.5,68.6 202.0,71.4 202.5,74.3 203.0,77.1 203.5,79.7 204.0,81.8 204.5,83.4 205.0,84.3 205.5,84.3 206.0,83.5 206.5,81.8 207.0,79.3        207.5,76.0 208.0,72.1 208.5,67.8 209.0,63.4 209.5,59.1 210.0,55.1 210.5,51.8 211.0,49.3 211.5,48.0 212.0,49.3 212.5,51.8 213.0,55.1 213.5,59.1 214.0,63.4 214.5,67.8 215.0,72.1        215.5,76.0 216.0,79.3 216.5,81.8 217.0,83.5 217.5,84.3 218.0,84.3 218.5,83.4 219.0,81.8 219.5,79.7 220.0,77.1 220.5,74.3 221.0,71.4 221.5,68.6 222.0,66.1 222.5,64.0 223.0,62.3        223.5,61.2 224.0,60.7 224.5,60.8 225.0,61.3 225.5,62.3 226.0,63.7 226.5,65.4 227.0,67.2 227.5,69.1 228.0,70.9 228.5,72.5 229.0,73.9 229.5,75.0 230.0,75.7 230.5,76.0 231.0,76.0        231.5,75.6 232.0,75.0 232.5,74.1 233.0,73.0 233.5,71.8 234.0,70.6 234.5,69.4 235.0,68.4 235.5,67.5 236.0,66.8 236.5,66.3 237.0,66.1 237.5,66.1 238.0,66.3 238.5,66.8 239.0,67.4        239.5,68.1 240.0,68.8 240.5,69.6 241.0,70.4 241.5,71.1 242.0,71.6 242.5,72.1 243.0,72.4 243.5,72.5 244.0,72.5 244.5,72.4 245.0,72.1 245.5,71.7 246.0,71.3 246.5,70.8 247.0,70.2        247.5,69.8"
+     id="polyline8"
+     style="stroke-linejoin:round"
+     transform="translate(12)" />
+  <text
+     x="225"
+     y="26"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text9">стимулированное</text>
+  <text
+     x="225"
+     y="36"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text10">эхо</text>
+</svg>

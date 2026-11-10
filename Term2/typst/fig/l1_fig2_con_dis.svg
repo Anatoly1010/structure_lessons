@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="55.4 10 215.0 95"
+   version="1.1"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg12"
+   sodipodi:docname="l1_fig3_con_dis.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12">
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path13" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.7909091"
+     inkscape:cx="177.84264"
+     inkscape:cy="48.57868"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <!-- конротаторное вращение: обе концевые группы поворачиваются в одну сторону -->
+  <line
+     x1="60.563454"
+     y1="60"
+     x2="148.5076"
+     y2="60"
+     stroke="#000000"
+     stroke-width="1.16239"
+     id="line1"
+     style="stroke-width:1.3;stroke-dasharray:none" />
+  <g
+     transform="matrix(-0.95105652,-0.30901699,-0.30901699,0.95105652,78,60.000002)"
+     id="g2">
+    <path
+       d="m 0,0 c -5.4,-5.4 -5.4,-13.5 0,-13.5 5.4,0 5.4,8.1 0,13.5 z"
+       fill="#3a5ba0"
+       stroke="#1d3f8f"
+       stroke-width="1"
+       id="path1" />
+    <path
+       d="M 0,0 C -5.4,5.4 -5.4,13.5 0,13.5 5.4,13.5 5.4,5.4 0,0 Z"
+       fill="#ffffff"
+       stroke="#1d3f8f"
+       stroke-width="1"
+       id="path2" />
+  </g>
+  <g
+     transform="rotate(18,-125.41255,434.08009)"
+     id="g4">
+    <path
+       d="m 0,0 c -5.4,-5.4 -5.4,-13.5 0,-13.5 5.4,0 5.4,8.1 0,13.5 z"
+       fill="#ffffff"
+       stroke="#1d3f8f"
+       stroke-width="1"
+       id="path3" />
+    <path
+       d="M 0,0 C -5.4,5.4 -5.4,13.5 0,13.5 5.4,13.5 5.4,5.4 0,0 Z"
+       fill="#3a5ba0"
+       stroke="#1d3f8f"
+       stroke-width="1"
+       id="path4" />
+  </g>
+  <line
+     x1="103"
+     y1="23.284845"
+     x2="103"
+     y2="74"
+     stroke="#c02020"
+     stroke-width="1.03603"
+     id="line4"
+     style="stroke-width:1.1;stroke-dasharray:none;marker-start:url(#ConcaveTriangle)" />
+  <text
+     x="110"
+     y="24"
+     font-size="11px"
+     text-anchor="start"
+     fill="#c02020"
+     font-style="italic"
+     id="text4">C<tspan
+   font-size="7.92px"
+   dy="3.0799999"
+   id="tspan4">2</tspan></text>
+  <text
+     x="103"
+     y="92"
+     font-size="9.5px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text6">конротаторный</text>
+  <!-- дисротаторное вращение: концевые группы поворачиваются навстречу -->
+  <line
+     x1="174.32996"
+     y1="59.946274"
+     x2="265.34518"
+     y2="59.946274"
+     stroke="#000000"
+     stroke-width="1.1825"
+     id="line7"
+     style="stroke-width:1.3;stroke-dasharray:none" />
+  <g
+     transform="rotate(-18,288.41255,-595.06141)"
+     id="g8">
+    <path
+       d="m 0,0 c -5.4,-5.4 -5.4,-13.5 0,-13.5 5.4,0 5.4,8.1 0,13.5 z"
+       fill="#3a5ba0"
+       stroke="#1d3f8f"
+       stroke-width="1"
+       id="path7" />
+    <path
+       d="M 0,0 C -5.4,5.4 -5.4,13.5 0,13.5 5.4,13.5 5.4,5.4 0,0 Z"
+       fill="#ffffff"
+       stroke="#1d3f8f"
+       stroke-width="1"
+       id="path8" />
+  </g>
+  <g
+     transform="rotate(18,-68.412545,793.96397)"
+     id="g10">
+    <path
+       d="m 0,0 c -5.4,-5.4 -5.4,-13.5 0,-13.5 5.4,0 5.4,8.1 0,13.5 z"
+       fill="#ffffff"
+       stroke="#1d3f8f"
+       stroke-width="1"
+       id="path9" />
+    <path
+       d="M 0,0 C -5.4,5.4 -5.4,13.5 0,13.5 5.4,13.5 5.4,5.4 0,0 Z"
+       fill="#3a5ba0"
+       stroke="#1d3f8f"
+       stroke-width="1"
+       id="path10" />
+  </g>
+  <line
+     x1="219"
+     y1="18"
+     x2="219"
+     y2="74"
+     stroke="#c02020"
+     stroke-width="1.1"
+     id="line10" />
+  <text
+     x="226"
+     y="24"
+     font-size="11px"
+     text-anchor="start"
+     fill="#c02020"
+     font-style="italic"
+     id="text10">σ</text>
+  <text
+     x="219"
+     y="92"
+     font-size="9.5px"
+     text-anchor="middle"
+     fill="#000000"
+     id="text12">дисротаторный</text>
+  <path
+     d="m 115.48617,39.346726 q 12.02934,-9.964688 24.69305,-1.501203"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1.2"
+     id="path14" />
+  <polygon
+     points="35.7968,27.6388 35.3772,23.4438 41,25 "
+     fill="#000000"
+     stroke="#000000"
+     stroke-width="0.5"
+     id="polygon14"
+     transform="rotate(38.934708,70.554344,178.12061)" />
+  <path
+     d="M 65.48617,39.346726 Q 77.51551,29.382038 90.17922,37.845523"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1.2"
+     id="path15" />
+  <polygon
+     points="35.3772,23.4438 41,25 35.7968,27.6388 "
+     fill="#000000"
+     stroke="#000000"
+     stroke-width="0.5"
+     id="polygon15"
+     transform="rotate(38.934708,45.554344,107.39483)" />
+  <path
+     d="m 229.69556,39.346726 q 12.02934,-9.964688 24.69305,-1.501203"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1.2"
+     id="path16" />
+  <polygon
+     points="35.7968,27.6388 35.3772,23.4438 41,25 "
+     fill="#000000"
+     stroke="#000000"
+     stroke-width="0.5"
+     id="polygon16"
+     transform="rotate(38.934708,127.65904,339.67143)" />
+  <path
+     d="M 208.19665,39.346726 Q 196.16731,29.382038 183.5036,37.845523"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1.2"
+     id="path17" />
+  <polygon
+     points="41,25 35.7968,27.6388 35.3772,23.4438 "
+     fill="#000000"
+     stroke="#000000"
+     stroke-width="0.5"
+     id="polygon17"
+     transform="matrix(-0.77786261,0.62843438,0.62843438,0.77786261,196.07312,-4.7715913)" />
+</svg>

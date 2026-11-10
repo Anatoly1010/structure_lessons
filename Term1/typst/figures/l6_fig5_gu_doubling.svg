@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="6 27 504 168"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="l6_fig5_gu_doubling.svg"
+   inkscape:version="0.92.1 r15371"
+   width="504"
+   height="168"
+   style="font-family:'Noto Serif', 'DejaVu Serif', serif">
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     id="namedview1"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="251.0551"
+     inkscape:cy="49.001181"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <marker
+       id="ah"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round"
+         id="path4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="ahs"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round"
+         id="path7"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <!-- молекулярный ион H2+: общее электронное облако на двух ядрах -->
+  <ellipse
+     cx="46"
+     cy="109"
+     rx="34"
+     ry="19"
+     style="fill:#e8e8e8;stroke:#000000;stroke-width:1.10000002"
+     id="cloud-h2" />
+  <circle
+     cx="31"
+     cy="109"
+     r="4.5"
+     style="fill:#0000ff;stroke:#0000ff;stroke-width:1.10000002"
+     id="nuc-h2-a" />
+  <circle
+     cx="61"
+     cy="109"
+     r="4.5"
+     style="fill:#0000ff;stroke:#0000ff;stroke-width:1.10000002"
+     id="nuc-h2-b" />
+  <text
+     x="36.5"
+     y="102.5"
+     style="font-size:13px;text-anchor:middle"
+     id="lab-e">e</text>
+  <text
+     x="31"
+     y="145"
+     style="font-style:italic;font-size:15px;text-anchor:middle"
+     id="lab-h2-a">a</text>
+  <text
+     x="61"
+     y="145"
+     style="font-style:italic;font-size:15px;text-anchor:middle"
+     id="lab-h2-b">b</text>
+  <!-- разведение ядер -->
+  <!-- переход к разведённым атомам -->
+  <line
+     x1="104"
+     y1="109"
+     x2="138"
+     y2="109"
+     style="stroke:#000000;stroke-width:1.10000002;marker-end:url(#ah)"
+     id="arrow-diss" />
+  <!-- электрон на ядре b -->
+  <line
+     x1="186"
+     y1="52"
+     x2="224.95496"
+     y2="52"
+     style="stroke:#000000;stroke-width:1.1;stroke-miterlimit:4;stroke-dasharray:2.99999993,2.99999993;stroke-dashoffset:0"
+     id="axis-b" />
+  <ellipse
+     cx="240"
+     cy="52"
+     rx="19"
+     ry="16"
+     style="fill:#e8e8e8;stroke:#000000;stroke-width:1.10000002"
+     id="cloud-b" />
+  <circle
+     cx="180"
+     cy="52"
+     r="4.5"
+     style="fill:#0000ff;stroke:#0000ff;stroke-width:1.10000002"
+     id="nuc-b-a" />
+  <circle
+     cx="240"
+     cy="52"
+     r="4.5"
+     style="fill:#0000ff;stroke:#0000ff;stroke-width:1.10000002"
+     id="nuc-b-b" />
+  <text
+     x="180"
+     y="86"
+     style="font-style:italic;font-size:15px;text-anchor:middle"
+     id="lab-b-a">a</text>
+  <text
+     x="240"
+     y="86"
+     style="font-style:italic;font-size:15px;text-anchor:middle"
+     id="lab-b-b">b</text>
+  <text
+     x="272"
+     y="58"
+     style="font-size:16px"
+     id="lab-psi-b">Ψ<tspan
+   style="font-style:italic;font-size:11px"
+   dy="4"
+   id="tspan30">b</tspan>
+</text>
+  <text
+     x="210"
+     y="116"
+     style="font-size:18px;text-anchor:middle"
+     id="plus-ab">+</text>
+  <!-- электрон на ядре a -->
+  <line
+     x1="197.60831"
+     y1="150"
+     x2="236.38649"
+     y2="150"
+     style="stroke:#000000;stroke-width:1.1;stroke-dasharray:2.99999993,2.99999993;stroke-miterlimit:4;stroke-dashoffset:0"
+     id="axis-a" />
+  <ellipse
+     cx="180"
+     cy="150"
+     rx="19"
+     ry="16"
+     style="fill:#e8e8e8;stroke:#000000;stroke-width:1.10000002"
+     id="cloud-a" />
+  <circle
+     cx="180"
+     cy="150"
+     r="4.5"
+     style="fill:#0000ff;stroke:#0000ff;stroke-width:1.10000002"
+     id="nuc-a-a" />
+  <circle
+     cx="240"
+     cy="150"
+     r="4.5"
+     style="fill:#0000ff;stroke:#0000ff;stroke-width:1.10000002"
+     id="nuc-a-b" />
+  <text
+     x="180"
+     y="184"
+     style="font-style:italic;font-size:15px;text-anchor:middle"
+     id="lab-a-a">a</text>
+  <text
+     x="240"
+     y="184"
+     style="font-style:italic;font-size:15px;text-anchor:middle"
+     id="lab-a-b">b</text>
+  <text
+     x="272"
+     y="156"
+     style="font-size:16px"
+     id="lab-psi-a">Ψ<tspan
+   style="font-style:italic;font-size:11px"
+   dy="4"
+   id="tspan40">a</tspan>
+</text>
+  <!-- переход к симметричной и антисимметричной комбинациям -->
+  <line
+     x1="312"
+     y1="109"
+     x2="352"
+     y2="109"
+     style="stroke:#000000;stroke-width:1.10000002;marker-start:url(#ahs);marker-end:url(#ah)"
+     id="arrow-comb" />
+  <!-- чётная комбинация: одна фаза на обоих ядрах -->
+  <ellipse
+     cx="426"
+     cy="52"
+     rx="46"
+     ry="19"
+     style="fill:#e8e8e8;stroke:#000000;stroke-width:1.10000002"
+     id="cloud-g" />
+  <circle
+     cx="401"
+     cy="52"
+     r="4.5"
+     style="fill:#0000ff;stroke:#0000ff;stroke-width:1.10000002"
+     id="nuc-g-a" />
+  <circle
+     cx="451"
+     cy="52"
+     r="4.5"
+     style="fill:#0000ff;stroke:#0000ff;stroke-width:1.10000002"
+     id="nuc-g-b" />
+  <text
+     x="401"
+     y="86"
+     style="font-style:italic;font-size:15px;text-anchor:middle"
+     id="lab-g-a">a</text>
+  <text
+     x="451"
+     y="86"
+     style="font-style:italic;font-size:15px;text-anchor:middle"
+     id="lab-g-b">b</text>
+  <text
+     x="484"
+     y="58"
+     style="font-size:16px"
+     id="lab-psi-g">Ψ<tspan
+   style="font-style:italic;font-size:11px"
+   dy="4"
+   id="tspan49">g</tspan>
+</text>
+  <text
+     x="426"
+     y="116"
+     style="font-size:18px;text-anchor:middle"
+     id="plus-gu">+</text>
+  <!-- нечётная комбинация: фазы на ядрах противоположны -->
+  <ellipse
+     cx="401"
+     cy="150"
+     rx="21"
+     ry="18"
+     style="fill:#e8e8e8;stroke:#000000;stroke-width:1.10000002"
+     id="lobe-u-a" />
+  <ellipse
+     cx="451"
+     cy="150"
+     rx="21"
+     ry="18"
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.10000002"
+     id="lobe-u-b" />
+  <circle
+     cx="401"
+     cy="150"
+     r="4.5"
+     style="fill:#0000ff;stroke:#0000ff;stroke-width:1.10000002"
+     id="nuc-u-a" />
+  <circle
+     cx="451"
+     cy="150"
+     r="4.5"
+     style="fill:#0000ff;stroke:#0000ff;stroke-width:1.10000002"
+     id="nuc-u-b" />
+  <text
+     x="401"
+     y="186"
+     style="font-style:italic;font-size:15px;text-anchor:middle"
+     id="lab-u-a">a</text>
+  <text
+     x="451"
+     y="186"
+     style="font-style:italic;font-size:15px;text-anchor:middle"
+     id="lab-u-b">b</text>
+  <text
+     x="484"
+     y="156"
+     style="font-size:16px"
+     id="lab-psi-u">Ψ<tspan
+   style="font-style:italic;font-size:11px"
+   dy="4"
+   id="tspan59">u</tspan>
+</text>
+  <g
+     id="g8505"
+     transform="translate(-19.06066,-93.338095)">
+    <text
+       id="lab-h2"
+       style="font-size:16px;text-anchor:middle"
+       y="170"
+       x="66">H<tspan
+   id="tspan18"
+   dy="4"
+   style="font-size:11px">2</tspan>
+<tspan
+   id="tspan20"
+   style="font-size:11px" />
+</text>
+    <text
+       id="text8484"
+       y="161.15938"
+       x="68.44722"
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:10.66666698px"
+         y="161.15938"
+         x="68.44722"
+         id="tspan8482"
+         sodipodi:role="line">+</tspan></text>
+  </g>
+</svg>

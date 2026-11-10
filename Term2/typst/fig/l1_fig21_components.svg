@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="67.2 1 361.8 384"
+   version="1.1"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg258"
+   sodipodi:docname="l1_fig21_components.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata264">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs262" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     id="namedview260"
+     showgrid="false"
+     inkscape:zoom="1.5596001"
+     inkscape:cx="144.26775"
+     inkscape:cy="239.16387"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg258"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <!-- шапка и разлиновка -->
+  <text
+     x="206"
+     y="20"
+     font-size="9.5px"
+     id="text2"
+     style="font-size:9.5px;text-anchor:middle;fill:#000000">супраповерхностно (s)</text>
+  <text
+     x="352"
+     y="20"
+     font-size="9.5px"
+     id="text4"
+     style="font-size:9.5px;text-anchor:middle;fill:#000000">антараповерхностно (a)</text>
+  <line
+     x1="70.229156"
+     y1="30"
+     x2="426.01447"
+     y2="30"
+     id="line6"
+     style="stroke:#999999;stroke-width:0.98695058;stroke-miterlimit:4;stroke-dasharray:none" />
+  <line
+     x1="136"
+     y1="4"
+     x2="136"
+     y2="382.00204"
+     id="line8"
+     style="stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+  <line
+     x1="280"
+     y1="4"
+     x2="280"
+     y2="382.00204"
+     id="line10"
+     style="stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+  <line
+     x1="70.229156"
+     y1="98"
+     x2="426.01447"
+     y2="98"
+     id="line12"
+     style="stroke:#999999;stroke-width:0.98695058;stroke-miterlimit:4;stroke-dasharray:none" />
+  <line
+     x1="70.229156"
+     y1="172"
+     x2="426.01447"
+     y2="172"
+     id="line14"
+     style="stroke:#999999;stroke-width:0.98695058;stroke-miterlimit:4;stroke-dasharray:none" />
+  <line
+     x1="70.229156"
+     y1="244"
+     x2="426.01447"
+     y2="244"
+     id="line16"
+     style="stroke:#999999;stroke-width:0.98695058;stroke-miterlimit:4;stroke-dasharray:none" />
+  <line
+     x1="70.229156"
+     y1="314"
+     x2="426.01447"
+     y2="314"
+     id="line18"
+     style="stroke:#999999;stroke-width:0.98695058;stroke-miterlimit:4;stroke-dasharray:none" />
+  <!-- компонента: p-орбиталь -->
+  <text
+     x="76"
+     y="58"
+     font-size="9.5px"
+     id="text20"
+     style="font-size:9.5px;text-anchor:start;fill:#000000">p-орбиталь</text>
+  <text
+     x="92"
+     y="71"
+     font-size="9.5px"
+     id="text22"
+     style="font-size:9.5px;text-anchor:start;fill:#000000">(ω)</text>
+  <line
+     x1="184"
+     y1="71.319916"
+     x2="228"
+     y2="71.319916"
+     id="line24"
+     style="stroke:#000000;stroke-width:2.20000005" />
+  <line
+     x1="330"
+     y1="63.773304"
+     x2="374"
+     y2="63.773304"
+     id="line40"
+     style="stroke:#000000;stroke-width:2.20000005" />
+  <!-- компонента: π-связь -->
+  <text
+     x="84"
+     y="136"
+     font-size="9.5px"
+     id="text56"
+     style="font-size:9.5px;text-anchor:start;fill:#000000">π-связь</text>
+  <line
+     x1="176"
+     y1="140"
+     x2="236"
+     y2="140"
+     id="line58"
+     style="stroke:#000000;stroke-width:2.20000005" />
+  <g
+     id="g8681"
+     transform="translate(-6)">
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="path32"
+       d="m 160.21661,113.19416 c 4.54666,14.18666 7.04206,13.30411 17.77939,14.62084" />
+    <polygon
+       style="fill:#000000;stroke:#000000;stroke-width:0.5"
+       id="polygon74"
+       points="178.428,125.626 184,129 177.564,130.005 " />
+  </g>
+  <line
+     x1="322"
+     y1="134"
+     x2="382"
+     y2="134"
+     id="line80"
+     style="stroke:#000000;stroke-width:2.20000005" />
+  <g
+     transform="translate(328,134)"
+     id="g86">
+    <path
+       d="m 0,0 c -5.04,-5.04 -5.04,-12.6 0,-12.6 5.04,0 5.04,7.56 0,12.6 z"
+       id="path82"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -5.04,5.04 -5.04,12.6 0,12.6 5.04,12.6 5.04,5.04 0,0 Z"
+       id="path84"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <g
+     transform="translate(376,134)"
+     id="g92">
+    <path
+       d="m 0,0 c -5.04,-5.04 -5.04,-12.6 0,-12.6 5.04,0 5.04,7.56 0,12.6 z"
+       id="path88"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -5.04,5.04 -5.04,12.6 0,12.6 5.04,12.6 5.04,5.04 0,0 Z"
+       id="path90"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <!-- компонента: сопряжённая -->
+  <text
+     x="68"
+     y="204"
+     font-size="9.5px"
+     id="text102"
+     style="font-size:9.5px;text-anchor:start;fill:#000000">сопряжённая</text>
+  <text
+     x="74.680084"
+     y="217.2267"
+     font-size="9.5px"
+     id="text104"
+     style="font-size:9.5px;text-anchor:start;fill:#000000">π-система</text>
+  <line
+     x1="162"
+     y1="210"
+     x2="196"
+     y2="210"
+     id="line106"
+     style="stroke:#000000;stroke-width:2.20000005" />
+  <line
+     x1="218"
+     y1="210"
+     x2="252"
+     y2="210"
+     id="line108"
+     style="stroke:#000000;stroke-width:2.20000005" />
+  <line
+     x1="174"
+     y1="210"
+     x2="238"
+     y2="210"
+     id="line110"
+     style="stroke:#000000;stroke-width:0.89999998;stroke-dasharray:3, 3" />
+  <path
+     style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1"
+     inkscape:connector-curvature="0"
+     id="path118"
+     d="m 190,210 c -4.68,-4.68 -4.68,-11.7 0,-11.7 4.68,0 4.68,7.02 0,11.7 z" />
+  <path
+     style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1"
+     inkscape:connector-curvature="0"
+     id="path120"
+     d="m 190,210 c -4.68,4.68 -4.68,11.7 0,11.7 4.68,0 4.68,-7.02 0,-11.7 z" />
+  <g
+     transform="translate(224,210)"
+     id="g128">
+    <path
+       d="m 0,0 c -4.68,-4.68 -4.68,-11.7 0,-11.7 4.68,0 4.68,7.02 0,11.7 z"
+       id="path124"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -4.68,4.68 -4.68,11.7 0,11.7 4.68,11.7 4.68,4.68 0,0 Z"
+       id="path126"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <line
+     x1="306.90677"
+     y1="208"
+     x2="340.90677"
+     y2="208"
+     id="line144"
+     style="stroke:#000000;stroke-width:2.2" />
+  <line
+     x1="362.90677"
+     y1="208"
+     x2="396.90677"
+     y2="208"
+     id="line146"
+     style="stroke:#000000;stroke-width:2.2" />
+  <line
+     x1="342.90677"
+     y1="208"
+     x2="396.90677"
+     y2="208"
+     id="line148"
+     style="stroke:#000000;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+  <g
+     transform="translate(334.90678,208)"
+     id="g160">
+    <path
+       d="m 0,0 c -4.68,-4.68 -4.68,-11.7 0,-11.7 4.68,0 4.68,7.02 0,11.7 z"
+       id="path156"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -4.68,4.68 -4.68,11.7 0,11.7 4.68,11.7 4.68,4.68 0,0 Z"
+       id="path158"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <g
+     transform="translate(368.90678,208)"
+     id="g166">
+    <path
+       d="m 0,0 c -4.68,-4.68 -4.68,-11.7 0,-11.7 4.68,0 4.68,7.02 0,11.7 z"
+       id="path162"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -4.68,4.68 -4.68,11.7 0,11.7 4.68,11.7 4.68,4.68 0,0 Z"
+       id="path164"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <!-- компонента: σ-связь -->
+  <text
+     x="86"
+     y="276"
+     font-size="9.5px"
+     id="text182"
+     style="font-size:9.5px;text-anchor:start;fill:#000000">σ-связь</text>
+  <text
+     x="90"
+     y="289"
+     font-size="9.5px"
+     id="text184"
+     style="font-size:9.5px;text-anchor:start;fill:#000000">C—C</text>
+  <ellipse
+     cx="164"
+     cy="286"
+     rx="9"
+     ry="5.5"
+     id="ellipse186"
+     style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+  <ellipse
+     cx="208"
+     cy="286"
+     rx="21"
+     ry="10"
+     id="ellipse188"
+     style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+  <ellipse
+     cx="252"
+     cy="286"
+     rx="9"
+     ry="5.5"
+     id="ellipse190"
+     style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+  <text
+     x="180"
+     y="290"
+     font-size="10px"
+     id="text192"
+     style="font-size:10px;text-anchor:middle;fill:#000000">C</text>
+  <text
+     x="236"
+     y="290"
+     font-size="10px"
+     id="text194"
+     style="font-size:10px;text-anchor:middle;fill:#000000">C</text>
+  <path
+     d="m 176,254 q 2.64,17.9 14.128,21.275"
+     id="path196"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1" />
+  <polygon
+     points="198,293 191.499,293.416 192.757,289.133 "
+     id="polygon198"
+     transform="translate(-2,-16)"
+     style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+  <path
+     d="m 240,254 q -2.64,17.9 -14.128,21.275"
+     id="path200"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1" />
+  <polygon
+     points="222,293 227.243,289.133 228.501,293.416 "
+     id="polygon202"
+     transform="translate(-2,-16)"
+     style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+  <ellipse
+     cx="312"
+     cy="286"
+     rx="9"
+     ry="5.5"
+     id="ellipse204"
+     style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+  <ellipse
+     cx="356"
+     cy="286"
+     rx="21"
+     ry="10"
+     id="ellipse206"
+     style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+  <ellipse
+     cx="400"
+     cy="286"
+     rx="9"
+     ry="5.5"
+     id="ellipse208"
+     style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+  <text
+     x="328"
+     y="290"
+     font-size="10px"
+     id="text210"
+     style="font-size:10px;text-anchor:middle;fill:#000000">C</text>
+  <text
+     x="384"
+     y="290"
+     font-size="10px"
+     id="text212"
+     style="font-size:10px;text-anchor:middle;fill:#000000">C</text>
+  <path
+     d="m 296,254 q -1.32,17.48 8.651,23.025"
+     id="path214"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1" />
+  <polygon
+     points="335.567,294.976 337.736,291.075 342,296 "
+     id="polygon216"
+     transform="translate(-32,-16)"
+     style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+  <path
+     d="m 382,254 q 0.36,15.98 -8.502,20.312"
+     id="path218"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1" />
+  <polygon
+     points="404.518,288.307 406.478,292.317 400,293 "
+     id="polygon220"
+     transform="translate(-32,-16)"
+     style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+  <!-- компонента: σ-связь -->
+  <text
+     x="86"
+     y="344"
+     font-size="9.5px"
+     id="text222"
+     style="font-size:9.5px;text-anchor:start;fill:#000000">σ-связь</text>
+  <text
+     x="89.319916"
+     y="357"
+     font-size="9.5px"
+     id="text224"
+     style="font-size:9.5px;text-anchor:start;fill:#000000">C—H</text>
+  <ellipse
+     cx="172"
+     cy="354"
+     rx="9"
+     ry="5.5"
+     id="ellipse226"
+     style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+  <ellipse
+     cx="216"
+     cy="354"
+     rx="21"
+     ry="10"
+     id="ellipse228"
+     style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+  <text
+     x="188"
+     y="358"
+     font-size="10px"
+     id="text230"
+     style="font-size:10px;text-anchor:middle;fill:#000000">C</text>
+  <text
+     x="244"
+     y="358"
+     font-size="10px"
+     id="text232"
+     style="font-size:10px;text-anchor:middle;fill:#000000">H</text>
+  <path
+     d="m 184,322 q 2.64,17.9 14.128,21.275"
+     id="path234"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1" />
+  <polygon
+     points="192.757,371.133 198,375 191.499,375.416 "
+     id="polygon236"
+     transform="translate(6,-30)"
+     style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+  <path
+     d="m 248,322 q -2.64,17.9 -14.128,21.275"
+     id="path238"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1" />
+  <polygon
+     points="228.501,375.416 222,375 227.243,371.133 "
+     id="polygon240"
+     transform="translate(6,-30)"
+     style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+  <ellipse
+     cx="322"
+     cy="354"
+     rx="9"
+     ry="5.5"
+     id="ellipse242"
+     style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+  <ellipse
+     cx="366"
+     cy="354"
+     rx="21"
+     ry="10"
+     id="ellipse244"
+     style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+  <text
+     x="338"
+     y="358"
+     font-size="10px"
+     id="text246"
+     style="font-size:10px;text-anchor:middle;fill:#000000">C</text>
+  <text
+     x="394"
+     y="358"
+     font-size="10px"
+     id="text248"
+     style="font-size:10px;text-anchor:middle;fill:#000000">H</text>
+  <path
+     d="m 306,322 q -1.32,17.48 8.651,23.025"
+     id="path250"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1" />
+  <polygon
+     points="335.567,376.976 337.736,373.075 342,378 "
+     id="polygon252"
+     transform="translate(-22,-30)"
+     style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+  <path
+     d="m 392,322 q 0.36,15.98 -8.502,20.312"
+     id="path254"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1" />
+  <polygon
+     points="404.518,370.307 406.478,374.317 400,375 "
+     id="polygon256"
+     transform="translate(-22,-30)"
+     style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+  <path
+     sodipodi:nodetypes="cc"
+     style="fill:none;stroke:#000000;stroke-width:1"
+     inkscape:connector-curvature="0"
+     id="path8675"
+     d="m 234.45032,43.874025 c -4.54666,14.186666 -7.04206,13.304108 -17.77939,14.620841" />
+  <polygon
+     style="fill:#000000;stroke:#000000;stroke-width:0.5"
+     transform="matrix(-1,0,0,1,417.59693,9.2397665)"
+     id="polygon8677"
+     points="201.197,47.0397 207,50 200.654,51.4705 " />
+  <g
+     transform="translate(206,71.319915)"
+     id="g30">
+    <path
+       d="M 0,0 C -5.4,5.4 -5.4,13.5 0,13.5 5.4,13.5 5.4,5.4 0,0 Z"
+       id="path28"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="m 0,0 c -5.4,-5.4 -5.4,-13.5 0,-13.5 5.4,0 5.4,8.1 0,13.5 z"
+       id="path26"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <g
+     transform="translate(352,63.773305)"
+     id="g46">
+    <path
+       d="m 0,0 c -5.4,-5.4 -5.4,-13.5 0,-13.5 5.4,0 5.4,8.1 0,13.5 z"
+       id="path42"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -5.4,5.4 -5.4,13.5 0,13.5 5.4,13.5 5.4,5.4 0,0 Z"
+       id="path44"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <g
+     transform="translate(246,210)"
+     id="g134">
+    <path
+       d="m 0,0 c -4.68,-4.68 -4.68,-11.7 0,-11.7 4.68,0 4.68,7.02 0,11.7 z"
+       id="path130"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -4.68,4.68 -4.68,11.7 0,11.7 4.68,11.7 4.68,4.68 0,0 Z"
+       id="path132"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <g
+     transform="translate(168,210)"
+     id="g116">
+    <path
+       d="m 0,0 c -4.68,-4.68 -4.68,-11.7 0,-11.7 4.68,0 4.68,7.02 0,11.7 z"
+       id="path112"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -4.68,4.68 -4.68,11.7 0,11.7 4.68,11.7 4.68,4.68 0,0 Z"
+       id="path114"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <g
+     transform="translate(390.90678,208)"
+     id="g172">
+    <path
+       d="m 0,0 c -4.68,-4.68 -4.68,-11.7 0,-11.7 4.68,0 4.68,7.02 0,11.7 z"
+       id="path168"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -4.68,4.68 -4.68,11.7 0,11.7 4.68,11.7 4.68,4.68 0,0 Z"
+       id="path170"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <g
+     transform="translate(312.90678,208)"
+     id="g154">
+    <path
+       d="m 0,0 c -4.68,-4.68 -4.68,-11.7 0,-11.7 4.68,0 4.68,7.02 0,11.7 z"
+       id="path150"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -4.68,4.68 -4.68,11.7 0,11.7 4.68,11.7 4.68,4.68 0,0 Z"
+       id="path152"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <g
+     transform="translate(182,140)"
+     id="g64">
+    <path
+       d="m 0,0 c -5.04,-5.04 -5.04,-12.6 0,-12.6 5.04,0 5.04,7.56 0,12.6 z"
+       id="path60"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -5.04,5.04 -5.04,12.6 0,12.6 5.04,12.6 5.04,5.04 0,0 Z"
+       id="path62"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <g
+     id="g8687"
+     transform="matrix(-1,0,0,1,418.45637,0)">
+    <path
+       d="m 160.21661,113.19416 c 4.54666,14.18666 7.04206,13.30411 17.77939,14.62084"
+       id="path8683"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1"
+       sodipodi:nodetypes="cc" />
+    <polygon
+       points="178.428,125.626 184,129 177.564,130.005 "
+       id="polygon8685"
+       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+  </g>
+  <g
+     transform="translate(230,140)"
+     id="g70">
+    <path
+       d="m 0,0 c -5.04,-5.04 -5.04,-12.6 0,-12.6 5.04,0 5.04,7.56 0,12.6 z"
+       id="path66"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -5.04,5.04 -5.04,12.6 0,12.6 5.04,12.6 5.04,5.04 0,0 Z"
+       id="path68"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <g
+     transform="translate(17.082842,-69.649269)"
+     id="g8693">
+    <path
+       d="m 160.21661,113.19416 c 4.54666,14.18666 7.04206,13.30411 17.77939,14.62084"
+       id="path8689"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1"
+       sodipodi:nodetypes="cc" />
+    <polygon
+       points="177.564,130.005 178.428,125.626 184,129 "
+       id="polygon8691"
+       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+  </g>
+  <g
+     id="g8699"
+     transform="translate(163.96821,-76.946893)">
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="path8695"
+       d="m 160.21661,113.19416 c 4.54666,14.18666 7.04206,13.30411 17.77939,14.62084" />
+    <polygon
+       style="fill:#000000;stroke:#000000;stroke-width:0.5"
+       id="polygon8697"
+       points="184,129 177.564,130.005 178.428,125.626 " />
+  </g>
+  <g
+     transform="rotate(-180,269.98089,102.4668)"
+     id="g8705">
+    <path
+       d="m 160.21661,113.19416 c 4.54666,14.18666 7.04206,13.30411 17.77939,14.62084"
+       id="path8701"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1"
+       sodipodi:nodetypes="cc" />
+    <polygon
+       points="184,129 177.564,130.005 178.428,125.626 "
+       id="polygon8703"
+       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+  </g>
+  <g
+     id="g8711"
+     transform="rotate(-180,281.42474,137.73222)">
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="path8707"
+       d="m 160.21661,113.19416 c 4.54666,14.18666 7.04206,13.30411 17.77939,14.62084" />
+    <polygon
+       style="fill:#000000;stroke:#000000;stroke-width:0.5"
+       id="polygon8709"
+       points="184,129 177.564,130.005 178.428,125.626 " />
+  </g>
+  <g
+     transform="translate(140.24418,-6.7929479)"
+     id="g8717">
+    <path
+       d="m 160.21661,113.19416 c 4.54666,14.18666 7.04206,13.30411 17.77939,14.62084"
+       id="path8713"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1"
+       sodipodi:nodetypes="cc" />
+    <polygon
+       points="184,129 177.564,130.005 178.428,125.626 "
+       id="polygon8715"
+       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+  </g>
+  <g
+     transform="translate(-18.811599,69.716745)"
+     id="g8723">
+    <path
+       d="m 160.21661,113.19416 c 4.54666,14.18666 7.04206,13.30411 17.77939,14.62084"
+       id="path8719"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1"
+       sodipodi:nodetypes="cc" />
+    <polygon
+       points="178.428,125.626 184,129 177.564,130.005 "
+       id="polygon8721"
+       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+  </g>
+  <g
+     transform="matrix(-1,0,0,1,432.56255,69.270839)"
+     id="g8729">
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="path8725"
+       d="m 160.21661,113.19416 c 4.54666,14.18666 7.04206,13.30411 17.77939,14.62084" />
+    <polygon
+       style="fill:#000000;stroke:#000000;stroke-width:0.5"
+       id="polygon8727"
+       points="178.428,125.626 184,129 177.564,130.005 " />
+  </g>
+  <g
+     id="g8735"
+     transform="translate(126.12129,67.550885)">
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="path8731"
+       d="m 160.21661,113.19416 c 4.54666,14.18666 7.04206,13.30411 17.77939,14.62084" />
+    <polygon
+       style="fill:#000000;stroke:#000000;stroke-width:0.5"
+       id="polygon8733"
+       points="178.428,125.626 184,129 177.564,130.005 " />
+  </g>
+  <g
+     transform="rotate(180,289.18576,174.10402)"
+     id="g8741">
+    <path
+       d="m 160.21661,113.19416 c 4.54666,14.18666 7.04206,13.30411 17.77939,14.62084"
+       id="path8737"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1"
+       sodipodi:nodetypes="cc" />
+    <polygon
+       points="177.564,130.005 178.428,125.626 184,129 "
+       id="polygon8739"
+       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+  </g>
+</svg>

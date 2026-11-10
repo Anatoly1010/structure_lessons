@@ -1,0 +1,8 @@
+/видео/
+/.migration/
+**/.claude/settings.local.json
+__pycache__/
+*.py[cod]
+*.whl
+Thumbs.db
+.DS_Store

@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="78 66 468 260"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   version="1.1"
+   id="svg66"
+   sodipodi:docname="l4_anisotropy_setup.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata70">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     id="namedview68"
+     showgrid="false"
+     inkscape:zoom="5.6568544"
+     inkscape:cx="-13.081475"
+     inkscape:cy="196.22213"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg66"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs8">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker9944"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path9942"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker9844"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.45) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path9842" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker9324"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path9322"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.45) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker9242"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.45) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path9240" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker9160"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path9158"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.45) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker9078"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path9076"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.45) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker9014"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.45) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path9012" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8530"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.45) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8888"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path8886"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.45) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker8836"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.45) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path8834" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker8802"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.45) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path8800" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path8533"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.45) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       id="ah"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.45) rotate(180)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;fill:#000000"
+         id="path1" />
+    </marker>
+    <marker
+       id="ahs"
+       style="overflow:visible"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.45)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;fill:#000000"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- ===== оси координат (z вверх, y вправо, x на наблюдателя вниз-влево) ===== -->
+  <line
+     style="fill:none;stroke:#000000;stroke-width:1.4;marker-end:url(#marker8802);stroke-miterlimit:4;stroke-dasharray:none"
+     id="line10"
+     y2="88"
+     x2="240"
+     y1="225"
+     x1="240" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:1.4;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none"
+     id="line12"
+     y2="225"
+     x2="486"
+     y1="225"
+     x1="240" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:1.4;marker-end:url(#marker8836);stroke-miterlimit:4;stroke-dasharray:none"
+     id="line14"
+     y2="312"
+     x2="120"
+     y1="225"
+     x1="240" />
+  <text
+     x="240"
+     y="80"
+     font-style="italic"
+     font-size="17"
+     id="text18"
+     style="font-style:italic;font-size:17px;text-anchor:middle">z</text>
+  <text
+     x="494"
+     y="230"
+     font-style="italic"
+     font-size="17"
+     id="text20"
+     style="font-style:italic;font-size:17px">y</text>
+  <text
+     x="105"
+     y="322"
+     font-style="italic"
+     font-size="17"
+     id="text22"
+     style="font-style:italic;font-size:17px">x</text>
+  <!-- ===== образец ===== -->
+  <rect
+     x="230"
+     y="215"
+     width="20"
+     height="20"
+     fill="#fff"
+     stroke="#000"
+     stroke-width="1.3"
+     id="rect24" />
+  <text
+     x="265.77277"
+     y="209.33707"
+     font-size="11"
+     id="text26"
+     style="font-size:11px;text-anchor:middle">образец</text>
+  <!-- ===== возбуждение hν_e вдоль x к образцу ===== -->
+  <line
+     x1="104.49651"
+     y1="272.82492"
+     x2="156.49652"
+     y2="235.82491"
+     id="line28"
+     style="stroke:#000000;stroke-width:1.79999995;marker-end:url(#marker9844)" />
+  <text
+     x="155.50595"
+     y="254.06996"
+     font-size="13"
+     font-style="italic"
+     id="text32"
+     style="font-style:italic;font-size:13px">hν<tspan font-size="9" dy="3" id="tspan30" style="font-size:9px">EX</tspan></text>
+  <!-- поляризация возбуждения E_ex вдоль z (E-поле луча) -->
+  <line
+     x1="130.0782"
+     y1="293.93185"
+     x2="130.0782"
+     y2="217.93185"
+     id="line34"
+     style="stroke:#000000;stroke-width:1.20000005;marker-start:url(#marker9324);marker-end:url(#marker9242)" />
+  <text
+     x="106.17988"
+     y="232.00316"
+     font-size="13"
+     font-style="italic"
+     id="text38"
+     style="font-style:italic;font-size:13px">E<tspan font-size="9" dy="3" id="tspan36" style="font-size:9px">EX</tspan></text>
+  <line
+     x1="107.24516"
+     y1="219.03151"
+     x2="119.24516"
+     y2="219.03151"
+     id="line40"
+     style="stroke:#000000;stroke-width:0.9;marker-end:url(#marker9944)" />
+  <!-- ===== люминесценция hν_fl вдоль y к детектору ===== -->
+  <line
+     x1="266"
+     y1="225"
+     x2="360"
+     y2="225"
+     stroke="#000"
+     stroke-width="1.8"
+     marker-end="url(#ah)"
+     id="line42"
+     style="marker-end:url(#marker9160)" />
+  <text
+     x="346.59155"
+     y="211.55869"
+     font-size="13"
+     font-style="italic"
+     id="text46"
+     style="font-style:italic;font-size:13px;text-anchor:middle">hν<tspan font-size="9" dy="3" id="tspan44" style="font-size:9px">FL</tspan></text>
+  <!-- ===== поляризатор-анализатор перед детектором ===== -->
+  <!-- I_∥ вдоль z -->
+  <line
+     x1="336.11478"
+     y1="297.54086"
+     x2="336.11478"
+     y2="240.54085"
+     id="line50"
+     style="stroke:#000000;stroke-width:1.10000002;marker-start:url(#marker9078);marker-end:url(#marker9014)" />
+  <text
+     x="310.50595"
+     y="245.1405"
+     font-size="13"
+     font-style="italic"
+     id="text54"
+     style="font-style:italic;font-size:13px">I</text>
+  <!-- значок ∥ нарисован штрихами: в Noto Serif его нет, при вставке в PDF он подменяется чужим шрифтом -->
+  <g
+     stroke="#000000"
+     stroke-width="0.9"
+     id="g3">
+    <line
+       x1="318.4"
+       y1="242.3"
+       x2="318.4"
+       y2="249.3"
+       id="line2" />
+    <line
+       x1="321.0"
+       y1="242.3"
+       x2="321.0"
+       y2="249.3"
+       id="line3" />
+  </g>
+  <!-- I_⊥ вдоль x (вниз-влево, в плоскость) -->
+  <line
+     x1="353.75"
+     y1="255.125"
+     x2="317.75"
+     y2="281.125"
+     id="line56"
+     style="stroke:#000000;stroke-width:1.10000002;marker-start:url(#Arrow2Mstart);marker-end:url(#marker8888)" />
+  <text
+     x="360.29037"
+     y="267.74695"
+     font-size="13"
+     font-style="italic"
+     id="text60"
+     style="font-style:italic;font-size:13px">I</text>
+  <!-- значок ⊥ нарисован штрихами по той же причине, что и ∥ -->
+  <g
+     stroke="#000000"
+     stroke-width="0.9"
+     id="g5">
+    <line
+       x1="370.6"
+       y1="265.0"
+       x2="370.6"
+       y2="271.5"
+       id="line4" />
+    <line
+       x1="367.4"
+       y1="271.5"
+       x2="373.8"
+       y2="271.5"
+       id="line5" />
+  </g>
+  <!-- ===== детектор ФЭУ ===== -->
+  <rect
+     x="404"
+     y="203"
+     width="56"
+     height="44"
+     id="rect62"
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.29999995" />
+  <text
+     x="432"
+     y="229"
+     font-size="11"
+     id="text64"
+     style="font-size:11px;text-anchor:middle">ФЭУ</text>
+</svg>

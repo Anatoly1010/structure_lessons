@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="71 18 219 100"
+   version="1.1"
+   font-family="'Noto Serif', 'DejaVu Serif', serif"
+   id="svg58"
+   sodipodi:docname="l1_fig7_supra_antara.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata64">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs62" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     id="namedview60"
+     showgrid="false"
+     inkscape:zoom="20.293964"
+     inkscape:cx="248.79931"
+     inkscape:cy="63.642216"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg58" />
+  <!-- супраповерхностный путь: новые связи с одной стороны плоскости -->
+  <line
+     x1="94"
+     y1="60"
+     x2="148"
+     y2="60"
+     id="line2"
+     style="stroke:#000000;stroke-width:1.29999995" />
+  <g
+     transform="translate(94,60)"
+     id="g8">
+    <path
+       d="m 0,0 c -5.4,-5.4 -5.4,-13.5 0,-13.5 5.4,0 5.4,8.1 0,13.5 z"
+       id="path4"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -5.4,5.4 -5.4,13.5 0,13.5 5.4,13.5 5.4,5.4 0,0 Z"
+       id="path6"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <g
+     transform="translate(148,60)"
+     id="g14">
+    <path
+       d="m 0,0 c -5.4,-5.4 -5.4,-13.5 0,-13.5 5.4,0 5.4,8.1 0,13.5 z"
+       id="path10"
+       inkscape:connector-curvature="0"
+       style="fill:#3a5ba0;stroke:#1d3f8f;stroke-width:1" />
+    <path
+       d="M 0,0 C -5.4,5.4 -5.4,13.5 0,13.5 5.4,13.5 5.4,5.4 0,0 Z"
+       id="path12"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#1d3f8f;stroke-width:1" />
+  </g>
+  <path
+     d="m 97.842483,39.536283 q 23.325647,-25.362979 46.651307,0"
+     id="path16"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none" />
+  <polygon
+     points="94,32 90.0224,27.732 93.9369,26.1662 "
+     id="polygon20"
+     style="fill:#000000;stroke:#000000;stroke-width:0.5"
+     transform="rotate(-21.657158,148.39829,-102.20387)" />
+  <polygon
+     points="43.9776,27.732 40,32 40.0631,26.1662 "
+     id="polygon24"
+     style="fill:#000000;stroke:#000000;stroke-width:0.5"
+     transform="rotate(23.136559,40.750909,170.77233)" />
+  <text
+     x="121"
+     y="90"
+     font-size="9.5px"
+     id="text26"
+     style="font-size:9.5px;text-anchor:middle;fill:#000000">супраповерхностно</text>
+  <!-- антараповерхностный путь: с разных сторон -->
+  <line
+     x1="200"
+     y1="60"
+     x2="254"
+     y2="60"
+     stroke="#000000"
+     stroke-width="1.3"
+     id="line30" />
+  <g
+     transform="translate(200,60) rotate(0)"
+     id="g36">
+    <path
+       d="M 0,0 C -5.4,-5.4 -5.4,-13.5 0,-13.5 c 5.4,0 5.4,8.1 0,13.5 z"
+       fill="#3a5ba0"
+       stroke="#1d3f8f"
+       stroke-width="1"
+       id="path32" />
+    <path
+       d="m 0,0 c -5.4,5.4 -5.4,13.5 0,13.5 c 5.4,0 5.4,-8.1 0,-13.5 z"
+       fill="#ffffff"
+       stroke="#1d3f8f"
+       stroke-width="1"
+       id="path34" />
+  </g>
+  <g
+     transform="translate(254,60) rotate(0)"
+     id="g42">
+    <path
+       d="M 0,0 C -5.4,-5.4 -5.4,-13.5 0,-13.5 c 5.4,0 5.4,8.1 0,13.5 z"
+       fill="#3a5ba0"
+       stroke="#1d3f8f"
+       stroke-width="1"
+       id="path38" />
+    <path
+       d="m 0,0 c -5.4,5.4 -5.4,13.5 0,13.5 c 5.4,0 5.4,-8.1 0,-13.5 z"
+       fill="#ffffff"
+       stroke="#1d3f8f"
+       stroke-width="1"
+       id="path40" />
+  </g>
+  <path
+     d="m 206.9013,42.744004 c 8.21576,-4.970537 20.38966,4.70368 20.3888,17.686194 -8.4e-4,12.58847 9.82362,22.464928 19.12747,16.996983"
+     id="path44"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1.02958059;stroke-miterlimit:4;stroke-dasharray:none"
+     sodipodi:nodetypes="csc" />
+  <polygon
+     points="249.682,66.077 253.453,64.1916 254,70 "
+     id="polygon48"
+     transform="rotate(-97.755855,254.39225,73.600039)"
+     style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+  <polygon
+     points="201,32 201.991,26.2507 205.606,28.4198 "
+     id="polygon52"
+     transform="rotate(28.391081,175.04656,41.82084)"
+     style="fill:#000000;stroke:#000000;stroke-width:0.5"
+     inkscape:transform-center-x="9.1851231"
+     inkscape:transform-center-y="-10.84904" />
+  <text
+     x="227"
+     y="90"
+     font-size="9.5px"
+     id="text54"
+     style="font-size:9.5px;text-anchor:middle;fill:#000000">антараповерхностно</text>
+</svg>
