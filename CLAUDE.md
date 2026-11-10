@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides detailed project guidance to Claude Code and other coding agents. `AGENTS.md` is the repository entry point for agents and refers here for the full conventions.
 
 # Working rules
 
@@ -126,7 +126,7 @@ Migration started on 2026-11-10. The initial local commit is `08c2058` and inclu
 - Keep the current Lesson 10: its newer wording is «на наборы-орбиты», versus «на такие наборы» in the mirror. The older file is preserved locally in `.migration/yandex-originals/` and excluded from Git.
 - The author confirmed that the main Lesson 9 is correct. The extra `Lesson_9_Group_Theory_for_Chemists (2).typ` draft adds no material to merge and inconsistently switches class-size notation from `g(c)` to `n_c`. Its unchanged copy is archived in `.migration/yandex-originals/` and excluded from Git; the book continues to include the main lesson.
 - `.migration/comparison.json` records the original inventories, timestamps, SHA-256 hashes, and differences. `.migration/` is local and ignored by Git.
-- Track only `CLAUDE.md`, `.gitignore`, `.gitattributes`, `fonts/`, and each term's `typst/` sources, bibliography, compiled lesson/book PDFs, and figure directories. `.gitignore` allows only those paths. Root `figures/` is a local, untracked archive of editable masters and exports; both books build using only their respective Typst figure directories. Original PDF exports and scans outside `typst/`, archives, old handouts, extra reference documents, helper scripts, collages, videos, local settings, installers, and migration backups also remain local and must not be added to Git. A fresh clone contains everything needed to build, but not the original source PDFs or root figure archive referenced elsewhere in this guide.
+- Track only `CLAUDE.md`, `AGENTS.md`, `.gitignore`, `.gitattributes`, `fonts/`, and each term's `typst/` sources, bibliography, compiled lesson/book PDFs, and figure directories. `.gitignore` allows only those paths. Root `figures/` is a local, untracked archive of editable masters and exports; both books build using only their respective Typst figure directories. Original PDF exports and scans outside `typst/`, archives, old handouts, extra reference documents, helper scripts, collages, videos, local settings, installers, and migration backups also remain local and must not be added to Git. A fresh clone contains everything needed to build, but not the original source PDFs or root figure archive referenced elsewhere in this guide.
 - Keep `C:\Users\User\YandexDisk\05_Matter\04_Lessons` until the first push and a fresh checkout have been verified. No files in that mirror were changed or removed during preparation.
 
 After migration, commit and push changes from the machine where they were made, and pull before editing on the other machine. Use `git pull --ff-only` with a clean working tree; reconcile any divergent changes without overwriting either copy.
