@@ -128,7 +128,7 @@ $ & (overline(C)_k, overline(C)_p) = epsilon_k^* epsilon_p + (epsilon_k^2)^* eps
 
 #block(sticky: true)[#lit[1) Сделаем корни $x_k$ вещественными]]
 
-$ & x_k = -(epsilon_k^(n-1) + epsilon_k) = -(exp (n-1) (2 pi i k)/n + exp (2 pi i k)/n) = \
+$ & x_k = -(epsilon_k^(n-1) + epsilon_k) = -(exp((n-1) (2 pi i k)/n) + exp (2 pi i k)/n) = \
   & = -(exp (-(2 pi i k)/n) + exp (2 pi i k)/n) = -2 cos (2 pi k)/n \
   & E_k = alpha + 2 beta cos (2 pi k)/n, $
 где $k = 1, 2, …, n$.
